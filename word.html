@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#0a0a0a">
 <title>Hello Words</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&family=Playfair+Display:wght@700;800&family=Noto+Sans:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
   --bg: #0a0a0a;
@@ -43,7 +43,7 @@ header {
 }
 .back-btn:hover { color: var(--text); }
 .brand {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Playfair Display', serif;
   font-style: italic;
   font-size: 20px;
   color: var(--accent);
@@ -93,17 +93,17 @@ header {
   margin-bottom: 16px;
 }
 .word-main {
-  font-family: 'Instrument Serif', serif;
-  font-size: 48px;
+  font-family: 'Playfair Display', serif;
+  font-size: 52px; font-weight: 800;
   line-height: 1;
   color: var(--text);
   margin-bottom: 6px;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
 }
 .phonetic {
   font-size: 14px;
   color: var(--sub);
-  font-family: monospace;
+  font-family: 'Noto Sans', 'Segoe UI', 'Arial Unicode MS', sans-serif; letter-spacing: 0.3px;
   margin-bottom: 20px;
 }
 .tts-btn {
@@ -209,7 +209,7 @@ header {
   text-align: center; padding: 80px 20px;
   color: var(--sub);
 }
-.error-icon { font-size: 48px; margin-bottom: 16px; }
+.error-icon { font-size: 52px; font-weight: 800; margin-bottom: 16px; }
 .error-text { font-size: 16px; margin-bottom: 20px; }
 .error-link {
   display: inline-block;

@@ -95,7 +95,7 @@ let jpCache={}; loadJaCache();
 function esc(v){return String(v??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
 
 async function loadWords(){
-  const res=await fetch('../../../level_data/topik_'+LANG+'_lv'+LEVEL+'.json');
+  const res=await fetch('../../../level_data/topik_'+LANG+'_lv'+LEVEL+'.json?v=1778011576');
   if(!res.ok) throw new Error('Failed');
   return await res.json();
 }

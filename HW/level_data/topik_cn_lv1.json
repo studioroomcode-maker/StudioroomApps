@@ -9,13 +9,13 @@
     "level": "1",
     "lang": "cn",
     "situation": "询问附近商店位置",
-    "example_ko": "집 근처 가게에서 필요한 물건을 샀어요.",
-    "example_tl": "我在家附近的商店买了需要的东西。",
+    "example_ko": "이 근처에 편의점이 있어요?",
+    "example_tl": "这附近有便利店吗？",
     "examples": [
       {
         "situation": "询问附近商店位置",
-        "ko": "집 근처 가게에서 필요한 물건을 샀어요.",
-        "tl": "我在家附近的商店买了需要的东西。"
+        "ko": "이 근처에 편의점이 있어요?",
+        "tl": "这附近有便利店吗？"
       },
       {
         "situation": "告诉朋友购物地点",
@@ -225,7 +225,7 @@
       {
         "situation": "表达亲密友谊",
         "ko": "우리는 아주 가까운 친구예요.",
-        "tl": "我们是关系很亲密的朋友。"
+        "tl": "我们是很好的朋友。"
       },
       {
         "situation": "询问最近医院位置",
@@ -334,57 +334,57 @@
     "level": "1",
     "lang": "cn",
     "situation": "早上走路上学",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저는 매일 아침 학교에 가요.",
+    "example_ko": "저는 매일 아침 학교에 가요.",
     "example_tl": "我每天早上都去学校。",
     "examples": [
       {
         "situation": "早上走路上学",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 매일 아침 학교에 가요.",
+        "ko": "저는 매일 아침 학교에 가요.",
         "tl": "我每天早上都去学校。"
       },
       {
         "situation": "计划周末旅行",
-        "ko": "gemini-3.1-flash-tts-preview\n이번 주말에 부산에 갈 거예요.",
+        "ko": "이번 주말에 부산에 갈 거예요.",
         "tl": "我这个周末要去釜山。"
       },
       {
         "situation": "邀请朋友去公园",
-        "ko": "gemini-3.1-flash-tts-preview\n같이 공원에 갈까요?",
+        "ko": "같이 공원에 갈까요?",
         "tl": "我们一起去公园吧？"
       },
       {
         "situation": "下班回家",
-        "ko": "gemini-3.1-flash-tts-preview\n일이 끝나고 집에 갔어요.",
+        "ko": "일이 끝나고 집에 갔어요.",
         "tl": "下班后我就回家了。"
       },
       {
         "situation": "生病去医院看病",
-        "ko": "gemini-3.1-flash-tts-preview\n아파서 병원에 갔어요.",
+        "ko": "아파서 병원에 갔어요.",
         "tl": "我病了，所以去医院了。"
       },
       {
         "situation": "去餐厅午餐",
-        "ko": "gemini-3.1-flash-tts-preview\n점심에 친구랑 식당에 가요.",
+        "ko": "점심에 친구랑 식당에 가요.",
         "tl": "中午我跟朋友去餐厅。"
       },
       {
         "situation": "公园傍晚散步",
-        "ko": "gemini-3.1-flash-tts-preview\n저녁에 공원에 가서 걸었어요.",
+        "ko": "저녁에 공원에 가서 걸었어요.",
         "tl": "晚上我去公园散步了。"
       },
       {
         "situation": "下午购物计划",
-        "ko": "gemini-3.1-flash-tts-preview\n오후에 마트에 갈 거예요.",
+        "ko": "오후에 마트에 갈 거예요.",
         "tl": "我下午要去超市。"
       },
       {
         "situation": "询问某人的目的地",
-        "ko": "gemini-3.1-flash-tts-preview\n지금 어디에 가요?",
+        "ko": "지금 어디에 가요?",
         "tl": "你现在要去哪儿？"
       },
       {
         "situation": "建议明天去咖啡馆",
-        "ko": "gemini-3.1-flash-tts-preview\n내일 카페에 같이 갈까요?",
+        "ko": "내일 카페에 같이 갈까요?",
         "tl": "我们明天一起去咖啡馆吧？"
       }
     ]
@@ -464,58 +464,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "把书放入书包",
-    "example_ko": "gemini-3.1-flash-tts-preview\n가방에 책을 넣었어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我把书放包里了。",
+    "example_ko": "가방에 책을 넣었어요.",
+    "example_tl": "我把书放包里了。",
     "examples": [
       {
         "situation": "把书放入书包",
-        "ko": "gemini-3.1-flash-tts-preview\n가방에 책을 넣었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把书放包里了。"
+        "ko": "가방에 책을 넣었어요.",
+        "tl": "我把书放包里了。"
       },
       {
         "situation": "购物时买新包包",
-        "ko": "gemini-3.1-flash-tts-preview\n어제 새 가방을 샀어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n昨天我买了新包。"
+        "ko": "어제 새 가방을 샀어요.",
+        "tl": "昨天我买了新包。"
       },
       {
         "situation": "遗忘书包在公交车上",
-        "ko": "gemini-3.1-flash-tts-preview\n가방을 버스에 두고 내렸어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把包忘在公交车上了。"
+        "ko": "가방을 버스에 두고 내렸어요.",
+        "tl": "我把包忘在公交车上了。"
       },
       {
         "situation": "收拾旅行行李",
-        "ko": "gemini-3.1-flash-tts-preview\n여행 가방을 준비했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我准备好旅行包了。"
+        "ko": "여행 가방을 준비했어요.",
+        "tl": "我准备好旅行包了。"
       },
       {
         "situation": "在店里按颜色选包包",
-        "ko": "gemini-3.1-flash-tts-preview\n검은색 가방이 마음에 들어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我喜欢那个黑色的包。"
+        "ko": "검은색 가방이 마음에 들어요.",
+        "tl": "我喜欢那个黑色的包。"
       },
       {
         "situation": "收到生日礼物包",
-        "ko": "gemini-3.1-flash-tts-preview\n생일에 가방을 선물로 받았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我生日的时候收到一个包。"
+        "ko": "생일에 가방을 선물로 받았어요.",
+        "tl": "我生日的时候收到一个包。"
       },
       {
         "situation": "抱怨包包太重",
-        "ko": "gemini-3.1-flash-tts-preview\n이 가방이 너무 무거워요.",
-        "tl": "gemini-3.1-flash-tts-preview\n这个包太重了。"
+        "ko": "이 가방이 너무 무거워요.",
+        "tl": "这个包太重了。"
       },
       {
         "situation": "询问是否见过丢失的包",
-        "ko": "gemini-3.1-flash-tts-preview\n제 가방을 봤어요?",
-        "tl": "gemini-3.1-flash-tts-preview\n你看到我的包了吗？"
+        "ko": "제 가방을 봤어요?",
+        "tl": "你看到我的包了吗？"
       },
       {
         "situation": "每天背包去上班",
-        "ko": "gemini-3.1-flash-tts-preview\n회사에 갈 때 가방을 들어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我去上班的时候会带包。"
+        "ko": "회사에 갈 때 가방을 들어요.",
+        "tl": "我去上班的时候会带包。"
       },
       {
         "situation": "在包里找到钱包",
-        "ko": "gemini-3.1-flash-tts-preview\n가방 안에 지갑이 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n包里有钱包。"
+        "ko": "가방 안에 지갑이 있어요.",
+        "tl": "包里有钱包。"
       }
     ]
   },
@@ -529,58 +529,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "歌手演唱会",
-    "example_ko": "gemini-3.1-flash-tts-preview\n제가 좋아하는 가수가 콘서트를 해요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我喜欢的歌手要开演唱会了。",
+    "example_ko": "제가 좋아하는 가수가 콘서트를 해요.",
+    "example_tl": "我喜欢的歌手要开演唱会了。",
     "examples": [
       {
         "situation": "歌手演唱会",
-        "ko": "gemini-3.1-flash-tts-preview\n제가 좋아하는 가수가 콘서트를 해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我喜欢的歌手要开演唱会了。"
+        "ko": "제가 좋아하는 가수가 콘서트를 해요.",
+        "tl": "我喜欢的歌手要开演唱会了。"
       },
       {
         "situation": "分享童年梦想",
-        "ko": "gemini-3.1-flash-tts-preview\n어릴 때 가수가 되고 싶었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n小时候我想当歌手。"
+        "ko": "어릴 때 가수가 되고 싶었어요.",
+        "tl": "小时候我想当歌手。"
       },
       {
         "situation": "向朋友推荐歌手歌曲",
-        "ko": "gemini-3.1-flash-tts-preview\n그 가수의 노래가 정말 좋아요.",
-        "tl": "gemini-3.1-flash-tts-preview\n那个歌手的歌真的很好听。"
+        "ko": "그 가수의 노래가 정말 좋아요.",
+        "tl": "那个歌手的歌真的很好听。"
       },
       {
         "situation": "观看歌手电视表演",
-        "ko": "gemini-3.1-flash-tts-preview\n유명한 가수가 방송에 나왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n有名的歌手上电视了。"
+        "ko": "유명한 가수가 방송에 나왔어요.",
+        "tl": "有名的歌手上电视了。"
       },
       {
         "situation": "新专辑发布兴奋",
-        "ko": "gemini-3.1-flash-tts-preview\n좋아하는 가수가 새 앨범을 냈어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我喜欢的歌手出新专辑了。"
+        "ko": "좋아하는 가수가 새 앨범을 냈어요.",
+        "tl": "我喜欢的歌手出新专辑了。"
       },
       {
         "situation": "介绍某人的工作",
-        "ko": "gemini-3.1-flash-tts-preview\n그 사람은 유명한 가수예요.",
-        "tl": "gemini-3.1-flash-tts-preview\n他是一位有名的歌手。"
+        "ko": "그 사람은 유명한 가수예요.",
+        "tl": "他是一位有名的歌手。"
       },
       {
         "situation": "询问音乐偏好",
-        "ko": "gemini-3.1-flash-tts-preview\n어떤 가수의 음악을 좋아해요?",
-        "tl": "gemini-3.1-flash-tts-preview\n你喜欢哪个歌手的音乐？"
+        "ko": "어떤 가수의 음악을 좋아해요?",
+        "tl": "你喜欢哪个歌手的音乐？"
       },
       {
         "situation": "分享音乐会的感受",
-        "ko": "gemini-3.1-flash-tts-preview\n그 가수의 콘서트가 정말 좋았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n那个歌手的演唱会真的很棒。"
+        "ko": "그 가수의 콘서트가 정말 좋았어요.",
+        "tl": "那个歌手的演唱会真的很棒。"
       },
       {
         "situation": "介绍最爱的韩国歌手",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 좋아하는 한국 가수가 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我有喜欢的韩国歌手。"
+        "ko": "저는 좋아하는 한국 가수가 있어요.",
+        "tl": "我有喜欢的韩国歌手。"
       },
       {
         "situation": "认识那个歌手吗",
-        "ko": "gemini-3.1-flash-tts-preview\n이 가수 알아요?",
-        "tl": "gemini-3.1-flash-tts-preview\n你认识这个歌手吗？"
+        "ko": "이 가수 알아요?",
+        "tl": "你认识这个歌手吗？"
       }
     ]
   },
@@ -594,58 +594,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "桌上物品位置",
-    "example_ko": "gemini-3.1-flash-tts-preview\n테이블 가운데에 꽃이 있어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n桌子中间有花。",
+    "example_ko": "테이블 가운데에 꽃이 있어요.",
+    "example_tl": "桌子中间有花。",
     "examples": [
       {
         "situation": "桌上物品位置",
-        "ko": "gemini-3.1-flash-tts-preview\n테이블 가운데에 꽃이 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n桌子中间有花。"
+        "ko": "테이블 가운데에 꽃이 있어요.",
+        "tl": "桌子中间有花。"
       },
       {
         "situation": "在广场指出地标",
-        "ko": "gemini-3.1-flash-tts-preview\n광장 가운데에 분수가 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n广场中间有喷泉。"
+        "ko": "광장 가운데에 분수가 있어요.",
+        "tl": "广场中间有喷泉。"
       },
       {
         "situation": "指导拍照",
-        "ko": "gemini-3.1-flash-tts-preview\n사진 찍을 때 가운데에 서 주세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n拍照的时候请站中间。"
+        "ko": "사진 찍을 때 가운데에 서 주세요.",
+        "tl": "拍照的时候请站中间。"
       },
       {
         "situation": "引导某人入座",
-        "ko": "gemini-3.1-flash-tts-preview\n가운데 자리에 앉으세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n请坐中间的位子。"
+        "ko": "가운데 자리에 앉으세요.",
+        "tl": "请坐中间的位子。"
       },
       {
         "situation": "整理架子上的物品",
-        "ko": "gemini-3.1-flash-tts-preview\n책을 선반 가운데에 놓았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把书放在了架子中间。"
+        "ko": "책을 선반 가운데에 놓았어요.",
+        "tl": "我把书放在了架子中间。"
       },
       {
         "situation": "提醒注意道路安全",
-        "ko": "gemini-3.1-flash-tts-preview\n길 가운데로 걷지 마세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n别走在路中间。"
+        "ko": "길 가운데로 걷지 마세요.",
+        "tl": "别走在路中间。"
       },
       {
         "situation": "教室座位安排",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 교실 가운데에 앉아요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我坐在教室中间。"
+        "ko": "저는 교실 가운데에 앉아요.",
+        "tl": "我坐在教室中间。"
       },
       {
         "situation": "公园地标特色",
-        "ko": "gemini-3.1-flash-tts-preview\n공원 가운데에 큰 나무가 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n公园中间有一棵大树。"
+        "ko": "공원 가운데에 큰 나무가 있어요.",
+        "tl": "公园中间有一棵大树。"
       },
       {
         "situation": "群体中的位置",
-        "ko": "gemini-3.1-flash-tts-preview\n친구들 가운데에 제가 서 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我站在朋友们中间。"
+        "ko": "친구들 가운데에 제가 서 있어요.",
+        "tl": "我站在朋友们中间。"
       },
       {
         "situation": "讲解房间布局",
-        "ko": "gemini-3.1-flash-tts-preview\n방 가운데에 침대를 놓았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把床放在了房间中间。"
+        "ko": "방 가운데에 침대를 놓았어요.",
+        "tl": "我把床放在了房间中间。"
       }
     ]
   },
@@ -659,58 +659,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "美术课剪纸",
-    "example_ko": "gemini-3.1-flash-tts-preview\n가위로 색종이를 잘랐어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n用剪刀剪了彩纸。",
+    "example_ko": "가위로 색종이를 잘랐어요.",
+    "example_tl": "用剪刀剪了彩纸。",
     "examples": [
       {
         "situation": "美术课剪纸",
-        "ko": "gemini-3.1-flash-tts-preview\n가위로 색종이를 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n用剪刀剪了彩纸。"
+        "ko": "가위로 색종이를 잘랐어요.",
+        "tl": "用剪刀剪了彩纸。"
       },
       {
         "situation": "韩式烤肉餐厅切肉",
-        "ko": "gemini-3.1-flash-tts-preview\n가위로 고기를 잘라서 먹어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n用剪刀把肉剪开吃。"
+        "ko": "가위로 고기를 잘라서 먹어요.",
+        "tl": "用剪刀把肉剪开吃。"
       },
       {
         "situation": "在家寻找剪刀",
-        "ko": "gemini-3.1-flash-tts-preview\n가위가 어디 있어요?",
-        "tl": "gemini-3.1-flash-tts-preview\n剪刀在哪儿？"
+        "ko": "가위가 어디 있어요?",
+        "tl": "剪刀在哪儿？"
       },
       {
         "situation": "在沙龙剪头发",
-        "ko": "gemini-3.1-flash-tts-preview\n미용사가 가위로 머리를 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n理发师用剪刀剪了头发。"
+        "ko": "미용사가 가위로 머리를 잘랐어요.",
+        "tl": "理发师用剪刀剪了头发。"
       },
       {
         "situation": "玩石头剪刀布",
-        "ko": "gemini-3.1-flash-tts-preview\n가위바위보로 정해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n用剪刀石头布来决定。"
+        "ko": "가위바위보로 정해요.",
+        "tl": "用剪刀石头布来决定。"
       },
       {
         "situation": "包裹礼物",
-        "ko": "gemini-3.1-flash-tts-preview\n선물 포장지를 가위로 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n用剪刀剪了包装纸。"
+        "ko": "선물 포장지를 가위로 잘랐어요.",
+        "tl": "用剪刀剪了包装纸。"
       },
       {
         "situation": "儿童手工活动",
-        "ko": "gemini-3.1-flash-tts-preview\n아이가 가위로 그림을 오렸어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n孩子用剪刀把画剪下来了。"
+        "ko": "아이가 가위로 그림을 오렸어요.",
+        "tl": "孩子用剪刀把画剪下来了。"
       },
       {
         "situation": "缝纫和剪线",
-        "ko": "gemini-3.1-flash-tts-preview\n실을 가위로 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n用剪刀剪断了线。"
+        "ko": "실을 가위로 잘랐어요.",
+        "tl": "用剪刀剪断了线。"
       },
       {
         "situation": "剪刀收起来",
-        "ko": "gemini-3.1-flash-tts-preview\n가위를 서랍에 넣었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把剪刀放进了抽屉。"
+        "ko": "가위를 서랍에 넣었어요.",
+        "tl": "我把剪刀放进了抽屉。"
       },
       {
         "situation": "准备水果食用",
-        "ko": "gemini-3.1-flash-tts-preview\n포도를 가위로 잘라서 먹었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n用剪刀把葡萄剪下来吃了。"
+        "ko": "포도를 가위로 잘라서 먹었어요.",
+        "tl": "用剪刀把葡萄剪下来吃了。"
       }
     ]
   },
@@ -724,58 +724,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "秋天天气描写",
-    "example_ko": "gemini-3.1-flash-tts-preview\n가을에는 날씨가 시원해요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n秋天天气很凉快。",
+    "example_ko": "가을에는 날씨가 시원해요.",
+    "example_tl": "秋天天气很凉快。",
     "examples": [
       {
         "situation": "秋天天气描写",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 날씨가 시원해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天天气很凉快。"
+        "ko": "가을에는 날씨가 시원해요.",
+        "tl": "秋天天气很凉快。"
       },
       {
         "situation": "欣赏秋天的落叶",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에 단풍이 정말 예뻐요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天的枫叶真漂亮。"
+        "ko": "가을에 단풍이 정말 예뻐요.",
+        "tl": "秋天的枫叶真漂亮。"
       },
       {
         "situation": "计划秋季旅行",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에 여행을 가고 싶어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天我想去旅行。"
+        "ko": "가을에 여행을 가고 싶어요.",
+        "tl": "秋天我想去旅行。"
       },
       {
         "situation": "谈论时令食物",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 고구마가 맛있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天的地瓜很好吃。"
+        "ko": "가을에는 고구마가 맛있어요.",
+        "tl": "秋天的地瓜很好吃。"
       },
       {
         "situation": "按季节选择衣服",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 긴팔 옷을 입어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天要穿长袖衣服。"
+        "ko": "가을에는 긴팔 옷을 입어요.",
+        "tl": "秋天要穿长袖衣服。"
       },
       {
         "situation": "分享你最喜欢的季节",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 가을을 제일 좋아해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我最喜欢秋天。"
+        "ko": "저는 가을을 제일 좋아해요.",
+        "tl": "我最喜欢秋天。"
       },
       {
         "situation": "谈论农民的忙碌生活",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 농부들이 바빠요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天农民们很忙。"
+        "ko": "가을에는 농부들이 바빠요.",
+        "tl": "秋天农民们很忙。"
       },
       {
         "situation": "秋季和夏季天气对比",
-        "ko": "gemini-3.1-flash-tts-preview\n가을은 여름보다 시원해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天比夏天凉快。"
+        "ko": "가을은 여름보다 시원해요.",
+        "tl": "秋天比夏天凉快。"
       },
       {
         "situation": "秋天在公园散步",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에 공원에서 산책했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天我在公园散步了。"
+        "ko": "가을에 공원에서 산책했어요.",
+        "tl": "秋天我在公园散步了。"
       },
       {
         "situation": "季节变化描述",
-        "ko": "gemini-3.1-flash-tts-preview\n가을이 오면 나뭇잎이 떨어져요.",
-        "tl": "gemini-3.1-flash-tts-preview\n秋天来了，树叶就掉了。"
+        "ko": "가을이 오면 나뭇잎이 떨어져요.",
+        "tl": "秋天来了，树叶就掉了。"
       }
     ]
   },
@@ -789,58 +789,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "谈论最喜欢的食物",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저는 김치찌개를 가장 좋아해요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我最喜欢泡菜汤。",
+    "example_ko": "저는 김치찌개를 가장 좋아해요.",
+    "example_tl": "我最喜欢泡菜汤。",
     "examples": [
       {
         "situation": "谈论最喜欢的食物",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 김치찌개를 가장 좋아해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我最喜欢泡菜汤。"
+        "ko": "저는 김치찌개를 가장 좋아해요.",
+        "tl": "我最喜欢泡菜汤。"
       },
       {
         "situation": "季节对比",
-        "ko": "gemini-3.1-flash-tts-preview\n여름이 가장 더워요.",
-        "tl": "gemini-3.1-flash-tts-preview\n夏天最热。"
+        "ko": "여름이 가장 더워요.",
+        "tl": "夏天最热。"
       },
       {
         "situation": "介绍家庭成员",
-        "ko": "gemini-3.1-flash-tts-preview\n우리 가족 중에서 동생이 가장 어려요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我们家里弟弟妹妹最小。"
+        "ko": "우리 가족 중에서 동생이 가장 어려요.",
+        "tl": "我们家里弟弟妹妹最小。"
       },
       {
         "situation": "推荐餐厅",
-        "ko": "gemini-3.1-flash-tts-preview\n이 식당이 우리 동네에서 가장 맛있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n这家餐厅是我们小区里最好吃的。"
+        "ko": "이 식당이 우리 동네에서 가장 맛있어요.",
+        "tl": "这家餐厅是我们小区里最好吃的。"
       },
       {
         "situation": "谈论学校科目",
-        "ko": "gemini-3.1-flash-tts-preview\n수학이 가장 어려워요.",
-        "tl": "gemini-3.1-flash-tts-preview\n数学最难。"
+        "ko": "수학이 가장 어려워요.",
+        "tl": "数学最难。"
       },
       {
         "situation": "最好朋友描写",
-        "ko": "gemini-3.1-flash-tts-preview\n민준 씨는 제 가장 친한 친구예요.",
-        "tl": "gemini-3.1-flash-tts-preview\n敏俊是我最好的朋友。"
+        "ko": "민준 씨는 제 가장 친한 친구예요.",
+        "tl": "敏俊是我最好的朋友。"
       },
       {
         "situation": "推荐旅游目的地",
-        "ko": "gemini-3.1-flash-tts-preview\n제주도가 가장 아름다운 곳이에요.",
-        "tl": "gemini-3.1-flash-tts-preview\n济州岛是最美的地方。"
+        "ko": "제주도가 가장 아름다운 곳이에요.",
+        "tl": "济州岛是最美的地方。"
       },
       {
         "situation": "谈论日常作息",
-        "ko": "gemini-3.1-flash-tts-preview\n아침이 가장 바빠요.",
-        "tl": "gemini-3.1-flash-tts-preview\n早上最忙。"
+        "ko": "아침이 가장 바빠요.",
+        "tl": "早上最忙。"
       },
       {
         "situation": "买衣服",
-        "ko": "gemini-3.1-flash-tts-preview\n이 옷이 가장 싸요.",
-        "tl": "gemini-3.1-flash-tts-preview\n这件衣服最便宜。"
+        "ko": "이 옷이 가장 싸요.",
+        "tl": "这件衣服最便宜。"
       },
       {
         "situation": "选择礼物",
-        "ko": "gemini-3.1-flash-tts-preview\n어머니 선물이 가장 커요.",
-        "tl": "gemini-3.1-flash-tts-preview\n妈妈的礼物最大。"
+        "ko": "어머니 선물이 가장 커요.",
+        "tl": "妈妈的礼物最大。"
       }
     ]
   },
@@ -854,58 +854,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "雨天离家出门",
-    "example_ko": "gemini-3.1-flash-tts-preview\n비가 오니까 우산을 가져가세요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n下雨了，把伞带上吧。",
+    "example_ko": "비가 오니까 우산을 가져가세요.",
+    "example_tl": "下雨了，把伞带上吧。",
     "examples": [
       {
         "situation": "雨天离家出门",
-        "ko": "gemini-3.1-flash-tts-preview\n비가 오니까 우산을 가져가세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n下雨了，把伞带上吧。"
+        "ko": "비가 오니까 우산을 가져가세요.",
+        "tl": "下雨了，把伞带上吧。"
       },
       {
         "situation": "准备便当午餐",
-        "ko": "gemini-3.1-flash-tts-preview\n점심 도시락을 학교에 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把午饭带到学校去了。"
+        "ko": "점심 도시락을 학교에 가져갔어요.",
+        "tl": "我把午饭带到学校去了。"
       },
       {
         "situation": "点外带食物",
-        "ko": "gemini-3.1-flash-tts-preview\n음식을 포장해서 가져갈 거예요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我要把食物打包带走。"
+        "ko": "음식을 포장해서 가져갈 거예요.",
+        "tl": "我要把食物打包带走。"
       },
       {
         "situation": "准备野餐",
-        "ko": "gemini-3.1-flash-tts-preview\n소풍에 과자랑 음료수를 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我野餐的时候带了零食和饮料去。"
+        "ko": "소풍에 과자랑 음료수를 가져갔어요.",
+        "tl": "我野餐的时候带了零食和饮料去。"
       },
       {
         "situation": "准备上课",
-        "ko": "gemini-3.1-flash-tts-preview\n교과서를 학교에 가져가야 해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我得把教科书带到学校去。"
+        "ko": "교과서를 학교에 가져가야 해요.",
+        "tl": "我得把教科书带到学校去。"
       },
       {
         "situation": "送礼物给朋友",
-        "ko": "gemini-3.1-flash-tts-preview\n친구 생일 선물을 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把朋友的生日礼物带去了。"
+        "ko": "친구 생일 선물을 가져갔어요.",
+        "tl": "我把朋友的生日礼物带去了。"
       },
       {
         "situation": "去旅行",
-        "ko": "gemini-3.1-flash-tts-preview\n여행에 필요한 짐을 다 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把旅行需要的行李都带去了。"
+        "ko": "여행에 필요한 짐을 다 가져갔어요.",
+        "tl": "我把旅行需要的行李都带去了。"
       },
       {
         "situation": "准备户外运动",
-        "ko": "gemini-3.1-flash-tts-preview\n운동할 때 물을 가져가세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n运动的时候把水带上吧。"
+        "ko": "운동할 때 물을 가져가세요.",
+        "tl": "运动的时候把水带上吧。"
       },
       {
         "situation": "搬到新房子",
-        "ko": "gemini-3.1-flash-tts-preview\n오늘 짐을 새집으로 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我今天把行李带到新家去了。"
+        "ko": "오늘 짐을 새집으로 가져갔어요.",
+        "tl": "我今天把行李带到新家去了。"
       },
       {
         "situation": "探望生病的朋友",
-        "ko": "gemini-3.1-flash-tts-preview\n아픈 친구한테 과일을 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我给生病的朋友带了水果去。"
+        "ko": "아픈 친구한테 과일을 가져갔어요.",
+        "tl": "我给生病的朋友带了水果去。"
       }
     ]
   },
@@ -919,58 +919,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "在餐厅要水",
-    "example_ko": "gemini-3.1-flash-tts-preview\n물 좀 가져다 주세요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n请帮我拿点水过来。",
+    "example_ko": "물 좀 가져다 주세요.",
+    "example_tl": "请帮我拿点水过来。",
     "examples": [
       {
         "situation": "在餐厅要水",
-        "ko": "gemini-3.1-flash-tts-preview\n물 좀 가져다 주세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n请帮我拿点水过来。"
+        "ko": "물 좀 가져다 주세요.",
+        "tl": "请帮我拿点水过来。"
       },
       {
         "situation": "提交作业",
-        "ko": "gemini-3.1-flash-tts-preview\n숙제를 학교에 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把作业带到学校来了。"
+        "ko": "숙제를 학교에 가져왔어요.",
+        "tl": "我把作业带到学校来了。"
       },
       {
         "situation": "欢迎客人",
-        "ko": "gemini-3.1-flash-tts-preview\n커피 두 잔 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我拿来了两杯咖啡。"
+        "ko": "커피 두 잔 가져왔어요.",
+        "tl": "我拿来了两杯咖啡。"
       },
       {
         "situation": "从旅行回来",
-        "ko": "gemini-3.1-flash-tts-preview\n여행에서 선물을 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我旅行回来带了礼物。"
+        "ko": "여행에서 선물을 가져왔어요.",
+        "tl": "我旅行回来带了礼物。"
       },
       {
         "situation": "在家做饭",
-        "ko": "gemini-3.1-flash-tts-preview\n시장에서 채소를 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我从市场把蔬菜带回来了。"
+        "ko": "시장에서 채소를 가져왔어요.",
+        "tl": "我从市场把蔬菜带回来了。"
       },
       {
         "situation": "参加朋友的生日派对",
-        "ko": "gemini-3.1-flash-tts-preview\n케이크를 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把蛋糕带来了。"
+        "ko": "케이크를 가져왔어요.",
+        "tl": "我把蛋糕带来了。"
       },
       {
         "situation": "在课堂上遗忘东西",
-        "ko": "gemini-3.1-flash-tts-preview\n교과서를 집에서 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把教科书从家里带来了。"
+        "ko": "교과서를 집에서 가져왔어요.",
+        "tl": "我把教科书从家里带来了。"
       },
       {
         "situation": "照顾生病的人",
-        "ko": "gemini-3.1-flash-tts-preview\n약을 집에서 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把药从家里带来了。"
+        "ko": "약을 집에서 가져왔어요.",
+        "tl": "我把药从家里带来了。"
       },
       {
         "situation": "向同事寻求帮助",
-        "ko": "gemini-3.1-flash-tts-preview\n저 가방 좀 여기 가져다 주세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n请把那个包拿到这里来。"
+        "ko": "저 가방 좀 여기 가져다 주세요.",
+        "tl": "请把那个包拿到这里来。"
       },
       {
         "situation": "准备野餐",
-        "ko": "gemini-3.1-flash-tts-preview\n공원에 돗자리를 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把野餐垫带到公园来了。"
+        "ko": "공원에 돗자리를 가져왔어요.",
+        "tl": "我把野餐垫带到公园来了。"
       }
     ]
   },
@@ -984,58 +984,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "介绍自己的家人",
-    "example_ko": "gemini-3.1-flash-tts-preview\n우리 가족은 네 명이에요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我家有四口人。",
+    "example_ko": "우리 가족은 네 명이에요.",
+    "example_tl": "我家有四口人。",
     "examples": [
       {
         "situation": "介绍自己的家人",
-        "ko": "gemini-3.1-flash-tts-preview\n우리 가족은 네 명이에요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我家有四口人。"
+        "ko": "우리 가족은 네 명이에요.",
+        "tl": "我家有四口人。"
       },
       {
         "situation": "周末计划",
-        "ko": "gemini-3.1-flash-tts-preview\n주말에 가족과 같이 여행을 가요.",
-        "tl": "gemini-3.1-flash-tts-preview\n周末我跟家人一起去旅游。"
+        "ko": "주말에 가족과 같이 여행을 가요.",
+        "tl": "周末我跟家人一起去旅游。"
       },
       {
         "situation": "拍摄全家福",
-        "ko": "gemini-3.1-flash-tts-preview\n공원에서 가족 사진을 찍었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n在公园拍了全家福。"
+        "ko": "공원에서 가족 사진을 찍었어요.",
+        "tl": "在公园拍了全家福。"
       },
       {
         "situation": "谈论秋夕假期",
-        "ko": "gemini-3.1-flash-tts-preview\n추석에 가족이 다 같이 모여요.",
-        "tl": "gemini-3.1-flash-tts-preview\n中秋节我们全家人会聚在一起。"
+        "ko": "추석에 가족이 다 같이 모여요.",
+        "tl": "中秋节我们全家人会聚在一起。"
       },
       {
         "situation": "一起吃晚餐",
-        "ko": "gemini-3.1-flash-tts-preview\n저녁에 가족과 함께 밥을 먹어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n晚上我跟家人一起吃饭。"
+        "ko": "저녁에 가족과 함께 밥을 먹어요.",
+        "tl": "晚上我跟家人一起吃饭。"
       },
       {
         "situation": "给家里打电话",
-        "ko": "gemini-3.1-flash-tts-preview\n매일 저녁 가족에게 전화해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我每天晚上都给家人打电话。"
+        "ko": "매일 저녁 가족에게 전화해요.",
+        "tl": "我每天晚上都给家人打电话。"
       },
       {
         "situation": "谈论最重要的事",
-        "ko": "gemini-3.1-flash-tts-preview\n저에게 가족이 가장 중요해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n对我来说，家人最重要。"
+        "ko": "저에게 가족이 가장 중요해요.",
+        "tl": "对我来说，家人最重要。"
       },
       {
         "situation": "家庭成员介绍",
-        "ko": "gemini-3.1-flash-tts-preview\n제 가족은 부모님하고 동생이에요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我的家人有爸爸妈妈和弟弟妹妹。"
+        "ko": "제 가족은 부모님하고 동생이에요.",
+        "tl": "我的家人有爸爸妈妈和弟弟妹妹。"
       },
       {
         "situation": "家人健康",
-        "ko": "gemini-3.1-flash-tts-preview\n가족이 다 건강해서 행복해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n家人都健健康康的，我很幸福。"
+        "ko": "가족이 다 건강해서 행복해요.",
+        "tl": "家人都健健康康的，我很幸福。"
       },
       {
         "situation": "搬到新地方",
-        "ko": "gemini-3.1-flash-tts-preview\n가족과 같이 살고 싶어서 이사했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我想跟家人住在一起，所以搬家了。"
+        "ko": "가족과 같이 살고 싶어서 이사했어요.",
+        "tl": "我想跟家人住在一起，所以搬家了。"
       }
     ]
   },
@@ -1049,58 +1049,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "Daily life",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저는 중요한 약속을 가지고 있어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我有一个重要的约会。",
+    "example_ko": "저는 중요한 약속을 가지고 있어요.",
+    "example_tl": "我有一个重要的约会。",
     "examples": [
       {
         "situation": "Daily life",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 중요한 약속을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我有一个重要的约会。"
+        "ko": "저는 중요한 약속을 가지고 있어요.",
+        "tl": "我有一个重要的约会。"
       },
       {
         "situation": "Future plans",
-        "ko": "gemini-3.1-flash-tts-preview\n언젠가 제 집을 가지고 싶어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我总有一天想有自己的房子。"
+        "ko": "언젠가 제 집을 가지고 싶어요.",
+        "tl": "我总有一天想有自己的房子。"
       },
       {
         "situation": "Describing characteristics",
-        "ko": "gemini-3.1-flash-tts-preview\n그는 특별한 재능을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n他有特别的才能。"
+        "ko": "그는 특별한 재능을 가지고 있어요.",
+        "tl": "他有特别的才能。"
       },
       {
         "situation": "Interests",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 요리에 깊은 관심을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我对烹饪有浓厚的兴趣。"
+        "ko": "저는 요리에 깊은 관심을 가지고 있어요.",
+        "tl": "我对烹饪有浓厚的兴趣。"
       },
       {
         "situation": "Aspirations",
-        "ko": "gemini-3.1-flash-tts-preview\n건강한 생활 습관을 가지고 싶어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我想要拥有健康的生活习惯。"
+        "ko": "건강한 생활 습관을 가지고 싶어요.",
+        "tl": "我想要拥有健康的生活习惯。"
       },
       {
         "situation": "Possession",
-        "ko": "gemini-3.1-flash-tts-preview\n지금 여분의 마스크를 가지고 있어요?",
-        "tl": "gemini-3.1-flash-tts-preview\n你现在有备用口罩吗？"
+        "ko": "지금 여분의 마스크를 가지고 있어요?",
+        "tl": "你现在有备用口罩吗？"
       },
       {
         "situation": "Ambition",
-        "ko": "gemini-3.1-flash-tts-preview\n큰 목표를 가지고 노력해야 해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n应该有远大的目标并努力。"
+        "ko": "큰 목표를 가지고 노력해야 해요.",
+        "tl": "应该有远大的目标并努力。"
       },
       {
         "situation": "Personality",
-        "ko": "gemini-3.1-flash-tts-preview\n제 동생은 긍정적인 마음을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我的弟弟/妹妹心态很积极。"
+        "ko": "제 동생은 긍정적인 마음을 가지고 있어요.",
+        "tl": "我的弟弟/妹妹心态很积极。"
       },
       {
         "situation": "Strategy",
-        "ko": "gemini-3.1-flash-tts-preview\n우리는 좋은 전략을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我们有一个好策略。"
+        "ko": "우리는 좋은 전략을 가지고 있어요.",
+        "tl": "我们有一个好策略。"
       },
       {
         "situation": "Encouragement",
-        "ko": "gemini-3.1-flash-tts-preview\n자신감을 가지고 발표해 보세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n拿出自信去发表吧。"
+        "ko": "자신감을 가지고 발표해 보세요.",
+        "tl": "拿出自信去发表吧。"
       }
     ]
   },
@@ -1114,58 +1114,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "和朋友说生病了",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저 감기에 걸렸어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我感冒了。",
+    "example_ko": "저 감기에 걸렸어요.",
+    "example_tl": "我感冒了。",
     "examples": [
       {
         "situation": "和朋友说生病了",
-        "ko": "gemini-3.1-flash-tts-preview\n저 감기에 걸렸어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我感冒了。"
+        "ko": "저 감기에 걸렸어요.",
+        "tl": "我感冒了。"
       },
       {
         "situation": "解释为什么去医院",
-        "ko": "gemini-3.1-flash-tts-preview\n감기가 심해서 병원에 갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n感冒很严重，所以我去医院了。"
+        "ko": "감기가 심해서 병원에 갔어요.",
+        "tl": "感冒很严重，所以我去医院了。"
       },
       {
         "situation": "警告朋友天气寒冷",
-        "ko": "gemini-3.1-flash-tts-preview\n날씨가 추우니까 감기 조심하세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n天气冷了，小心别感冒。"
+        "ko": "날씨가 추우니까 감기 조심하세요.",
+        "tl": "天气冷了，小心别感冒。"
       },
       {
         "situation": "朋友缺席的原因",
-        "ko": "gemini-3.1-flash-tts-preview\n제 친구는 감기에 걸려서 오늘 못 왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我朋友感冒了，所以今天没来。"
+        "ko": "제 친구는 감기에 걸려서 오늘 못 왔어요.",
+        "tl": "我朋友感冒了，所以今天没来。"
       },
       {
         "situation": "描述感冒症状",
-        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸려서 코가 막혀요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我感冒了，鼻子堵住了。"
+        "ko": "감기에 걸려서 코가 막혀요.",
+        "tl": "我感冒了，鼻子堵住了。"
       },
       {
         "situation": "因感冒在家休息",
-        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸려서 오늘 집에서 쉬었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我感冒了，所以今天在家休息了。"
+        "ko": "감기에 걸려서 오늘 집에서 쉬었어요.",
+        "tl": "我感冒了，所以今天在家休息了。"
       },
       {
         "situation": "听医生诊断",
-        "ko": "gemini-3.1-flash-tts-preview\n의사 선생님이 감기라고 하셨어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n医生说我感冒了。"
+        "ko": "의사 선생님이 감기라고 하셨어요.",
+        "tl": "医生说我感冒了。"
       },
       {
         "situation": "预防感冒方法",
-        "ko": "gemini-3.1-flash-tts-preview\n손을 잘 씻으면 감기에 안 걸려요.",
-        "tl": "gemini-3.1-flash-tts-preview\n勤洗手就不会感冒。"
+        "ko": "손을 잘 씻으면 감기에 안 걸려요.",
+        "tl": "勤洗手就不会感冒。"
       },
       {
         "situation": "终于感觉好多了",
-        "ko": "gemini-3.1-flash-tts-preview\n감기가 다 나았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我的感冒全好了。"
+        "ko": "감기가 다 나았어요.",
+        "tl": "我的感冒全好了。"
       },
       {
         "situation": "感冒吃药",
-        "ko": "gemini-3.1-flash-tts-preview\n감기 때문에 약을 먹고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我感冒了，正在吃药。"
+        "ko": "감기 때문에 약을 먹고 있어요.",
+        "tl": "我感冒了，正在吃药。"
       }
     ]
   },
@@ -1179,58 +1179,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "在药店买药",
-    "example_ko": "gemini-3.1-flash-tts-preview\n약국에서 감기약을 샀어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我在药店买了感冒药。",
+    "example_ko": "약국에서 감기약을 샀어요.",
+    "example_tl": "我在药店买了感冒药。",
     "examples": [
       {
         "situation": "在药店买药",
-        "ko": "gemini-3.1-flash-tts-preview\n약국에서 감기약을 샀어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我在药店买了感冒药。"
+        "ko": "약국에서 감기약을 샀어요.",
+        "tl": "我在药店买了感冒药。"
       },
       {
         "situation": "药物很有效",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹고 좀 나아졌어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n吃了感冒药好多了。"
+        "ko": "감기약을 먹고 좀 나아졌어요.",
+        "tl": "吃了感冒药好多了。"
       },
       {
         "situation": "药师讲解用药频率",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약은 하루에 세 번 드세요.",
-        "tl": "gemini-3.1-flash-tts-preview\n感冒药一天吃三次。"
+        "ko": "감기약은 하루에 세 번 드세요.",
+        "tl": "感冒药一天吃三次。"
       },
       {
         "situation": "收拾旅行箱",
-        "ko": "gemini-3.1-flash-tts-preview\n여행 갈 때 감기약을 챙겼어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n去旅行的时候带了感冒药。"
+        "ko": "여행 갈 때 감기약을 챙겼어요.",
+        "tl": "去旅行的时候带了感冒药。"
       },
       {
         "situation": "给生病朋友药物",
-        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸린 친구한테 감기약을 줬어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把感冒药给了感冒的朋友。"
+        "ko": "감기에 걸린 친구한테 감기약을 줬어요.",
+        "tl": "我把感冒药给了感冒的朋友。"
       },
       {
         "situation": "医院配药",
-        "ko": "gemini-3.1-flash-tts-preview\n의사 선생님이 감기약을 처방해 주셨어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n医生给我开了感冒药。"
+        "ko": "의사 선생님이 감기약을 처방해 주셨어요.",
+        "tl": "医生给我开了感冒药。"
       },
       {
         "situation": "抱怨药物效果不好",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹었는데 안 나아요.",
-        "tl": "gemini-3.1-flash-tts-preview\n吃了感冒药却还没好。"
+        "ko": "감기약을 먹었는데 안 나아요.",
+        "tl": "吃了感冒药却还没好。"
       },
       {
         "situation": "给生病孩子药物",
-        "ko": "gemini-3.1-flash-tts-preview\n아이한테 감기약을 줬어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把感冒药给了孩子。"
+        "ko": "아이한테 감기약을 줬어요.",
+        "tl": "我把感冒药给了孩子。"
       },
       {
         "situation": "药物副作用警告",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹으면 졸려요.",
-        "tl": "gemini-3.1-flash-tts-preview\n吃了感冒药会犯困。"
+        "ko": "감기약을 먹으면 졸려요.",
+        "tl": "吃了感冒药会犯困。"
       },
       {
         "situation": "向药剂师提问",
-        "ko": "gemini-3.1-flash-tts-preview\n이 감기약은 어떻게 먹어요?",
-        "tl": "gemini-3.1-flash-tts-preview\n这个感冒药怎么吃？"
+        "ko": "이 감기약은 어떻게 먹어요?",
+        "tl": "这个感冒药怎么吃？"
       }
     ]
   },
@@ -1244,58 +1244,58 @@
     "level": "1",
     "lang": "cn",
     "situation": "描述午餐吃的东西",
-    "example_ko": "gemini-3.1-flash-tts-preview\n점심에 감자를 삶아서 먹었어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\n我午饭吃了水煮土豆。",
+    "example_ko": "점심에 감자를 삶아서 먹었어요.",
+    "example_tl": "我午饭吃了水煮土豆。",
     "examples": [
       {
         "situation": "描述午餐吃的东西",
-        "ko": "gemini-3.1-flash-tts-preview\n점심에 감자를 삶아서 먹었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我午饭吃了水煮土豆。"
+        "ko": "점심에 감자를 삶아서 먹었어요.",
+        "tl": "我午饭吃了水煮土豆。"
       },
       {
         "situation": "超市购物",
-        "ko": "gemini-3.1-flash-tts-preview\n마트에서 감자 한 봉지를 샀어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我在超市买了一袋土豆。"
+        "ko": "마트에서 감자 한 봉지를 샀어요.",
+        "tl": "我在超市买了一袋土豆。"
       },
       {
         "situation": "在家煮炖菜",
-        "ko": "gemini-3.1-flash-tts-preview\n찌개에 감자를 넣었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我把土豆放到汤里了。"
+        "ko": "찌개에 감자를 넣었어요.",
+        "tl": "我把土豆放到汤里了。"
       },
       {
         "situation": "吃薯条零食",
-        "ko": "gemini-3.1-flash-tts-preview\n감자튀김이 정말 맛있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n炸薯条真好吃。"
+        "ko": "감자튀김이 정말 맛있어요.",
+        "tl": "炸薯条真好吃。"
       },
       {
         "situation": "检查厨房剩余食物",
-        "ko": "gemini-3.1-flash-tts-preview\n냉장고에 감자가 두 개 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n冰箱里有两个土豆。"
+        "ko": "냉장고에 감자가 두 개 있어요.",
+        "tl": "冰箱里有两个土豆。"
       },
       {
         "situation": "韩式餐厅点食物",
-        "ko": "gemini-3.1-flash-tts-preview\n감자 볶음을 주문했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我点了炒土豆。"
+        "ko": "감자 볶음을 주문했어요.",
+        "tl": "我点了炒土豆。"
       },
       {
         "situation": "祖父母的花园",
-        "ko": "gemini-3.1-flash-tts-preview\n할머니 밭에 감자가 많이 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\n奶奶的田里有很多土豆。"
+        "ko": "할머니 밭에 감자가 많이 있어요.",
+        "tl": "奶奶的田里有很多土豆。"
       },
       {
         "situation": "最爱零食描述",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 감자튀김을 제일 좋아해요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我最喜欢炸薯条了。"
+        "ko": "저는 감자튀김을 제일 좋아해요.",
+        "tl": "我最喜欢炸薯条了。"
       },
       {
         "situation": "询问朋友想吃什么",
-        "ko": "gemini-3.1-flash-tts-preview\n같이 감자 요리를 먹을까요?",
-        "tl": "gemini-3.1-flash-tts-preview\n我们一起吃土豆菜好不好？"
+        "ko": "같이 감자 요리를 먹을까요?",
+        "tl": "我们一起吃土豆菜好不好？"
       },
       {
         "situation": "向朋友解释简单食谱",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 보통 감자를 잘라서 기름에 볶아요.",
-        "tl": "gemini-3.1-flash-tts-preview\n我通常把土豆切了用油炒。"
+        "ko": "저는 보통 감자를 잘라서 기름에 볶아요.",
+        "tl": "我通常把土豆切了用油炒。"
       }
     ]
   },

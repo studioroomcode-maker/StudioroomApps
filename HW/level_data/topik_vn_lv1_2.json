@@ -9,13 +9,13 @@
     "level": "1",
     "lang": "vn",
     "situation": "Hỏi có cửa hàng gần đó",
-    "example_ko": "집 근처 가게에서 필요한 물건을 샀어요.",
-    "example_tl": "Tôi đã mua những thứ cần thiết ở cửa hàng gần nhà.",
+    "example_ko": "이 근처에 편의점이 있어요?",
+    "example_tl": "Gần đây có cửa hàng tiện lợi không?",
     "examples": [
       {
         "situation": "Hỏi có cửa hàng gần đó",
-        "ko": "집 근처 가게에서 필요한 물건을 샀어요.",
-        "tl": "Tôi đã mua những thứ cần thiết ở cửa hàng gần nhà."
+        "ko": "이 근처에 편의점이 있어요?",
+        "tl": "Gần đây có cửa hàng tiện lợi không?"
       },
       {
         "situation": "Nói bạn mua hàng ở đâu",
@@ -35,7 +35,7 @@
       {
         "situation": "Giới thiệu quán ăn ngon",
         "ko": "저 가게 떡볶이가 정말 맛있어요. 한번 먹어 보세요.",
-        "tl": "Bánh gạo xào cay ở tiệm đó ngon lắm. Bạn hãy thử ăn một lần xem."
+        "tl": "Tteokbokki ở quán đó ngon lắm. Bạn ăn thử xem."
       },
       {
         "situation": "Nơi làm việc của bố mẹ",
@@ -334,57 +334,57 @@
     "level": "1",
     "lang": "vn",
     "situation": "Đi bộ đến trường buổi sáng",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저는 매일 아침 학교에 가요.",
+    "example_ko": "저는 매일 아침 학교에 가요.",
     "example_tl": "Tôi đi học mỗi sáng.",
     "examples": [
       {
         "situation": "Đi bộ đến trường buổi sáng",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 매일 아침 학교에 가요.",
+        "ko": "저는 매일 아침 학교에 가요.",
         "tl": "Tôi đi học mỗi sáng."
       },
       {
         "situation": "Lên kế hoạch chuyến đi cuối tuần",
-        "ko": "gemini-3.1-flash-tts-preview\n이번 주말에 부산에 갈 거예요.",
+        "ko": "이번 주말에 부산에 갈 거예요.",
         "tl": "Cuối tuần này tôi sẽ đi Busan."
       },
       {
         "situation": "Mời bạn đi công viên",
-        "ko": "gemini-3.1-flash-tts-preview\n같이 공원에 갈까요?",
+        "ko": "같이 공원에 갈까요?",
         "tl": "Chúng ta cùng đi công viên nhé?"
       },
       {
         "situation": "Về nhà sau giờ làm",
-        "ko": "gemini-3.1-flash-tts-preview\n일이 끝나고 집에 갔어요.",
+        "ko": "일이 끝나고 집에 갔어요.",
         "tl": "Xong việc tôi về nhà."
       },
       {
         "situation": "Đến bệnh viện khi bị bệnh",
-        "ko": "gemini-3.1-flash-tts-preview\n아파서 병원에 갔어요.",
+        "ko": "아파서 병원에 갔어요.",
         "tl": "Tôi bị ốm nên đi bệnh viện."
       },
       {
         "situation": "Đi ăn trưa tại nhà hàng",
-        "ko": "gemini-3.1-flash-tts-preview\n점심에 친구랑 식당에 가요.",
+        "ko": "점심에 친구랑 식당에 가요.",
         "tl": "Buổi trưa tôi đi ăn nhà hàng với bạn."
       },
       {
         "situation": "Dạo bộ công viên buổi tối",
-        "ko": "gemini-3.1-flash-tts-preview\n저녁에 공원에 가서 걸었어요.",
+        "ko": "저녁에 공원에 가서 걸었어요.",
         "tl": "Buổi tối tôi đi công viên đi bộ."
       },
       {
         "situation": "Kế hoạch mua sắm chiều tối",
-        "ko": "gemini-3.1-flash-tts-preview\n오후에 마트에 갈 거예요.",
+        "ko": "오후에 마트에 갈 거예요.",
         "tl": "Buổi chiều tôi sẽ đi siêu thị."
       },
       {
         "situation": "Hỏi nơi định đi",
-        "ko": "gemini-3.1-flash-tts-preview\n지금 어디에 가요?",
+        "ko": "지금 어디에 가요?",
         "tl": "Bây giờ bạn đi đâu?"
       },
       {
         "situation": "Gợi ý đi cà phê ngày mai",
-        "ko": "gemini-3.1-flash-tts-preview\n내일 카페에 같이 갈까요?",
+        "ko": "내일 카페에 같이 갈까요?",
         "tl": "Mai mình đi quán cà phê nhé?"
       }
     ]
@@ -420,7 +420,7 @@
       {
         "situation": "Học piano",
         "ko": "피아노 선생님이 저에게 피아노를 가르쳐 줘요.",
-        "tl": "Giáo viên dạy tôi chơi đàn piano."
+        "tl": "Thầy/Cô giáo dạy piano dạy tôi chơi piano."
       },
       {
         "situation": "Dạy trẻ bảng chữ cái",
@@ -464,58 +464,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Xếp sách vào cặp học sinh",
-    "example_ko": "gemini-3.1-flash-tts-preview\n가방에 책을 넣었어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTôi đã bỏ sách vào túi.",
+    "example_ko": "가방에 책을 넣었어요.",
+    "example_tl": "Tôi đã bỏ sách vào túi.",
     "examples": [
       {
         "situation": "Xếp sách vào cặp học sinh",
-        "ko": "gemini-3.1-flash-tts-preview\n가방에 책을 넣었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã bỏ sách vào túi."
+        "ko": "가방에 책을 넣었어요.",
+        "tl": "Tôi đã bỏ sách vào túi."
       },
       {
         "situation": "Mua túi xách mới khi mua sắm",
-        "ko": "gemini-3.1-flash-tts-preview\n어제 새 가방을 샀어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nHôm qua tôi đã mua một cái túi mới."
+        "ko": "어제 새 가방을 샀어요.",
+        "tl": "Hôm qua tôi đã mua một cái túi mới."
       },
       {
         "situation": "#Quên túi trên xe buýt",
-        "ko": "gemini-3.1-flash-tts-preview\n가방을 버스에 두고 내렸어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã để quên túi trên xe buýt."
+        "ko": "가방을 버스에 두고 내렸어요.",
+        "tl": "Tôi đã để quên túi trên xe buýt."
       },
       {
         "situation": "Chuẩn bị ba lô đi du lịch",
-        "ko": "gemini-3.1-flash-tts-preview\n여행 가방을 준비했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã chuẩn bị túi du lịch."
+        "ko": "여행 가방을 준비했어요.",
+        "tl": "Tôi đã chuẩn bị túi du lịch."
       },
       {
         "situation": "Chọn túi xách theo màu sắc",
-        "ko": "gemini-3.1-flash-tts-preview\n검은색 가방이 마음에 들어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi thích cái túi màu đen."
+        "ko": "검은색 가방이 마음에 들어요.",
+        "tl": "Tôi thích cái túi màu đen."
       },
       {
         "situation": "Nhận túi làm quà sinh nhật",
-        "ko": "gemini-3.1-flash-tts-preview\n생일에 가방을 선물로 받았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi được tặng một cái túi vào ngày sinh nhật."
+        "ko": "생일에 가방을 선물로 받았어요.",
+        "tl": "Tôi được tặng một cái túi vào ngày sinh nhật."
       },
       {
         "situation": "Phàn nàn chiếc túi quá nặng",
-        "ko": "gemini-3.1-flash-tts-preview\n이 가방이 너무 무거워요.",
-        "tl": "gemini-3.1-flash-tts-preview\nCái túi này nặng quá."
+        "ko": "이 가방이 너무 무거워요.",
+        "tl": "Cái túi này nặng quá."
       },
       {
         "situation": "Hỏi người khác có thấy túi bị mất",
-        "ko": "gemini-3.1-flash-tts-preview\n제 가방을 봤어요?",
-        "tl": "gemini-3.1-flash-tts-preview\nBạn có thấy túi của tôi không?"
+        "ko": "제 가방을 봤어요?",
+        "tl": "Bạn có thấy túi của tôi không?"
       },
       {
         "situation": "Mang túi xách đến công việc hàng ngày",
-        "ko": "gemini-3.1-flash-tts-preview\n회사에 갈 때 가방을 들어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nKhi đi làm tôi mang theo túi."
+        "ko": "회사에 갈 때 가방을 들어요.",
+        "tl": "Khi đi làm tôi mang theo túi."
       },
       {
         "situation": "Tìm thấy ví trong túi xách",
-        "ko": "gemini-3.1-flash-tts-preview\n가방 안에 지갑이 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTrong túi có ví."
+        "ko": "가방 안에 지갑이 있어요.",
+        "tl": "Trong túi có ví."
       }
     ]
   },
@@ -529,58 +529,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Nói về buổi hòa nhạc sắp tới",
-    "example_ko": "gemini-3.1-flash-tts-preview\n제가 좋아하는 가수가 콘서트를 해요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nCa sĩ tôi thích sẽ tổ chức concert.",
+    "example_ko": "제가 좋아하는 가수가 콘서트를 해요.",
+    "example_tl": "Ca sĩ tôi thích sẽ tổ chức concert.",
     "examples": [
       {
         "situation": "Nói về buổi hòa nhạc sắp tới",
-        "ko": "gemini-3.1-flash-tts-preview\n제가 좋아하는 가수가 콘서트를 해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nCa sĩ tôi thích sẽ tổ chức concert."
+        "ko": "제가 좋아하는 가수가 콘서트를 해요.",
+        "tl": "Ca sĩ tôi thích sẽ tổ chức concert."
       },
       {
         "situation": "Chia sẻ giấc mơ tuổi thơ",
-        "ko": "gemini-3.1-flash-tts-preview\n어릴 때 가수가 되고 싶었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nHồi nhỏ tôi muốn trở thành ca sĩ."
+        "ko": "어릴 때 가수가 되고 싶었어요.",
+        "tl": "Hồi nhỏ tôi muốn trở thành ca sĩ."
       },
       {
         "situation": "Gợi ý bài hát ca sĩ cho bạn",
-        "ko": "gemini-3.1-flash-tts-preview\n그 가수의 노래가 정말 좋아요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBài hát của ca sĩ đó rất hay."
+        "ko": "그 가수의 노래가 정말 좋아요.",
+        "tl": "Bài hát của ca sĩ đó rất hay."
       },
       {
         "situation": "Xem ca sĩ biểu diễn trên TV",
-        "ko": "gemini-3.1-flash-tts-preview\n유명한 가수가 방송에 나왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMột ca sĩ nổi tiếng đã xuất hiện trên TV."
+        "ko": "유명한 가수가 방송에 나왔어요.",
+        "tl": "Một ca sĩ nổi tiếng đã xuất hiện trên TV."
       },
       {
         "situation": "Phấn khích album mới phát hành",
-        "ko": "gemini-3.1-flash-tts-preview\n좋아하는 가수가 새 앨범을 냈어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nCa sĩ tôi thích đã ra album mới."
+        "ko": "좋아하는 가수가 새 앨범을 냈어요.",
+        "tl": "Ca sĩ tôi thích đã ra album mới."
       },
       {
         "situation": "Giới thiệu công việc của ai đó",
-        "ko": "gemini-3.1-flash-tts-preview\n그 사람은 유명한 가수예요.",
-        "tl": "gemini-3.1-flash-tts-preview\nNgười đó là một ca sĩ nổi tiếng."
+        "ko": "그 사람은 유명한 가수예요.",
+        "tl": "Người đó là một ca sĩ nổi tiếng."
       },
       {
         "situation": "Hỏi sở thích âm nhạc",
-        "ko": "gemini-3.1-flash-tts-preview\n어떤 가수의 음악을 좋아해요?",
-        "tl": "gemini-3.1-flash-tts-preview\nBạn thích nhạc của ca sĩ nào?"
+        "ko": "어떤 가수의 음악을 좋아해요?",
+        "tl": "Bạn thích nhạc của ca sĩ nào?"
       },
       {
         "situation": "Chia sẻ cảm xúc sau hòa nhạc",
-        "ko": "gemini-3.1-flash-tts-preview\n그 가수의 콘서트가 정말 좋았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBuổi concert của ca sĩ đó rất hay."
+        "ko": "그 가수의 콘서트가 정말 좋았어요.",
+        "tl": "Buổi concert của ca sĩ đó rất hay."
       },
       {
         "situation": "Giới thiệu ca sĩ Hàn Quốc yêu thích",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 좋아하는 한국 가수가 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi có một ca sĩ Hàn Quốc mà tôi yêu thích."
+        "ko": "저는 좋아하는 한국 가수가 있어요.",
+        "tl": "Tôi có một ca sĩ Hàn Quốc mà tôi yêu thích."
       },
       {
         "situation": "Hỏi biết ca sĩ nào đó",
-        "ko": "gemini-3.1-flash-tts-preview\n이 가수 알아요?",
-        "tl": "gemini-3.1-flash-tts-preview\nBạn có biết ca sĩ này không?"
+        "ko": "이 가수 알아요?",
+        "tl": "Bạn có biết ca sĩ này không?"
       }
     ]
   },
@@ -594,58 +594,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Mô tả vị trí đồ vật trên bàn",
-    "example_ko": "gemini-3.1-flash-tts-preview\n테이블 가운데에 꽃이 있어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTrên bàn có bông hoa ở giữa.",
+    "example_ko": "테이블 가운데에 꽃이 있어요.",
+    "example_tl": "Trên bàn có bông hoa ở giữa.",
     "examples": [
       {
         "situation": "Mô tả vị trí đồ vật trên bàn",
-        "ko": "gemini-3.1-flash-tts-preview\n테이블 가운데에 꽃이 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTrên bàn có bông hoa ở giữa."
+        "ko": "테이블 가운데에 꽃이 있어요.",
+        "tl": "Trên bàn có bông hoa ở giữa."
       },
       {
         "situation": "Chỉ điểm tham quan tại quảng trường",
-        "ko": "gemini-3.1-flash-tts-preview\n광장 가운데에 분수가 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nỞ giữa quảng trường có một đài phun nước."
+        "ko": "광장 가운데에 분수가 있어요.",
+        "tl": "Ở giữa quảng trường có một đài phun nước."
       },
       {
         "situation": "Hướng dẫn chụp ảnh",
-        "ko": "gemini-3.1-flash-tts-preview\n사진 찍을 때 가운데에 서 주세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nKhi chụp ảnh, bạn đứng vào giữa nhé."
+        "ko": "사진 찍을 때 가운데에 서 주세요.",
+        "tl": "Khi chụp ảnh, bạn đứng vào giữa nhé."
       },
       {
         "situation": "Hướng dẫn ai ngồi",
-        "ko": "gemini-3.1-flash-tts-preview\n가운데 자리에 앉으세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMời bạn ngồi vào ghế giữa."
+        "ko": "가운데 자리에 앉으세요.",
+        "tl": "Mời bạn ngồi vào ghế giữa."
       },
       {
         "situation": "Sắp xếp đồ vật trên kệ",
-        "ko": "gemini-3.1-flash-tts-preview\n책을 선반 가운데에 놓았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã đặt quyển sách ở giữa kệ."
+        "ko": "책을 선반 가운데에 놓았어요.",
+        "tl": "Tôi đã đặt quyển sách ở giữa kệ."
       },
       {
         "situation": "Cảnh báo an toàn giao thông",
-        "ko": "gemini-3.1-flash-tts-preview\n길 가운데로 걷지 마세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nĐừng đi bộ ra giữa đường."
+        "ko": "길 가운데로 걷지 마세요.",
+        "tl": "Đừng đi bộ ra giữa đường."
       },
       {
         "situation": "Mô tả chỗ ngồi trong lớp học",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 교실 가운데에 앉아요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi ngồi ở giữa lớp học."
+        "ko": "저는 교실 가운데에 앉아요.",
+        "tl": "Tôi ngồi ở giữa lớp học."
       },
       {
         "situation": "Mô tả địa danh công viên",
-        "ko": "gemini-3.1-flash-tts-preview\n공원 가운데에 큰 나무가 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nỞ giữa công viên có một cái cây to."
+        "ko": "공원 가운데에 큰 나무가 있어요.",
+        "tl": "Ở giữa công viên có một cái cây to."
       },
       {
         "situation": "Mô tả vị trí trong nhóm người",
-        "ko": "gemini-3.1-flash-tts-preview\n친구들 가운데에 제가 서 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đang đứng giữa bạn bè."
+        "ko": "친구들 가운데에 제가 서 있어요.",
+        "tl": "Tôi đang đứng giữa bạn bè."
       },
       {
         "situation": "Giải thích bố cục phòng",
-        "ko": "gemini-3.1-flash-tts-preview\n방 가운데에 침대를 놓았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã đặt cái giường ở giữa phòng."
+        "ko": "방 가운데에 침대를 놓았어요.",
+        "tl": "Tôi đã đặt cái giường ở giữa phòng."
       }
     ]
   },
@@ -659,58 +659,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Cắt giấy trong lớp học mỹ thuật",
-    "example_ko": "gemini-3.1-flash-tts-preview\n가위로 색종이를 잘랐어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTôi đã cắt giấy màu bằng kéo.",
+    "example_ko": "가위로 색종이를 잘랐어요.",
+    "example_tl": "Tôi đã cắt giấy màu bằng kéo.",
     "examples": [
       {
         "situation": "Cắt giấy trong lớp học mỹ thuật",
-        "ko": "gemini-3.1-flash-tts-preview\n가위로 색종이를 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã cắt giấy màu bằng kéo."
+        "ko": "가위로 색종이를 잘랐어요.",
+        "tl": "Tôi đã cắt giấy màu bằng kéo."
       },
       {
         "situation": "Cắt thịt tại nhà hàng BBQ",
-        "ko": "gemini-3.1-flash-tts-preview\n가위로 고기를 잘라서 먹어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi cắt thịt bằng kéo rồi ăn."
+        "ko": "가위로 고기를 잘라서 먹어요.",
+        "tl": "Tôi cắt thịt bằng kéo rồi ăn."
       },
       {
         "situation": "Tìm kéo ở nhà",
-        "ko": "gemini-3.1-flash-tts-preview\n가위가 어디 있어요?",
-        "tl": "gemini-3.1-flash-tts-preview\nKéo ở đâu?"
+        "ko": "가위가 어디 있어요?",
+        "tl": "Kéo ở đâu?"
       },
       {
         "situation": "Cắt tóc tại tiệm cắt tóc",
-        "ko": "gemini-3.1-flash-tts-preview\n미용사가 가위로 머리를 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nNgười thợ cắt tóc đã cắt tóc bằng kéo."
+        "ko": "미용사가 가위로 머리를 잘랐어요.",
+        "tl": "Người thợ cắt tóc đã cắt tóc bằng kéo."
       },
       {
         "situation": "Chơi oẳn tù xỉ",
-        "ko": "gemini-3.1-flash-tts-preview\n가위바위보로 정해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMình quyết định bằng oẳn tù tì."
+        "ko": "가위바위보로 정해요.",
+        "tl": "Mình quyết định bằng oẳn tù tì."
       },
       {
         "situation": "#Gói quà tặng",
-        "ko": "gemini-3.1-flash-tts-preview\n선물 포장지를 가위로 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã cắt giấy gói quà bằng kéo."
+        "ko": "선물 포장지를 가위로 잘랐어요.",
+        "tl": "Tôi đã cắt giấy gói quà bằng kéo."
       },
       {
         "situation": "#Trẻ em làm hoạt động thủ công",
-        "ko": "gemini-3.1-flash-tts-preview\n아이가 가위로 그림을 오렸어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nEm bé đã cắt hình bằng kéo."
+        "ko": "아이가 가위로 그림을 오렸어요.",
+        "tl": "Em bé đã cắt hình bằng kéo."
       },
       {
         "situation": "May vá và cắt chỉ",
-        "ko": "gemini-3.1-flash-tts-preview\n실을 가위로 잘랐어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã cắt sợi chỉ bằng kéo."
+        "ko": "실을 가위로 잘랐어요.",
+        "tl": "Tôi đã cắt sợi chỉ bằng kéo."
       },
       {
         "situation": "Cất kéo vào chỗ",
-        "ko": "gemini-3.1-flash-tts-preview\n가위를 서랍에 넣었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã bỏ kéo vào ngăn kéo."
+        "ko": "가위를 서랍에 넣었어요.",
+        "tl": "Tôi đã bỏ kéo vào ngăn kéo."
       },
       {
         "situation": "Chuẩn bị trái cây ăn",
-        "ko": "gemini-3.1-flash-tts-preview\n포도를 가위로 잘라서 먹었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã cắt nho bằng kéo rồi ăn."
+        "ko": "포도를 가위로 잘라서 먹었어요.",
+        "tl": "Tôi đã cắt nho bằng kéo rồi ăn."
       }
     ]
   },
@@ -724,58 +724,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Mô tả thời tiết mùa thu",
-    "example_ko": "gemini-3.1-flash-tts-preview\n가을에는 날씨가 시원해요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nMùa thu thời tiết mát mẻ.",
+    "example_ko": "가을에는 날씨가 시원해요.",
+    "example_tl": "Mùa thu thời tiết mát mẻ.",
     "examples": [
       {
         "situation": "Mô tả thời tiết mùa thu",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 날씨가 시원해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu thời tiết mát mẻ."
+        "ko": "가을에는 날씨가 시원해요.",
+        "tl": "Mùa thu thời tiết mát mẻ."
       },
       {
         "situation": "Chiêm ngưỡng lá mùa thu",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에 단풍이 정말 예뻐요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu lá phong đẹp lắm."
+        "ko": "가을에 단풍이 정말 예뻐요.",
+        "tl": "Mùa thu lá phong đẹp lắm."
       },
       {
         "situation": "Lên kế hoạch du lịch mùa thu",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에 여행을 가고 싶어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu tôi muốn đi du lịch."
+        "ko": "가을에 여행을 가고 싶어요.",
+        "tl": "Mùa thu tôi muốn đi du lịch."
       },
       {
         "situation": "Nói về thức ăn theo mùa",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 고구마가 맛있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu khoai lang ngon lắm."
+        "ko": "가을에는 고구마가 맛있어요.",
+        "tl": "Mùa thu khoai lang ngon lắm."
       },
       {
         "situation": "#Chọn quần áo theo mùa",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 긴팔 옷을 입어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu tôi mặc áo dài tay."
+        "ko": "가을에는 긴팔 옷을 입어요.",
+        "tl": "Mùa thu tôi mặc áo dài tay."
       },
       {
         "situation": "Chia sẻ mùa yêu thích của bạn",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 가을을 제일 좋아해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi thích mùa thu nhất."
+        "ko": "저는 가을을 제일 좋아해요.",
+        "tl": "Tôi thích mùa thu nhất."
       },
       {
         "situation": "Nói về nông dân bận rộn",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에는 농부들이 바빠요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu nông dân bận rộn."
+        "ko": "가을에는 농부들이 바빠요.",
+        "tl": "Mùa thu nông dân bận rộn."
       },
       {
         "situation": "So sánh thời tiết Thu và Hè",
-        "ko": "gemini-3.1-flash-tts-preview\n가을은 여름보다 시원해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu mát hơn mùa hè."
+        "ko": "가을은 여름보다 시원해요.",
+        "tl": "Mùa thu mát hơn mùa hè."
       },
       {
         "situation": "#Đi_bộ_công_viên_mùa_thu",
-        "ko": "gemini-3.1-flash-tts-preview\n가을에 공원에서 산책했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa thu tôi đã đi dạo ở công viên."
+        "ko": "가을에 공원에서 산책했어요.",
+        "tl": "Mùa thu tôi đã đi dạo ở công viên."
       },
       {
         "situation": "Mô tả sự thay đổi theo mùa",
-        "ko": "gemini-3.1-flash-tts-preview\n가을이 오면 나뭇잎이 떨어져요.",
-        "tl": "gemini-3.1-flash-tts-preview\nKhi mùa thu đến, lá cây rụng."
+        "ko": "가을이 오면 나뭇잎이 떨어져요.",
+        "tl": "Khi mùa thu đến, lá cây rụng."
       }
     ]
   },
@@ -789,58 +789,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Nói về thức ăn yêu thích",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저는 김치찌개를 가장 좋아해요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTôi thích canh kimchi nhất.",
+    "example_ko": "저는 김치찌개를 가장 좋아해요.",
+    "example_tl": "Tôi thích canh kimchi nhất.",
     "examples": [
       {
         "situation": "Nói về thức ăn yêu thích",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 김치찌개를 가장 좋아해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi thích canh kimchi nhất."
+        "ko": "저는 김치찌개를 가장 좋아해요.",
+        "tl": "Tôi thích canh kimchi nhất."
       },
       {
         "situation": "So sánh các mùa trong năm",
-        "ko": "gemini-3.1-flash-tts-preview\n여름이 가장 더워요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMùa hè nóng nhất."
+        "ko": "여름이 가장 더워요.",
+        "tl": "Mùa hè nóng nhất."
       },
       {
         "situation": "Giới thiệu các thành viên gia đình",
-        "ko": "gemini-3.1-flash-tts-preview\n우리 가족 중에서 동생이 가장 어려요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTrong gia đình tôi, em tôi là người nhỏ tuổi nhất."
+        "ko": "우리 가족 중에서 동생이 가장 어려요.",
+        "tl": "Trong gia đình tôi, em tôi là người nhỏ tuổi nhất."
       },
       {
         "situation": "Giới thiệu nhà hàng tuyệt vời",
-        "ko": "gemini-3.1-flash-tts-preview\n이 식당이 우리 동네에서 가장 맛있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nNhà hàng này ngon nhất khu tôi ở."
+        "ko": "이 식당이 우리 동네에서 가장 맛있어요.",
+        "tl": "Nhà hàng này ngon nhất khu tôi ở."
       },
       {
         "situation": "Nói về môn học ở trường",
-        "ko": "gemini-3.1-flash-tts-preview\n수학이 가장 어려워요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMôn toán khó nhất."
+        "ko": "수학이 가장 어려워요.",
+        "tl": "Môn toán khó nhất."
       },
       {
         "situation": "Mô tả người bạn thân nhất",
-        "ko": "gemini-3.1-flash-tts-preview\n민준 씨는 제 가장 친한 친구예요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMinjun là bạn thân nhất của tôi."
+        "ko": "민준 씨는 제 가장 친한 친구예요.",
+        "tl": "Minjun là bạn thân nhất của tôi."
       },
       {
         "situation": "Giới thiệu điểm du lịch hấp dẫn",
-        "ko": "gemini-3.1-flash-tts-preview\n제주도가 가장 아름다운 곳이에요.",
-        "tl": "gemini-3.1-flash-tts-preview\nĐảo Jeju là nơi đẹp nhất."
+        "ko": "제주도가 가장 아름다운 곳이에요.",
+        "tl": "Đảo Jeju là nơi đẹp nhất."
       },
       {
         "situation": "Nói về thường ngày hàng ngày",
-        "ko": "gemini-3.1-flash-tts-preview\n아침이 가장 바빠요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBuổi sáng bận rộn nhất."
+        "ko": "아침이 가장 바빠요.",
+        "tl": "Buổi sáng bận rộn nhất."
       },
       {
         "situation": "Mua sắm quần áo",
-        "ko": "gemini-3.1-flash-tts-preview\n이 옷이 가장 싸요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBộ quần áo này rẻ nhất."
+        "ko": "이 옷이 가장 싸요.",
+        "tl": "Bộ quần áo này rẻ nhất."
       },
       {
         "situation": "#Chọn quà tặng",
-        "ko": "gemini-3.1-flash-tts-preview\n어머니 선물이 가장 커요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMón quà của mẹ là lớn nhất."
+        "ko": "어머니 선물이 가장 커요.",
+        "tl": "Món quà của mẹ là lớn nhất."
       }
     ]
   },
@@ -854,58 +854,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "#Rời nhà ngày mưa",
-    "example_ko": "gemini-3.1-flash-tts-preview\n비가 오니까 우산을 가져가세요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTrời mưa nên bạn mang ô đi nhé.",
+    "example_ko": "비가 오니까 우산을 가져가세요.",
+    "example_tl": "Trời mưa nên bạn mang ô đi nhé.",
     "examples": [
       {
         "situation": "#Rời nhà ngày mưa",
-        "ko": "gemini-3.1-flash-tts-preview\n비가 오니까 우산을 가져가세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTrời mưa nên bạn mang ô đi nhé."
+        "ko": "비가 오니까 우산을 가져가세요.",
+        "tl": "Trời mưa nên bạn mang ô đi nhé."
       },
       {
         "situation": "Chuẩn bị hộp cơm trưa",
-        "ko": "gemini-3.1-flash-tts-preview\n점심 도시락을 학교에 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang hộp cơm trưa đến trường."
+        "ko": "점심 도시락을 학교에 가져갔어요.",
+        "tl": "Tôi đã mang hộp cơm trưa đến trường."
       },
       {
         "situation": "#Đặt đồ ăn mang về",
-        "ko": "gemini-3.1-flash-tts-preview\n음식을 포장해서 가져갈 거예요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi sẽ gói đồ ăn mang về."
+        "ko": "음식을 포장해서 가져갈 거예요.",
+        "tl": "Tôi sẽ gói đồ ăn mang về."
       },
       {
         "situation": "Chuẩn bị đi picnic",
-        "ko": "gemini-3.1-flash-tts-preview\n소풍에 과자랑 음료수를 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang bánh kẹo và nước uống đi dã ngoại."
+        "ko": "소풍에 과자랑 음료수를 가져갔어요.",
+        "tl": "Tôi đã mang bánh kẹo và nước uống đi dã ngoại."
       },
       {
         "situation": "Chuẩn bị đồ dùng học tập",
-        "ko": "gemini-3.1-flash-tts-preview\n교과서를 학교에 가져가야 해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi phải mang sách giáo khoa đi học."
+        "ko": "교과서를 학교에 가져가야 해요.",
+        "tl": "Tôi phải mang sách giáo khoa đi học."
       },
       {
         "situation": "Tặng quà cho bạn bè",
-        "ko": "gemini-3.1-flash-tts-preview\n친구 생일 선물을 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang quà sinh nhật cho bạn tôi."
+        "ko": "친구 생일 선물을 가져갔어요.",
+        "tl": "Tôi đã mang quà sinh nhật cho bạn tôi."
       },
       {
         "situation": "Đi du lịch",
-        "ko": "gemini-3.1-flash-tts-preview\n여행에 필요한 짐을 다 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang tất cả đồ đạc cần thiết cho chuyến đi."
+        "ko": "여행에 필요한 짐을 다 가져갔어요.",
+        "tl": "Tôi đã mang tất cả đồ đạc cần thiết cho chuyến đi."
       },
       {
         "situation": "Chuẩn bị tập thể dục ngoài",
-        "ko": "gemini-3.1-flash-tts-preview\n운동할 때 물을 가져가세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nKhi đi tập thể dục, bạn nhớ mang nước theo nhé."
+        "ko": "운동할 때 물을 가져가세요.",
+        "tl": "Khi đi tập thể dục, bạn nhớ mang nước theo nhé."
       },
       {
         "situation": "Chuyển đến ngôi nhà mới",
-        "ko": "gemini-3.1-flash-tts-preview\n오늘 짐을 새집으로 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nHôm nay tôi đã mang đồ đạc đến nhà mới."
+        "ko": "오늘 짐을 새집으로 가져갔어요.",
+        "tl": "Hôm nay tôi đã mang đồ đạc đến nhà mới."
       },
       {
         "situation": "Thăm bạn đang ốm",
-        "ko": "gemini-3.1-flash-tts-preview\n아픈 친구한테 과일을 가져갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang hoa quả đến thăm bạn bị ốm."
+        "ko": "아픈 친구한테 과일을 가져갔어요.",
+        "tl": "Tôi đã mang hoa quả đến thăm bạn bị ốm."
       }
     ]
   },
@@ -919,58 +919,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "#Xin_nước_nhà_hàng",
-    "example_ko": "gemini-3.1-flash-tts-preview\n물 좀 가져다 주세요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nBạn mang giúp tôi ít nước nhé.",
+    "example_ko": "물 좀 가져다 주세요.",
+    "example_tl": "Bạn mang giúp tôi ít nước nhé.",
     "examples": [
       {
         "situation": "#Xin_nước_nhà_hàng",
-        "ko": "gemini-3.1-flash-tts-preview\n물 좀 가져다 주세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBạn mang giúp tôi ít nước nhé."
+        "ko": "물 좀 가져다 주세요.",
+        "tl": "Bạn mang giúp tôi ít nước nhé."
       },
       {
         "situation": "Nộp bài tập",
-        "ko": "gemini-3.1-flash-tts-preview\n숙제를 학교에 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang bài tập về nhà đến trường."
+        "ko": "숙제를 학교에 가져왔어요.",
+        "tl": "Tôi đã mang bài tập về nhà đến trường."
       },
       {
         "situation": "Đón tiếp khách",
-        "ko": "gemini-3.1-flash-tts-preview\n커피 두 잔 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang hai ly cà phê đến."
+        "ko": "커피 두 잔 가져왔어요.",
+        "tl": "Tôi đã mang hai ly cà phê đến."
       },
       {
         "situation": "Trở về từ chuyến đi",
-        "ko": "gemini-3.1-flash-tts-preview\n여행에서 선물을 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang quà về từ chuyến đi."
+        "ko": "여행에서 선물을 가져왔어요.",
+        "tl": "Tôi đã mang quà về từ chuyến đi."
       },
       {
         "situation": "Nấu ăn tại nhà",
-        "ko": "gemini-3.1-flash-tts-preview\n시장에서 채소를 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang rau củ từ chợ về."
+        "ko": "시장에서 채소를 가져왔어요.",
+        "tl": "Tôi đã mang rau củ từ chợ về."
       },
       {
         "situation": "Dự tiệc sinh nhật bạn",
-        "ko": "gemini-3.1-flash-tts-preview\n케이크를 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang bánh kem đến."
+        "ko": "케이크를 가져왔어요.",
+        "tl": "Tôi đã mang bánh kem đến."
       },
       {
         "situation": "Quên đồ vật ở lớp học",
-        "ko": "gemini-3.1-flash-tts-preview\n교과서를 집에서 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang sách giáo khoa từ nhà đến."
+        "ko": "교과서를 집에서 가져왔어요.",
+        "tl": "Tôi đã mang sách giáo khoa từ nhà đến."
       },
       {
         "situation": "#Chăm_sóc_người_bệnh",
-        "ko": "gemini-3.1-flash-tts-preview\n약을 집에서 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang thuốc từ nhà đến."
+        "ko": "약을 집에서 가져왔어요.",
+        "tl": "Tôi đã mang thuốc từ nhà đến."
       },
       {
         "situation": "Hỏi đồng nghiệp giúp đỡ",
-        "ko": "gemini-3.1-flash-tts-preview\n저 가방 좀 여기 가져다 주세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBạn mang cái túi đó đến đây giúp tôi nhé."
+        "ko": "저 가방 좀 여기 가져다 주세요.",
+        "tl": "Bạn mang cái túi đó đến đây giúp tôi nhé."
       },
       {
         "situation": "Chuẩn bị cho chuyến dã ngoại",
-        "ko": "gemini-3.1-flash-tts-preview\n공원에 돗자리를 가져왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mang tấm bạt đến công viên."
+        "ko": "공원에 돗자리를 가져왔어요.",
+        "tl": "Tôi đã mang tấm bạt đến công viên."
       }
     ]
   },
@@ -984,58 +984,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Giới thiệu gia đình của bạn",
-    "example_ko": "gemini-3.1-flash-tts-preview\n우리 가족은 네 명이에요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nGia đình tôi có bốn người.",
+    "example_ko": "우리 가족은 네 명이에요.",
+    "example_tl": "Gia đình tôi có bốn người.",
     "examples": [
       {
         "situation": "Giới thiệu gia đình của bạn",
-        "ko": "gemini-3.1-flash-tts-preview\n우리 가족은 네 명이에요.",
-        "tl": "gemini-3.1-flash-tts-preview\nGia đình tôi có bốn người."
+        "ko": "우리 가족은 네 명이에요.",
+        "tl": "Gia đình tôi có bốn người."
       },
       {
         "situation": "Kế hoạch cuối tuần",
-        "ko": "gemini-3.1-flash-tts-preview\n주말에 가족과 같이 여행을 가요.",
-        "tl": "gemini-3.1-flash-tts-preview\nCuối tuần tôi đi du lịch với gia đình."
+        "ko": "주말에 가족과 같이 여행을 가요.",
+        "tl": "Cuối tuần tôi đi du lịch với gia đình."
       },
       {
         "situation": "#Chụp_ảnh_gia_đình",
-        "ko": "gemini-3.1-flash-tts-preview\n공원에서 가족 사진을 찍었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã chụp ảnh gia đình ở công viên."
+        "ko": "공원에서 가족 사진을 찍었어요.",
+        "tl": "Tôi đã chụp ảnh gia đình ở công viên."
       },
       {
         "situation": "Nói về lễ Chuseok",
-        "ko": "gemini-3.1-flash-tts-preview\n추석에 가족이 다 같이 모여요.",
-        "tl": "gemini-3.1-flash-tts-preview\nDịp Chuseok, cả gia đình tôi quây quần bên nhau."
+        "ko": "추석에 가족이 다 같이 모여요.",
+        "tl": "Dịp Chuseok, cả gia đình tôi quây quần bên nhau."
       },
       {
         "situation": "Ăn cơm tối cùng nhau",
-        "ko": "gemini-3.1-flash-tts-preview\n저녁에 가족과 함께 밥을 먹어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTối tôi ăn cơm cùng gia đình."
+        "ko": "저녁에 가족과 함께 밥을 먹어요.",
+        "tl": "Tối tôi ăn cơm cùng gia đình."
       },
       {
         "situation": "Gọi điện về nhà",
-        "ko": "gemini-3.1-flash-tts-preview\n매일 저녁 가족에게 전화해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMỗi tối tôi gọi điện cho gia đình."
+        "ko": "매일 저녁 가족에게 전화해요.",
+        "tl": "Mỗi tối tôi gọi điện cho gia đình."
       },
       {
         "situation": "Nói về những điều quan trọng nhất",
-        "ko": "gemini-3.1-flash-tts-preview\n저에게 가족이 가장 중요해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nĐối với tôi, gia đình là quan trọng nhất."
+        "ko": "저에게 가족이 가장 중요해요.",
+        "tl": "Đối với tôi, gia đình là quan trọng nhất."
       },
       {
         "situation": "Mô tả thành viên gia đình",
-        "ko": "gemini-3.1-flash-tts-preview\n제 가족은 부모님하고 동생이에요.",
-        "tl": "gemini-3.1-flash-tts-preview\nGia đình tôi có bố mẹ và em."
+        "ko": "제 가족은 부모님하고 동생이에요.",
+        "tl": "Gia đình tôi có bố mẹ và em."
       },
       {
         "situation": "Sức khỏe gia đình",
-        "ko": "gemini-3.1-flash-tts-preview\n가족이 다 건강해서 행복해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi hạnh phúc vì cả gia đình đều khỏe mạnh."
+        "ko": "가족이 다 건강해서 행복해요.",
+        "tl": "Tôi hạnh phúc vì cả gia đình đều khỏe mạnh."
       },
       {
         "situation": "Chuyển đến nơi mới",
-        "ko": "gemini-3.1-flash-tts-preview\n가족과 같이 살고 싶어서 이사했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi chuyển nhà để được sống cùng gia đình."
+        "ko": "가족과 같이 살고 싶어서 이사했어요.",
+        "tl": "Tôi chuyển nhà để được sống cùng gia đình."
       }
     ]
   },
@@ -1049,58 +1049,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Daily life",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저는 중요한 약속을 가지고 있어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTôi có một cuộc hẹn quan trọng.",
+    "example_ko": "저는 중요한 약속을 가지고 있어요.",
+    "example_tl": "Tôi có một cuộc hẹn quan trọng.",
     "examples": [
       {
         "situation": "Daily life",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 중요한 약속을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi có một cuộc hẹn quan trọng."
+        "ko": "저는 중요한 약속을 가지고 있어요.",
+        "tl": "Tôi có một cuộc hẹn quan trọng."
       },
       {
         "situation": "Future plans",
-        "ko": "gemini-3.1-flash-tts-preview\n언젠가 제 집을 가지고 싶어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nMột ngày nào đó tôi muốn có nhà riêng."
+        "ko": "언젠가 제 집을 가지고 싶어요.",
+        "tl": "Một ngày nào đó tôi muốn có nhà riêng."
       },
       {
         "situation": "Describing characteristics",
-        "ko": "gemini-3.1-flash-tts-preview\n그는 특별한 재능을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nAnh ấy có một tài năng đặc biệt."
+        "ko": "그는 특별한 재능을 가지고 있어요.",
+        "tl": "Anh ấy có một tài năng đặc biệt."
       },
       {
         "situation": "Interests",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 요리에 깊은 관심을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi có niềm đam mê sâu sắc với nấu ăn."
+        "ko": "저는 요리에 깊은 관심을 가지고 있어요.",
+        "tl": "Tôi có niềm đam mê sâu sắc với nấu ăn."
       },
       {
         "situation": "Aspirations",
-        "ko": "gemini-3.1-flash-tts-preview\n건강한 생활 습관을 가지고 싶어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi muốn có một lối sống lành mạnh."
+        "ko": "건강한 생활 습관을 가지고 싶어요.",
+        "tl": "Tôi muốn có một lối sống lành mạnh."
       },
       {
         "situation": "Possession",
-        "ko": "gemini-3.1-flash-tts-preview\n지금 여분의 마스크를 가지고 있어요?",
-        "tl": "gemini-3.1-flash-tts-preview\nBây giờ bạn có khẩu trang dự phòng không?"
+        "ko": "지금 여분의 마스크를 가지고 있어요?",
+        "tl": "Bây giờ bạn có khẩu trang dự phòng không?"
       },
       {
         "situation": "Ambition",
-        "ko": "gemini-3.1-flash-tts-preview\n큰 목표를 가지고 노력해야 해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBạn nên có một mục tiêu lớn và nỗ lực."
+        "ko": "큰 목표를 가지고 노력해야 해요.",
+        "tl": "Bạn nên có một mục tiêu lớn và nỗ lực."
       },
       {
         "situation": "Personality",
-        "ko": "gemini-3.1-flash-tts-preview\n제 동생은 긍정적인 마음을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nEm tôi có một tư duy tích cực."
+        "ko": "제 동생은 긍정적인 마음을 가지고 있어요.",
+        "tl": "Em tôi có một tư duy tích cực."
       },
       {
         "situation": "Strategy",
-        "ko": "gemini-3.1-flash-tts-preview\n우리는 좋은 전략을 가지고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nChúng tôi có một chiến lược tốt."
+        "ko": "우리는 좋은 전략을 가지고 있어요.",
+        "tl": "Chúng tôi có một chiến lược tốt."
       },
       {
         "situation": "Encouragement",
-        "ko": "gemini-3.1-flash-tts-preview\n자신감을 가지고 발표해 보세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nHãy tự tin và thuyết trình đi."
+        "ko": "자신감을 가지고 발표해 보세요.",
+        "tl": "Hãy tự tin và thuyết trình đi."
       }
     ]
   },
@@ -1114,58 +1114,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Báo tin đang bị bệnh",
-    "example_ko": "gemini-3.1-flash-tts-preview\n저 감기에 걸렸어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTôi bị cảm rồi.",
+    "example_ko": "저 감기에 걸렸어요.",
+    "example_tl": "Tôi bị cảm rồi.",
     "examples": [
       {
         "situation": "Báo tin đang bị bệnh",
-        "ko": "gemini-3.1-flash-tts-preview\n저 감기에 걸렸어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi bị cảm rồi."
+        "ko": "저 감기에 걸렸어요.",
+        "tl": "Tôi bị cảm rồi."
       },
       {
         "situation": "Giải thích lý do vào bệnh viện",
-        "ko": "gemini-3.1-flash-tts-preview\n감기가 심해서 병원에 갔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi bị cảm nặng quá nên phải đi bệnh viện."
+        "ko": "감기가 심해서 병원에 갔어요.",
+        "tl": "Tôi bị cảm nặng quá nên phải đi bệnh viện."
       },
       {
         "situation": "Cảnh báo bạn về thời tiết lạnh",
-        "ko": "gemini-3.1-flash-tts-preview\n날씨가 추우니까 감기 조심하세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTrời lạnh nên cẩn thận đừng để bị cảm nhé."
+        "ko": "날씨가 추우니까 감기 조심하세요.",
+        "tl": "Trời lạnh nên cẩn thận đừng để bị cảm nhé."
       },
       {
         "situation": "#Lý do bạn vắng mặt",
-        "ko": "gemini-3.1-flash-tts-preview\n제 친구는 감기에 걸려서 오늘 못 왔어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBạn tôi bị cảm nên hôm nay không đến được."
+        "ko": "제 친구는 감기에 걸려서 오늘 못 왔어요.",
+        "tl": "Bạn tôi bị cảm nên hôm nay không đến được."
       },
       {
         "situation": "Triệu chứng cảm lạnh",
-        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸려서 코가 막혀요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi bị cảm nên nghẹt mũi."
+        "ko": "감기에 걸려서 코가 막혀요.",
+        "tl": "Tôi bị cảm nên nghẹt mũi."
       },
       {
         "situation": "Nghỉ ngơi vì bị cảm",
-        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸려서 오늘 집에서 쉬었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi bị cảm nên hôm nay ở nhà nghỉ ngơi."
+        "ko": "감기에 걸려서 오늘 집에서 쉬었어요.",
+        "tl": "Tôi bị cảm nên hôm nay ở nhà nghỉ ngơi."
       },
       {
         "situation": "Nghe chẩn đoán từ bác sĩ",
-        "ko": "gemini-3.1-flash-tts-preview\n의사 선생님이 감기라고 하셨어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBác sĩ nói tôi bị cảm."
+        "ko": "의사 선생님이 감기라고 하셨어요.",
+        "tl": "Bác sĩ nói tôi bị cảm."
       },
       {
         "situation": "Cách phòng ngừa cảm lạnh",
-        "ko": "gemini-3.1-flash-tts-preview\n손을 잘 씻으면 감기에 안 걸려요.",
-        "tl": "gemini-3.1-flash-tts-preview\nRửa tay sạch sẽ không bị cảm đâu."
+        "ko": "손을 잘 씻으면 감기에 안 걸려요.",
+        "tl": "Rửa tay sạch sẽ không bị cảm đâu."
       },
       {
         "situation": "Nói bạn cuối cùng đã khỏe lại",
-        "ko": "gemini-3.1-flash-tts-preview\n감기가 다 나았어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã khỏi cảm rồi."
+        "ko": "감기가 다 나았어요.",
+        "tl": "Tôi đã khỏi cảm rồi."
       },
       {
         "situation": "Nói về uống thuốc cảm lạnh",
-        "ko": "gemini-3.1-flash-tts-preview\n감기 때문에 약을 먹고 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nVì bị cảm nên tôi đang uống thuốc."
+        "ko": "감기 때문에 약을 먹고 있어요.",
+        "tl": "Vì bị cảm nên tôi đang uống thuốc."
       }
     ]
   },
@@ -1179,58 +1179,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Mua thuốc tại nhà thuốc",
-    "example_ko": "gemini-3.1-flash-tts-preview\n약국에서 감기약을 샀어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTôi đã mua thuốc cảm ở nhà thuốc.",
+    "example_ko": "약국에서 감기약을 샀어요.",
+    "example_tl": "Tôi đã mua thuốc cảm ở nhà thuốc.",
     "examples": [
       {
         "situation": "Mua thuốc tại nhà thuốc",
-        "ko": "gemini-3.1-flash-tts-preview\n약국에서 감기약을 샀어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mua thuốc cảm ở nhà thuốc."
+        "ko": "약국에서 감기약을 샀어요.",
+        "tl": "Tôi đã mua thuốc cảm ở nhà thuốc."
       },
       {
         "situation": "Nói thuốc đã giúp ích",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹고 좀 나아졌어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nUống thuốc cảm xong thấy đỡ hơn một chút rồi."
+        "ko": "감기약을 먹고 좀 나아졌어요.",
+        "tl": "Uống thuốc cảm xong thấy đỡ hơn một chút rồi."
       },
       {
         "situation": "Hướng dẫn dùng thuốc thường xuyên",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약은 하루에 세 번 드세요.",
-        "tl": "gemini-3.1-flash-tts-preview\nThuốc cảm này uống ba lần một ngày nhé."
+        "ko": "감기약은 하루에 세 번 드세요.",
+        "tl": "Thuốc cảm này uống ba lần một ngày nhé."
       },
       {
         "situation": "Chuẩn bị ba lô du lịch",
-        "ko": "gemini-3.1-flash-tts-preview\n여행 갈 때 감기약을 챙겼어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nKhi đi du lịch, tôi đã mang theo thuốc cảm."
+        "ko": "여행 갈 때 감기약을 챙겼어요.",
+        "tl": "Khi đi du lịch, tôi đã mang theo thuốc cảm."
       },
       {
         "situation": "Cho bạn uống thuốc",
-        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸린 친구한테 감기약을 줬어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã đưa thuốc cảm cho bạn bị cảm."
+        "ko": "감기에 걸린 친구한테 감기약을 줬어요.",
+        "tl": "Tôi đã đưa thuốc cảm cho bạn bị cảm."
       },
       {
         "situation": "Lấy đơn thuốc tại bệnh viện",
-        "ko": "gemini-3.1-flash-tts-preview\n의사 선생님이 감기약을 처방해 주셨어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nBác sĩ đã kê đơn thuốc cảm cho tôi."
+        "ko": "의사 선생님이 감기약을 처방해 주셨어요.",
+        "tl": "Bác sĩ đã kê đơn thuốc cảm cho tôi."
       },
       {
         "situation": "Phàn nàn thuốc không có tác dụng",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹었는데 안 나아요.",
-        "tl": "gemini-3.1-flash-tts-preview\nUống thuốc cảm rồi mà vẫn không đỡ."
+        "ko": "감기약을 먹었는데 안 나아요.",
+        "tl": "Uống thuốc cảm rồi mà vẫn không đỡ."
       },
       {
         "situation": "Cho trẻ uống thuốc",
-        "ko": "gemini-3.1-flash-tts-preview\n아이한테 감기약을 줬어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã cho em bé uống thuốc cảm."
+        "ko": "아이한테 감기약을 줬어요.",
+        "tl": "Tôi đã cho em bé uống thuốc cảm."
       },
       {
         "situation": "Cảnh báo tác dụng phụ",
-        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹으면 졸려요.",
-        "tl": "gemini-3.1-flash-tts-preview\nUống thuốc cảm là buồn ngủ lắm."
+        "ko": "감기약을 먹으면 졸려요.",
+        "tl": "Uống thuốc cảm là buồn ngủ lắm."
       },
       {
         "situation": "Hỏi dược sĩ một điều",
-        "ko": "gemini-3.1-flash-tts-preview\n이 감기약은 어떻게 먹어요?",
-        "tl": "gemini-3.1-flash-tts-preview\nThuốc cảm này uống như thế nào?"
+        "ko": "이 감기약은 어떻게 먹어요?",
+        "tl": "Thuốc cảm này uống như thế nào?"
       }
     ]
   },
@@ -1244,58 +1244,58 @@
     "level": "1",
     "lang": "vn",
     "situation": "Mô tả bữa trưa hôm nay",
-    "example_ko": "gemini-3.1-flash-tts-preview\n점심에 감자를 삶아서 먹었어요.",
-    "example_tl": "gemini-3.1-flash-tts-preview\nTôi luộc khoai tây ăn trưa.",
+    "example_ko": "점심에 감자를 삶아서 먹었어요.",
+    "example_tl": "Tôi luộc khoai tây ăn trưa.",
     "examples": [
       {
         "situation": "Mô tả bữa trưa hôm nay",
-        "ko": "gemini-3.1-flash-tts-preview\n점심에 감자를 삶아서 먹었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi luộc khoai tây ăn trưa."
+        "ko": "점심에 감자를 삶아서 먹었어요.",
+        "tl": "Tôi luộc khoai tây ăn trưa."
       },
       {
         "situation": "Mua sắm tạp hóa tại siêu thị",
-        "ko": "gemini-3.1-flash-tts-preview\n마트에서 감자 한 봉지를 샀어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã mua một túi khoai tây ở siêu thị."
+        "ko": "마트에서 감자 한 봉지를 샀어요.",
+        "tl": "Tôi đã mua một túi khoai tây ở siêu thị."
       },
       {
         "situation": "Nấu canh tại nhà",
-        "ko": "gemini-3.1-flash-tts-preview\n찌개에 감자를 넣었어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã cho khoai tây vào canh."
+        "ko": "찌개에 감자를 넣었어요.",
+        "tl": "Tôi đã cho khoai tây vào canh."
       },
       {
         "situation": "Ăn khoai tây chiên",
-        "ko": "gemini-3.1-flash-tts-preview\n감자튀김이 정말 맛있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nKhoai tây chiên ngon thật đấy."
+        "ko": "감자튀김이 정말 맛있어요.",
+        "tl": "Khoai tây chiên ngon thật đấy."
       },
       {
         "situation": "#Xem đồ ăn còn lại",
-        "ko": "gemini-3.1-flash-tts-preview\n냉장고에 감자가 두 개 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTrong tủ lạnh có hai củ khoai tây."
+        "ko": "냉장고에 감자가 두 개 있어요.",
+        "tl": "Trong tủ lạnh có hai củ khoai tây."
       },
       {
         "situation": "#Đặt đồ ăn nhà hàng Hàn Quốc",
-        "ko": "gemini-3.1-flash-tts-preview\n감자 볶음을 주문했어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi đã gọi món khoai tây xào."
+        "ko": "감자 볶음을 주문했어요.",
+        "tl": "Tôi đã gọi món khoai tây xào."
       },
       {
         "situation": "Nói về vườn của ông bà",
-        "ko": "gemini-3.1-flash-tts-preview\n할머니 밭에 감자가 많이 있어요.",
-        "tl": "gemini-3.1-flash-tts-preview\nỞ vườn bà có nhiều khoai tây lắm."
+        "ko": "할머니 밭에 감자가 많이 있어요.",
+        "tl": "Ở vườn bà có nhiều khoai tây lắm."
       },
       {
         "situation": "Món ăn vặt yêu thích",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 감자튀김을 제일 좋아해요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi thích khoai tây chiên nhất."
+        "ko": "저는 감자튀김을 제일 좋아해요.",
+        "tl": "Tôi thích khoai tây chiên nhất."
       },
       {
         "situation": "Bạn muốn ăn gì",
-        "ko": "gemini-3.1-flash-tts-preview\n같이 감자 요리를 먹을까요?",
-        "tl": "gemini-3.1-flash-tts-preview\nMình cùng ăn món khoai tây nhé?"
+        "ko": "같이 감자 요리를 먹을까요?",
+        "tl": "Mình cùng ăn món khoai tây nhé?"
       },
       {
         "situation": "Giải thích công thức nấu ăn đơn giản",
-        "ko": "gemini-3.1-flash-tts-preview\n저는 보통 감자를 잘라서 기름에 볶아요.",
-        "tl": "gemini-3.1-flash-tts-preview\nTôi thường cắt khoai tây rồi xào với dầu ăn."
+        "ko": "저는 보통 감자를 잘라서 기름에 볶아요.",
+        "tl": "Tôi thường cắt khoai tây rồi xào với dầu ăn."
       }
     ]
   },

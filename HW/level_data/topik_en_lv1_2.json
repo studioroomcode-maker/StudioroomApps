@@ -9,13 +9,13 @@
     "level": "1",
     "lang": "en",
     "situation": "Asking If a Nearby Store Exists",
-    "example_ko": "이 근처에 편의점이 있어요?",
-    "example_tl": "Is there a convenience store near here?",
+    "example_ko": "집 근처 가게에서 필요한 물건을 샀어요.",
+    "example_tl": "I bought necessary items at a store near my house.",
     "examples": [
       {
         "situation": "Asking If a Nearby Store Exists",
-        "ko": "이 근처에 편의점이 있어요?",
-        "tl": "Is there a convenience store near here?"
+        "ko": "집 근처 가게에서 필요한 물건을 샀어요.",
+        "tl": "I bought necessary items at a store near my house."
       },
       {
         "situation": "Telling a Friend Where to Buy Something",
@@ -334,58 +334,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Walking to school in the morning",
-    "example_ko": "저는 매일 아침 학교에 가요.",
-    "example_tl": "I go to school every morning.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n저는 매일 아침 학교에 가요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI go to school every morning.",
     "examples": [
       {
         "situation": "Walking to school in the morning",
-        "ko": "저는 매일 아침 학교에 가요.",
-        "tl": "I go to school every morning."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 매일 아침 학교에 가요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI go to school every morning."
       },
       {
         "situation": "Planning a weekend trip",
-        "ko": "이번 주말에 부산에 갈 거예요.",
-        "tl": "I'm going to Busan this weekend."
+        "ko": "gemini-3.1-flash-tts-preview\n이번 주말에 부산에 갈 거예요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm going to Busan this weekend."
       },
       {
         "situation": "Inviting a friend to the park",
-        "ko": "같이 공원에 갈까요?",
-        "tl": "Shall we go to the park together?"
+        "ko": "gemini-3.1-flash-tts-preview\n같이 공원에 갈까요?",
+        "tl": "gemini-3.1-flash-tts-preview\nShall we go to the park together?"
       },
       {
         "situation": "Heading home after work",
-        "ko": "일이 끝나고 집에 갔어요.",
-        "tl": "I went home after work."
+        "ko": "gemini-3.1-flash-tts-preview\n일이 끝나고 집에 갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI went home after work."
       },
       {
         "situation": "Visiting the hospital when sick",
-        "ko": "아파서 병원에 갔어요.",
-        "tl": "I went to the hospital because I was sick."
+        "ko": "gemini-3.1-flash-tts-preview\n아파서 병원에 갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI went to the hospital because I was sick."
       },
       {
         "situation": "Going to a restaurant for lunch",
-        "ko": "점심에 친구랑 식당에 가요.",
-        "tl": "I'm going to a restaurant with a friend for lunch."
+        "ko": "gemini-3.1-flash-tts-preview\n점심에 친구랑 식당에 가요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm going to a restaurant with a friend for lunch."
       },
       {
         "situation": "Evening walk in the park",
-        "ko": "저녁에 공원에 가서 걸었어요.",
-        "tl": "I went to the park in the evening and walked."
+        "ko": "gemini-3.1-flash-tts-preview\n저녁에 공원에 가서 걸었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI went to the park in the evening and walked."
       },
       {
         "situation": "Afternoon grocery shopping plan",
-        "ko": "오후에 마트에 갈 거예요.",
-        "tl": "I'm going to the supermarket in the afternoon."
+        "ko": "gemini-3.1-flash-tts-preview\n오후에 마트에 갈 거예요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm going to the supermarket in the afternoon."
       },
       {
         "situation": "Asking someone's destination",
-        "ko": "지금 어디에 가요?",
-        "tl": "Where are you going right now?"
+        "ko": "gemini-3.1-flash-tts-preview\n지금 어디에 가요?",
+        "tl": "gemini-3.1-flash-tts-preview\nWhere are you going right now?"
       },
       {
         "situation": "Suggesting a café visit tomorrow",
-        "ko": "내일 카페에 같이 갈까요?",
-        "tl": "Shall we go to a café together tomorrow?"
+        "ko": "gemini-3.1-flash-tts-preview\n내일 카페에 같이 갈까요?",
+        "tl": "gemini-3.1-flash-tts-preview\nShall we go to a café together tomorrow?"
       }
     ]
   },
@@ -464,58 +464,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Packing books into a school bag",
-    "example_ko": "가방에 책을 넣었어요.",
-    "example_tl": "I put books in my bag.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n가방에 책을 넣었어요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI put books in my bag.",
     "examples": [
       {
         "situation": "Packing books into a school bag",
-        "ko": "가방에 책을 넣었어요.",
-        "tl": "I put books in my bag."
+        "ko": "gemini-3.1-flash-tts-preview\n가방에 책을 넣었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI put books in my bag."
       },
       {
         "situation": "Buying a new bag while shopping",
-        "ko": "어제 새 가방을 샀어요.",
-        "tl": "I bought a new bag yesterday."
+        "ko": "gemini-3.1-flash-tts-preview\n어제 새 가방을 샀어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI bought a new bag yesterday."
       },
       {
         "situation": "Leaving a bag on the bus",
-        "ko": "가방을 버스에 두고 내렸어요.",
-        "tl": "I left my bag on the bus."
+        "ko": "gemini-3.1-flash-tts-preview\n가방을 버스에 두고 내렸어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI left my bag on the bus."
       },
       {
         "situation": "Packing a bag for a trip",
-        "ko": "여행 가방을 준비했어요.",
-        "tl": "I packed my travel bag."
+        "ko": "gemini-3.1-flash-tts-preview\n여행 가방을 준비했어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI packed my travel bag."
       },
       {
         "situation": "Choosing a bag by color in a store",
-        "ko": "검은색 가방이 마음에 들어요.",
-        "tl": "I like the black bag."
+        "ko": "gemini-3.1-flash-tts-preview\n검은색 가방이 마음에 들어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI like the black bag."
       },
       {
         "situation": "Receiving a bag as a birthday gift",
-        "ko": "생일에 가방을 선물로 받았어요.",
-        "tl": "I received a bag as a birthday gift."
+        "ko": "gemini-3.1-flash-tts-preview\n생일에 가방을 선물로 받았어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI received a bag as a birthday gift."
       },
       {
         "situation": "Complaining that a bag is too heavy",
-        "ko": "이 가방이 너무 무거워요.",
-        "tl": "This bag is too heavy."
+        "ko": "gemini-3.1-flash-tts-preview\n이 가방이 너무 무거워요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThis bag is too heavy."
       },
       {
         "situation": "Asking someone if they have seen a lost bag",
-        "ko": "제 가방을 봤어요?",
-        "tl": "Did you see my bag?"
+        "ko": "gemini-3.1-flash-tts-preview\n제 가방을 봤어요?",
+        "tl": "gemini-3.1-flash-tts-preview\nDid you see my bag?"
       },
       {
         "situation": "Carrying a bag to work every day",
-        "ko": "회사에 갈 때 가방을 들어요.",
-        "tl": "I carry a bag when I go to work."
+        "ko": "gemini-3.1-flash-tts-preview\n회사에 갈 때 가방을 들어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI carry a bag when I go to work."
       },
       {
         "situation": "Finding a wallet inside a bag",
-        "ko": "가방 안에 지갑이 있어요.",
-        "tl": "There is a wallet inside the bag."
+        "ko": "gemini-3.1-flash-tts-preview\n가방 안에 지갑이 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere is a wallet inside the bag."
       }
     ]
   },
@@ -529,58 +529,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Talking about a favorite singer's upcoming concert",
-    "example_ko": "제가 좋아하는 가수가 콘서트를 해요.",
-    "example_tl": "My favorite singer is having a concert.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n제가 좋아하는 가수가 콘서트를 해요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nMy favorite singer is having a concert.",
     "examples": [
       {
         "situation": "Talking about a favorite singer's upcoming concert",
-        "ko": "제가 좋아하는 가수가 콘서트를 해요.",
-        "tl": "My favorite singer is having a concert."
+        "ko": "gemini-3.1-flash-tts-preview\n제가 좋아하는 가수가 콘서트를 해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy favorite singer is having a concert."
       },
       {
         "situation": "Sharing a childhood dream",
-        "ko": "어릴 때 가수가 되고 싶었어요.",
-        "tl": "I wanted to become a singer when I was young."
+        "ko": "gemini-3.1-flash-tts-preview\n어릴 때 가수가 되고 싶었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI wanted to become a singer when I was young."
       },
       {
         "situation": "Recommending a singer's songs to a friend",
-        "ko": "그 가수의 노래가 정말 좋아요.",
-        "tl": "That singer's songs are really good."
+        "ko": "gemini-3.1-flash-tts-preview\n그 가수의 노래가 정말 좋아요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThat singer's songs are really good."
       },
       {
         "situation": "Watching a singer perform on a TV show",
-        "ko": "유명한 가수가 방송에 나왔어요.",
-        "tl": "A famous singer appeared on TV."
+        "ko": "gemini-3.1-flash-tts-preview\n유명한 가수가 방송에 나왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nA famous singer appeared on TV."
       },
       {
         "situation": "Excited about a new album release",
-        "ko": "좋아하는 가수가 새 앨범을 냈어요.",
-        "tl": "My favorite singer released a new album."
+        "ko": "gemini-3.1-flash-tts-preview\n좋아하는 가수가 새 앨범을 냈어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy favorite singer released a new album."
       },
       {
         "situation": "Introducing someone's job",
-        "ko": "그 사람은 유명한 가수예요.",
-        "tl": "That person is a famous singer."
+        "ko": "gemini-3.1-flash-tts-preview\n그 사람은 유명한 가수예요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThat person is a famous singer."
       },
       {
         "situation": "Asking about music preferences",
-        "ko": "어떤 가수의 음악을 좋아해요?",
-        "tl": "Which singer's music do you like?"
+        "ko": "gemini-3.1-flash-tts-preview\n어떤 가수의 음악을 좋아해요?",
+        "tl": "gemini-3.1-flash-tts-preview\nWhich singer's music do you like?"
       },
       {
         "situation": "Sharing feelings after attending a concert",
-        "ko": "그 가수의 콘서트가 정말 좋았어요.",
-        "tl": "That singer's concert was really great."
+        "ko": "gemini-3.1-flash-tts-preview\n그 가수의 콘서트가 정말 좋았어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThat singer's concert was really great."
       },
       {
         "situation": "Introducing a favorite Korean singer to a friend",
-        "ko": "저는 좋아하는 한국 가수가 있어요.",
-        "tl": "There is a Korean singer that I like."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 좋아하는 한국 가수가 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere is a Korean singer that I like."
       },
       {
         "situation": "Asking if someone knows a particular singer",
-        "ko": "이 가수 알아요?",
-        "tl": "Do you know this singer?"
+        "ko": "gemini-3.1-flash-tts-preview\n이 가수 알아요?",
+        "tl": "gemini-3.1-flash-tts-preview\nDo you know this singer?"
       }
     ]
   },
@@ -594,58 +594,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Describing Where Something Is on a Table",
-    "example_ko": "테이블 가운데에 꽃이 있어요.",
-    "example_tl": "There are flowers in the middle of the table.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n테이블 가운데에 꽃이 있어요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nThere are flowers in the middle of the table.",
     "examples": [
       {
         "situation": "Describing Where Something Is on a Table",
-        "ko": "테이블 가운데에 꽃이 있어요.",
-        "tl": "There are flowers in the middle of the table."
+        "ko": "gemini-3.1-flash-tts-preview\n테이블 가운데에 꽃이 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere are flowers in the middle of the table."
       },
       {
         "situation": "Pointing Out a Landmark in a Square",
-        "ko": "광장 가운데에 분수가 있어요.",
-        "tl": "There is a fountain in the middle of the square."
+        "ko": "gemini-3.1-flash-tts-preview\n광장 가운데에 분수가 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere is a fountain in the middle of the square."
       },
       {
         "situation": "Directing Someone for a Photo",
-        "ko": "사진 찍을 때 가운데에 서 주세요.",
-        "tl": "Please stand in the middle when we take the photo."
+        "ko": "gemini-3.1-flash-tts-preview\n사진 찍을 때 가운데에 서 주세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nPlease stand in the middle when we take the photo."
       },
       {
         "situation": "Guiding Someone to a Seat",
-        "ko": "가운데 자리에 앉으세요.",
-        "tl": "Please sit in the middle seat."
+        "ko": "gemini-3.1-flash-tts-preview\n가운데 자리에 앉으세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nPlease sit in the middle seat."
       },
       {
         "situation": "Arranging Items on a Shelf",
-        "ko": "책을 선반 가운데에 놓았어요.",
-        "tl": "I placed the book in the middle of the shelf."
+        "ko": "gemini-3.1-flash-tts-preview\n책을 선반 가운데에 놓았어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI placed the book in the middle of the shelf."
       },
       {
         "situation": "Warning About Road Safety",
-        "ko": "길 가운데로 걷지 마세요.",
-        "tl": "Please don't walk in the middle of the road."
+        "ko": "gemini-3.1-flash-tts-preview\n길 가운데로 걷지 마세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nPlease don't walk in the middle of the road."
       },
       {
         "situation": "Describing Classroom Seating",
-        "ko": "저는 교실 가운데에 앉아요.",
-        "tl": "I sit in the middle of the classroom."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 교실 가운데에 앉아요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI sit in the middle of the classroom."
       },
       {
         "situation": "Describing a Park Landmark",
-        "ko": "공원 가운데에 큰 나무가 있어요.",
-        "tl": "There is a big tree in the middle of the park."
+        "ko": "gemini-3.1-flash-tts-preview\n공원 가운데에 큰 나무가 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere is a big tree in the middle of the park."
       },
       {
         "situation": "Describing Where Someone Stands in a Group",
-        "ko": "친구들 가운데에 제가 서 있어요.",
-        "tl": "I am standing in the middle of my friends."
+        "ko": "gemini-3.1-flash-tts-preview\n친구들 가운데에 제가 서 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI am standing in the middle of my friends."
       },
       {
         "situation": "Explaining Room Layout",
-        "ko": "방 가운데에 침대를 놓았어요.",
-        "tl": "I placed the bed in the middle of the room."
+        "ko": "gemini-3.1-flash-tts-preview\n방 가운데에 침대를 놓았어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI placed the bed in the middle of the room."
       }
     ]
   },
@@ -659,58 +659,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Cutting Paper in an Art Class",
-    "example_ko": "가위로 색종이를 잘랐어요.",
-    "example_tl": "I cut colored paper with scissors.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n가위로 색종이를 잘랐어요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI cut colored paper with scissors.",
     "examples": [
       {
         "situation": "Cutting Paper in an Art Class",
-        "ko": "가위로 색종이를 잘랐어요.",
-        "tl": "I cut colored paper with scissors."
+        "ko": "gemini-3.1-flash-tts-preview\n가위로 색종이를 잘랐어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI cut colored paper with scissors."
       },
       {
         "situation": "Cutting Meat at a Korean BBQ Restaurant",
-        "ko": "가위로 고기를 잘라서 먹어요.",
-        "tl": "I cut the meat with scissors and eat it."
+        "ko": "gemini-3.1-flash-tts-preview\n가위로 고기를 잘라서 먹어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI cut the meat with scissors and eat it."
       },
       {
         "situation": "Looking for Scissors at Home",
-        "ko": "가위가 어디 있어요?",
-        "tl": "Where are the scissors?"
+        "ko": "gemini-3.1-flash-tts-preview\n가위가 어디 있어요?",
+        "tl": "gemini-3.1-flash-tts-preview\nWhere are the scissors?"
       },
       {
         "situation": "Getting a Haircut at a Salon",
-        "ko": "미용사가 가위로 머리를 잘랐어요.",
-        "tl": "The hairdresser cut the client's hair with scissors."
+        "ko": "gemini-3.1-flash-tts-preview\n미용사가 가위로 머리를 잘랐어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe hairdresser cut the client's hair with scissors."
       },
       {
         "situation": "Playing Rock-Paper-Scissors",
-        "ko": "가위바위보로 정해요.",
-        "tl": "We decide with rock-paper-scissors."
+        "ko": "gemini-3.1-flash-tts-preview\n가위바위보로 정해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nWe decide with rock-paper-scissors."
       },
       {
         "situation": "Wrapping a Gift",
-        "ko": "선물 포장지를 가위로 잘랐어요.",
-        "tl": "I cut the gift wrapping paper with scissors."
+        "ko": "gemini-3.1-flash-tts-preview\n선물 포장지를 가위로 잘랐어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI cut the gift wrapping paper with scissors."
       },
       {
         "situation": "Children Doing a Craft Activity",
-        "ko": "아이가 가위로 그림을 오렸어요.",
-        "tl": "The child cut out a picture with scissors."
+        "ko": "gemini-3.1-flash-tts-preview\n아이가 가위로 그림을 오렸어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe child cut out a picture with scissors."
       },
       {
         "situation": "Sewing and Cutting Thread",
-        "ko": "실을 가위로 잘랐어요.",
-        "tl": "I cut the thread with scissors."
+        "ko": "gemini-3.1-flash-tts-preview\n실을 가위로 잘랐어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI cut the thread with scissors."
       },
       {
         "situation": "Putting Scissors Away",
-        "ko": "가위를 서랍에 넣었어요.",
-        "tl": "I put the scissors in the drawer."
+        "ko": "gemini-3.1-flash-tts-preview\n가위를 서랍에 넣었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI put the scissors in the drawer."
       },
       {
         "situation": "Preparing Fruit to Eat",
-        "ko": "포도를 가위로 잘라서 먹었어요.",
-        "tl": "I cut the grapes with scissors and ate them."
+        "ko": "gemini-3.1-flash-tts-preview\n포도를 가위로 잘라서 먹었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI cut the grapes with scissors and ate them."
       }
     ]
   },
@@ -724,58 +724,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Describing Autumn Weather",
-    "example_ko": "가을에는 날씨가 시원해요.",
-    "example_tl": "The weather is cool in autumn.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n가을에는 날씨가 시원해요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nThe weather is cool in autumn.",
     "examples": [
       {
         "situation": "Describing Autumn Weather",
-        "ko": "가을에는 날씨가 시원해요.",
-        "tl": "The weather is cool in autumn."
+        "ko": "gemini-3.1-flash-tts-preview\n가을에는 날씨가 시원해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe weather is cool in autumn."
       },
       {
         "situation": "Admiring Autumn Foliage",
-        "ko": "가을에 단풍이 정말 예뻐요.",
-        "tl": "The autumn leaves are really beautiful."
+        "ko": "gemini-3.1-flash-tts-preview\n가을에 단풍이 정말 예뻐요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe autumn leaves are really beautiful."
       },
       {
         "situation": "Making Travel Plans for Autumn",
-        "ko": "가을에 여행을 가고 싶어요.",
-        "tl": "I want to travel in autumn."
+        "ko": "gemini-3.1-flash-tts-preview\n가을에 여행을 가고 싶어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI want to travel in autumn."
       },
       {
         "situation": "Talking About Seasonal Food",
-        "ko": "가을에는 고구마가 맛있어요.",
-        "tl": "Sweet potatoes are delicious in autumn."
+        "ko": "gemini-3.1-flash-tts-preview\n가을에는 고구마가 맛있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nSweet potatoes are delicious in autumn."
       },
       {
         "situation": "Choosing Clothes for the Season",
-        "ko": "가을에는 긴팔 옷을 입어요.",
-        "tl": "I wear long-sleeved clothes in autumn."
+        "ko": "gemini-3.1-flash-tts-preview\n가을에는 긴팔 옷을 입어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI wear long-sleeved clothes in autumn."
       },
       {
         "situation": "Sharing Your Favorite Season",
-        "ko": "저는 가을을 제일 좋아해요.",
-        "tl": "I like autumn the most."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 가을을 제일 좋아해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI like autumn the most."
       },
       {
         "situation": "Talking About How Busy Farmers Are",
-        "ko": "가을에는 농부들이 바빠요.",
-        "tl": "Farmers are busy in autumn."
+        "ko": "gemini-3.1-flash-tts-preview\n가을에는 농부들이 바빠요.",
+        "tl": "gemini-3.1-flash-tts-preview\nFarmers are busy in autumn."
       },
       {
         "situation": "Comparing Autumn and Summer Weather",
-        "ko": "가을은 여름보다 시원해요.",
-        "tl": "Autumn is cooler than summer."
+        "ko": "gemini-3.1-flash-tts-preview\n가을은 여름보다 시원해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nAutumn is cooler than summer."
       },
       {
         "situation": "Taking a Walk in the Park in Autumn",
-        "ko": "가을에 공원에서 산책했어요.",
-        "tl": "I went for a walk in the park in autumn."
+        "ko": "gemini-3.1-flash-tts-preview\n가을에 공원에서 산책했어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI went for a walk in the park in autumn."
       },
       {
         "situation": "Describing Seasonal Changes",
-        "ko": "가을이 오면 나뭇잎이 떨어져요.",
-        "tl": "When autumn comes, the leaves fall."
+        "ko": "gemini-3.1-flash-tts-preview\n가을이 오면 나뭇잎이 떨어져요.",
+        "tl": "gemini-3.1-flash-tts-preview\nWhen autumn comes, the leaves fall."
       }
     ]
   },
@@ -789,58 +789,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Talking About Favorite Food",
-    "example_ko": "저는 김치찌개를 가장 좋아해요.",
-    "example_tl": "I like kimchi stew the most.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n저는 김치찌개를 가장 좋아해요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI like kimchi stew the most.",
     "examples": [
       {
         "situation": "Talking About Favorite Food",
-        "ko": "저는 김치찌개를 가장 좋아해요.",
-        "tl": "I like kimchi stew the most."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 김치찌개를 가장 좋아해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI like kimchi stew the most."
       },
       {
         "situation": "Comparing Seasons",
-        "ko": "여름이 가장 더워요.",
-        "tl": "Summer is the hottest."
+        "ko": "gemini-3.1-flash-tts-preview\n여름이 가장 더워요.",
+        "tl": "gemini-3.1-flash-tts-preview\nSummer is the hottest."
       },
       {
         "situation": "Introducing Family Members",
-        "ko": "우리 가족 중에서 동생이 가장 어려요.",
-        "tl": "My younger sibling is the youngest in our family."
+        "ko": "gemini-3.1-flash-tts-preview\n우리 가족 중에서 동생이 가장 어려요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy younger sibling is the youngest in our family."
       },
       {
         "situation": "Recommending a Restaurant",
-        "ko": "이 식당이 우리 동네에서 가장 맛있어요.",
-        "tl": "This restaurant is the most delicious in our neighborhood."
+        "ko": "gemini-3.1-flash-tts-preview\n이 식당이 우리 동네에서 가장 맛있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThis restaurant is the most delicious in our neighborhood."
       },
       {
         "situation": "Talking About School Subjects",
-        "ko": "수학이 가장 어려워요.",
-        "tl": "Math is the most difficult."
+        "ko": "gemini-3.1-flash-tts-preview\n수학이 가장 어려워요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMath is the most difficult."
       },
       {
         "situation": "Describing a Best Friend",
-        "ko": "민준 씨는 제 가장 친한 친구예요.",
-        "tl": "Minjun is my best friend."
+        "ko": "gemini-3.1-flash-tts-preview\n민준 씨는 제 가장 친한 친구예요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMinjun is my best friend."
       },
       {
         "situation": "Recommending a Travel Destination",
-        "ko": "제주도가 가장 아름다운 곳이에요.",
-        "tl": "Jeju Island is the most beautiful place."
+        "ko": "gemini-3.1-flash-tts-preview\n제주도가 가장 아름다운 곳이에요.",
+        "tl": "gemini-3.1-flash-tts-preview\nJeju Island is the most beautiful place."
       },
       {
         "situation": "Talking About Daily Routine",
-        "ko": "아침이 가장 바빠요.",
-        "tl": "Mornings are the busiest."
+        "ko": "gemini-3.1-flash-tts-preview\n아침이 가장 바빠요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMornings are the busiest."
       },
       {
         "situation": "Shopping for Clothes",
-        "ko": "이 옷이 가장 싸요.",
-        "tl": "This clothing item is the cheapest."
+        "ko": "gemini-3.1-flash-tts-preview\n이 옷이 가장 싸요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThis clothing item is the cheapest."
       },
       {
         "situation": "Choosing a Gift",
-        "ko": "어머니 선물이 가장 커요.",
-        "tl": "Mom's gift is the biggest."
+        "ko": "gemini-3.1-flash-tts-preview\n어머니 선물이 가장 커요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMom's gift is the biggest."
       }
     ]
   },
@@ -854,58 +854,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Leaving Home on a Rainy Day",
-    "example_ko": "비가 오니까 우산을 가져가세요.",
-    "example_tl": "It's raining, so please take an umbrella with you.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n비가 오니까 우산을 가져가세요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nIt's raining, so please take an umbrella with you.",
     "examples": [
       {
         "situation": "Leaving Home on a Rainy Day",
-        "ko": "비가 오니까 우산을 가져가세요.",
-        "tl": "It's raining, so please take an umbrella with you."
+        "ko": "gemini-3.1-flash-tts-preview\n비가 오니까 우산을 가져가세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nIt's raining, so please take an umbrella with you."
       },
       {
         "situation": "Preparing a Packed Lunch",
-        "ko": "점심 도시락을 학교에 가져갔어요.",
-        "tl": "I took my lunch box to school."
+        "ko": "gemini-3.1-flash-tts-preview\n점심 도시락을 학교에 가져갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI took my lunch box to school."
       },
       {
         "situation": "Ordering Food to Go",
-        "ko": "음식을 포장해서 가져갈 거예요.",
-        "tl": "I'm going to pack the food and take it to go."
+        "ko": "gemini-3.1-flash-tts-preview\n음식을 포장해서 가져갈 거예요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm going to pack the food and take it to go."
       },
       {
         "situation": "Preparing for a Picnic",
-        "ko": "소풍에 과자랑 음료수를 가져갔어요.",
-        "tl": "I took snacks and drinks to the picnic."
+        "ko": "gemini-3.1-flash-tts-preview\n소풍에 과자랑 음료수를 가져갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI took snacks and drinks to the picnic."
       },
       {
         "situation": "Getting Ready for Class",
-        "ko": "교과서를 학교에 가져가야 해요.",
-        "tl": "I need to take my textbook to school."
+        "ko": "gemini-3.1-flash-tts-preview\n교과서를 학교에 가져가야 해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI need to take my textbook to school."
       },
       {
         "situation": "Delivering a Gift to a Friend",
-        "ko": "친구 생일 선물을 가져갔어요.",
-        "tl": "I took a birthday gift to my friend."
+        "ko": "gemini-3.1-flash-tts-preview\n친구 생일 선물을 가져갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI took a birthday gift to my friend."
       },
       {
         "situation": "Going on a Trip",
-        "ko": "여행에 필요한 짐을 다 가져갔어요.",
-        "tl": "I took all the luggage I needed for the trip."
+        "ko": "gemini-3.1-flash-tts-preview\n여행에 필요한 짐을 다 가져갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI took all the luggage I needed for the trip."
       },
       {
         "situation": "Preparing to Exercise Outdoors",
-        "ko": "운동할 때 물을 가져가세요.",
-        "tl": "Please take water with you when you exercise."
+        "ko": "gemini-3.1-flash-tts-preview\n운동할 때 물을 가져가세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nPlease take water with you when you exercise."
       },
       {
         "situation": "Moving to a New House",
-        "ko": "오늘 짐을 새집으로 가져갔어요.",
-        "tl": "Today I took my belongings to the new house."
+        "ko": "gemini-3.1-flash-tts-preview\n오늘 짐을 새집으로 가져갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nToday I took my belongings to the new house."
       },
       {
         "situation": "Visiting a Sick Friend",
-        "ko": "아픈 친구한테 과일을 가져갔어요.",
-        "tl": "I took some fruit to my sick friend."
+        "ko": "gemini-3.1-flash-tts-preview\n아픈 친구한테 과일을 가져갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI took some fruit to my sick friend."
       }
     ]
   },
@@ -919,58 +919,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Asking for Water at a Restaurant",
-    "example_ko": "물 좀 가져다 주세요.",
-    "example_tl": "Please bring some water.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n물 좀 가져다 주세요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nPlease bring some water.",
     "examples": [
       {
         "situation": "Asking for Water at a Restaurant",
-        "ko": "물 좀 가져다 주세요.",
-        "tl": "Please bring some water."
+        "ko": "gemini-3.1-flash-tts-preview\n물 좀 가져다 주세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nPlease bring some water."
       },
       {
         "situation": "Submitting Homework",
-        "ko": "숙제를 학교에 가져왔어요.",
-        "tl": "I brought my homework to school."
+        "ko": "gemini-3.1-flash-tts-preview\n숙제를 학교에 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought my homework to school."
       },
       {
         "situation": "Welcoming a Guest",
-        "ko": "커피 두 잔 가져왔어요.",
-        "tl": "I brought two cups of coffee."
+        "ko": "gemini-3.1-flash-tts-preview\n커피 두 잔 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought two cups of coffee."
       },
       {
         "situation": "Returning from a Trip",
-        "ko": "여행에서 선물을 가져왔어요.",
-        "tl": "I brought souvenirs back from the trip."
+        "ko": "gemini-3.1-flash-tts-preview\n여행에서 선물을 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought souvenirs back from the trip."
       },
       {
         "situation": "Cooking at Home",
-        "ko": "시장에서 채소를 가져왔어요.",
-        "tl": "I brought vegetables from the market."
+        "ko": "gemini-3.1-flash-tts-preview\n시장에서 채소를 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought vegetables from the market."
       },
       {
         "situation": "Visiting a Friend's Birthday Party",
-        "ko": "케이크를 가져왔어요.",
-        "tl": "I brought a cake."
+        "ko": "gemini-3.1-flash-tts-preview\n케이크를 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought a cake."
       },
       {
         "situation": "Forgetting Something in Class",
-        "ko": "교과서를 집에서 가져왔어요.",
-        "tl": "I brought my textbook from home."
+        "ko": "gemini-3.1-flash-tts-preview\n교과서를 집에서 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought my textbook from home."
       },
       {
         "situation": "Taking Care of a Sick Person",
-        "ko": "약을 집에서 가져왔어요.",
-        "tl": "I brought medicine from home."
+        "ko": "gemini-3.1-flash-tts-preview\n약을 집에서 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought medicine from home."
       },
       {
         "situation": "Asking a Coworker for Help",
-        "ko": "저 가방 좀 여기 가져다 주세요.",
-        "tl": "Please bring that bag over here."
+        "ko": "gemini-3.1-flash-tts-preview\n저 가방 좀 여기 가져다 주세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nPlease bring that bag over here."
       },
       {
         "situation": "Getting Ready for a Picnic",
-        "ko": "공원에 돗자리를 가져왔어요.",
-        "tl": "I brought a picnic mat to the park."
+        "ko": "gemini-3.1-flash-tts-preview\n공원에 돗자리를 가져왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI brought a picnic mat to the park."
       }
     ]
   },
@@ -984,58 +984,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Introducing Your Family",
-    "example_ko": "우리 가족은 네 명이에요.",
-    "example_tl": "There are four people in my family.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n우리 가족은 네 명이에요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nThere are four people in my family.",
     "examples": [
       {
         "situation": "Introducing Your Family",
-        "ko": "우리 가족은 네 명이에요.",
-        "tl": "There are four people in my family."
+        "ko": "gemini-3.1-flash-tts-preview\n우리 가족은 네 명이에요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere are four people in my family."
       },
       {
         "situation": "Weekend Plans",
-        "ko": "주말에 가족과 같이 여행을 가요.",
-        "tl": "I'm going on a trip with my family this weekend."
+        "ko": "gemini-3.1-flash-tts-preview\n주말에 가족과 같이 여행을 가요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm going on a trip with my family this weekend."
       },
       {
         "situation": "Taking a Family Photo",
-        "ko": "공원에서 가족 사진을 찍었어요.",
-        "tl": "We took a family photo at the park."
+        "ko": "gemini-3.1-flash-tts-preview\n공원에서 가족 사진을 찍었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nWe took a family photo at the park."
       },
       {
         "situation": "Talking About Chuseok Holiday",
-        "ko": "추석에 가족이 다 같이 모여요.",
-        "tl": "The whole family gathers together on Chuseok."
+        "ko": "gemini-3.1-flash-tts-preview\n추석에 가족이 다 같이 모여요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe whole family gathers together on Chuseok."
       },
       {
         "situation": "Having Dinner Together",
-        "ko": "저녁에 가족과 함께 밥을 먹어요.",
-        "tl": "I eat dinner together with my family in the evening."
+        "ko": "gemini-3.1-flash-tts-preview\n저녁에 가족과 함께 밥을 먹어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI eat dinner together with my family in the evening."
       },
       {
         "situation": "Calling Home",
-        "ko": "매일 저녁 가족에게 전화해요.",
-        "tl": "I call my family every evening."
+        "ko": "gemini-3.1-flash-tts-preview\n매일 저녁 가족에게 전화해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI call my family every evening."
       },
       {
         "situation": "Talking About What Matters Most",
-        "ko": "저에게 가족이 가장 중요해요.",
-        "tl": "Family is the most important thing to me."
+        "ko": "gemini-3.1-flash-tts-preview\n저에게 가족이 가장 중요해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nFamily is the most important thing to me."
       },
       {
         "situation": "Describing Your Family Members",
-        "ko": "제 가족은 부모님하고 동생이에요.",
-        "tl": "My family consists of my parents and my younger sibling."
+        "ko": "gemini-3.1-flash-tts-preview\n제 가족은 부모님하고 동생이에요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy family consists of my parents and my younger sibling."
       },
       {
         "situation": "Family Health",
-        "ko": "가족이 다 건강해서 행복해요.",
-        "tl": "I'm happy because my whole family is healthy."
+        "ko": "gemini-3.1-flash-tts-preview\n가족이 다 건강해서 행복해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm happy because my whole family is healthy."
       },
       {
         "situation": "Moving to a New Place",
-        "ko": "가족과 같이 살고 싶어서 이사했어요.",
-        "tl": "I moved because I wanted to live together with my family."
+        "ko": "gemini-3.1-flash-tts-preview\n가족과 같이 살고 싶어서 이사했어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI moved because I wanted to live together with my family."
       }
     ]
   },
@@ -1049,58 +1049,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Daily life",
-    "example_ko": "저는 중요한 약속을 가지고 있어요.",
-    "example_tl": "I have an important appointment.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n저는 중요한 약속을 가지고 있어요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI have an important appointment.",
     "examples": [
       {
         "situation": "Daily life",
-        "ko": "저는 중요한 약속을 가지고 있어요.",
-        "tl": "I have an important appointment."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 중요한 약속을 가지고 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI have an important appointment."
       },
       {
         "situation": "Future plans",
-        "ko": "언젠가 제 집을 가지고 싶어요.",
-        "tl": "I want to have my own house someday."
+        "ko": "gemini-3.1-flash-tts-preview\n언젠가 제 집을 가지고 싶어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI want to have my own house someday."
       },
       {
         "situation": "Describing characteristics",
-        "ko": "그는 특별한 재능을 가지고 있어요.",
-        "tl": "He has a special talent."
+        "ko": "gemini-3.1-flash-tts-preview\n그는 특별한 재능을 가지고 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nHe has a special talent."
       },
       {
         "situation": "Interests",
-        "ko": "저는 요리에 깊은 관심을 가지고 있어요.",
-        "tl": "I have a deep interest in cooking."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 요리에 깊은 관심을 가지고 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI have a deep interest in cooking."
       },
       {
         "situation": "Aspirations",
-        "ko": "건강한 생활 습관을 가지고 싶어요.",
-        "tl": "I want to have healthy lifestyle habits."
+        "ko": "gemini-3.1-flash-tts-preview\n건강한 생활 습관을 가지고 싶어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI want to have healthy lifestyle habits."
       },
       {
         "situation": "Possession",
-        "ko": "지금 여분의 마스크를 가지고 있어요?",
-        "tl": "Do you have an extra mask right now?"
+        "ko": "gemini-3.1-flash-tts-preview\n지금 여분의 마스크를 가지고 있어요?",
+        "tl": "gemini-3.1-flash-tts-preview\nDo you have an extra mask right now?"
       },
       {
         "situation": "Ambition",
-        "ko": "큰 목표를 가지고 노력해야 해요.",
-        "tl": "You should have a big goal and work hard."
+        "ko": "gemini-3.1-flash-tts-preview\n큰 목표를 가지고 노력해야 해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nYou should have a big goal and work hard."
       },
       {
         "situation": "Personality",
-        "ko": "제 동생은 긍정적인 마음을 가지고 있어요.",
-        "tl": "My younger sibling has a positive mindset."
+        "ko": "gemini-3.1-flash-tts-preview\n제 동생은 긍정적인 마음을 가지고 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy younger sibling has a positive mindset."
       },
       {
         "situation": "Strategy",
-        "ko": "우리는 좋은 전략을 가지고 있어요.",
-        "tl": "We have a good strategy."
+        "ko": "gemini-3.1-flash-tts-preview\n우리는 좋은 전략을 가지고 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nWe have a good strategy."
       },
       {
         "situation": "Encouragement",
-        "ko": "자신감을 가지고 발표해 보세요.",
-        "tl": "Have confidence and give your presentation."
+        "ko": "gemini-3.1-flash-tts-preview\n자신감을 가지고 발표해 보세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nHave confidence and give your presentation."
       }
     ]
   },
@@ -1114,58 +1114,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Telling a friend you are sick",
-    "example_ko": "저 감기에 걸렸어요.",
-    "example_tl": "I caught a cold.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n저 감기에 걸렸어요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI caught a cold.",
     "examples": [
       {
         "situation": "Telling a friend you are sick",
-        "ko": "저 감기에 걸렸어요.",
-        "tl": "I caught a cold."
+        "ko": "gemini-3.1-flash-tts-preview\n저 감기에 걸렸어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI caught a cold."
       },
       {
         "situation": "Explaining why you went to the hospital",
-        "ko": "감기가 심해서 병원에 갔어요.",
-        "tl": "My cold got bad, so I went to the hospital."
+        "ko": "gemini-3.1-flash-tts-preview\n감기가 심해서 병원에 갔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy cold got bad, so I went to the hospital."
       },
       {
         "situation": "Warning a friend about cold weather",
-        "ko": "날씨가 추우니까 감기 조심하세요.",
-        "tl": "The weather is cold, so be careful not to catch a cold."
+        "ko": "gemini-3.1-flash-tts-preview\n날씨가 추우니까 감기 조심하세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe weather is cold, so be careful not to catch a cold."
       },
       {
         "situation": "Explaining why a friend is absent",
-        "ko": "제 친구는 감기에 걸려서 오늘 못 왔어요.",
-        "tl": "My friend caught a cold and couldn't come today."
+        "ko": "gemini-3.1-flash-tts-preview\n제 친구는 감기에 걸려서 오늘 못 왔어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy friend caught a cold and couldn't come today."
       },
       {
         "situation": "Describing cold symptoms",
-        "ko": "감기에 걸려서 코가 막혀요.",
-        "tl": "I have a cold and my nose is stuffy."
+        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸려서 코가 막혀요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI have a cold and my nose is stuffy."
       },
       {
         "situation": "Resting at home because of a cold",
-        "ko": "감기에 걸려서 오늘 집에서 쉬었어요.",
-        "tl": "I caught a cold, so I rested at home today."
+        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸려서 오늘 집에서 쉬었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI caught a cold, so I rested at home today."
       },
       {
         "situation": "Hearing a diagnosis from a doctor",
-        "ko": "의사 선생님이 감기라고 하셨어요.",
-        "tl": "The doctor said it was a cold."
+        "ko": "gemini-3.1-flash-tts-preview\n의사 선생님이 감기라고 하셨어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe doctor said it was a cold."
       },
       {
         "situation": "Talking about how to prevent a cold",
-        "ko": "손을 잘 씻으면 감기에 안 걸려요.",
-        "tl": "If you wash your hands well, you won't catch a cold."
+        "ko": "gemini-3.1-flash-tts-preview\n손을 잘 씻으면 감기에 안 걸려요.",
+        "tl": "gemini-3.1-flash-tts-preview\nIf you wash your hands well, you won't catch a cold."
       },
       {
         "situation": "Saying you are finally feeling better",
-        "ko": "감기가 다 나았어요.",
-        "tl": "My cold is completely gone."
+        "ko": "gemini-3.1-flash-tts-preview\n감기가 다 나았어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nMy cold is completely gone."
       },
       {
         "situation": "Talking about taking medicine for a cold",
-        "ko": "감기 때문에 약을 먹고 있어요.",
-        "tl": "I'm taking medicine because of my cold."
+        "ko": "gemini-3.1-flash-tts-preview\n감기 때문에 약을 먹고 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm taking medicine because of my cold."
       }
     ]
   },
@@ -1179,58 +1179,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Buying medicine at a pharmacy",
-    "example_ko": "약국에서 감기약을 샀어요.",
-    "example_tl": "I bought cold medicine at the pharmacy.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n약국에서 감기약을 샀어요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI bought cold medicine at the pharmacy.",
     "examples": [
       {
         "situation": "Buying medicine at a pharmacy",
-        "ko": "약국에서 감기약을 샀어요.",
-        "tl": "I bought cold medicine at the pharmacy."
+        "ko": "gemini-3.1-flash-tts-preview\n약국에서 감기약을 샀어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI bought cold medicine at the pharmacy."
       },
       {
         "situation": "Saying the medicine helped",
-        "ko": "감기약을 먹고 좀 나아졌어요.",
-        "tl": "I felt a bit better after taking cold medicine."
+        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹고 좀 나아졌어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI felt a bit better after taking cold medicine."
       },
       {
         "situation": "A pharmacist explaining how often to take the medicine",
-        "ko": "감기약은 하루에 세 번 드세요.",
-        "tl": "Please take the cold medicine three times a day."
+        "ko": "gemini-3.1-flash-tts-preview\n감기약은 하루에 세 번 드세요.",
+        "tl": "gemini-3.1-flash-tts-preview\nPlease take the cold medicine three times a day."
       },
       {
         "situation": "Packing a travel bag",
-        "ko": "여행 갈 때 감기약을 챙겼어요.",
-        "tl": "I packed cold medicine when I went on a trip."
+        "ko": "gemini-3.1-flash-tts-preview\n여행 갈 때 감기약을 챙겼어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI packed cold medicine when I went on a trip."
       },
       {
         "situation": "Giving medicine to a sick friend",
-        "ko": "감기에 걸린 친구한테 감기약을 줬어요.",
-        "tl": "I gave cold medicine to my friend who had a cold."
+        "ko": "gemini-3.1-flash-tts-preview\n감기에 걸린 친구한테 감기약을 줬어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI gave cold medicine to my friend who had a cold."
       },
       {
         "situation": "Getting a prescription at the hospital",
-        "ko": "의사 선생님이 감기약을 처방해 주셨어요.",
-        "tl": "The doctor prescribed cold medicine for me."
+        "ko": "gemini-3.1-flash-tts-preview\n의사 선생님이 감기약을 처방해 주셨어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThe doctor prescribed cold medicine for me."
       },
       {
         "situation": "Complaining that the medicine is not working",
-        "ko": "감기약을 먹었는데 안 나아요.",
-        "tl": "I'm not getting better even after taking cold medicine."
+        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹었는데 안 나아요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI'm not getting better even after taking cold medicine."
       },
       {
         "situation": "Giving medicine to a sick child",
-        "ko": "아이한테 감기약을 줬어요.",
-        "tl": "I gave the child cold medicine."
+        "ko": "gemini-3.1-flash-tts-preview\n아이한테 감기약을 줬어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI gave the child cold medicine."
       },
       {
         "situation": "Warning someone about a side effect",
-        "ko": "감기약을 먹으면 졸려요.",
-        "tl": "You feel sleepy when you take cold medicine."
+        "ko": "gemini-3.1-flash-tts-preview\n감기약을 먹으면 졸려요.",
+        "tl": "gemini-3.1-flash-tts-preview\nYou feel sleepy when you take cold medicine."
       },
       {
         "situation": "Asking a pharmacist a question",
-        "ko": "이 감기약은 어떻게 먹어요?",
-        "tl": "How do I take this cold medicine?"
+        "ko": "gemini-3.1-flash-tts-preview\n이 감기약은 어떻게 먹어요?",
+        "tl": "gemini-3.1-flash-tts-preview\nHow do I take this cold medicine?"
       }
     ]
   },
@@ -1244,58 +1244,58 @@
     "level": "1",
     "lang": "en",
     "situation": "Describing what you had for lunch",
-    "example_ko": "점심에 감자를 삶아서 먹었어요.",
-    "example_tl": "I boiled potatoes and ate them for lunch.",
+    "example_ko": "gemini-3.1-flash-tts-preview\n점심에 감자를 삶아서 먹었어요.",
+    "example_tl": "gemini-3.1-flash-tts-preview\nI boiled potatoes and ate them for lunch.",
     "examples": [
       {
         "situation": "Describing what you had for lunch",
-        "ko": "점심에 감자를 삶아서 먹었어요.",
-        "tl": "I boiled potatoes and ate them for lunch."
+        "ko": "gemini-3.1-flash-tts-preview\n점심에 감자를 삶아서 먹었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI boiled potatoes and ate them for lunch."
       },
       {
         "situation": "Picking up groceries at the supermarket",
-        "ko": "마트에서 감자 한 봉지를 샀어요.",
-        "tl": "I bought a bag of potatoes at the supermarket."
+        "ko": "gemini-3.1-flash-tts-preview\n마트에서 감자 한 봉지를 샀어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI bought a bag of potatoes at the supermarket."
       },
       {
         "situation": "Cooking stew at home",
-        "ko": "찌개에 감자를 넣었어요.",
-        "tl": "I added potatoes to the stew."
+        "ko": "gemini-3.1-flash-tts-preview\n찌개에 감자를 넣었어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI added potatoes to the stew."
       },
       {
         "situation": "Snacking on french fries",
-        "ko": "감자튀김이 정말 맛있어요.",
-        "tl": "French fries are really delicious."
+        "ko": "gemini-3.1-flash-tts-preview\n감자튀김이 정말 맛있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nFrench fries are really delicious."
       },
       {
         "situation": "Checking what is left in the kitchen",
-        "ko": "냉장고에 감자가 두 개 있어요.",
-        "tl": "There are two potatoes in the refrigerator."
+        "ko": "gemini-3.1-flash-tts-preview\n냉장고에 감자가 두 개 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere are two potatoes in the refrigerator."
       },
       {
         "situation": "Ordering food at a Korean restaurant",
-        "ko": "감자 볶음을 주문했어요.",
-        "tl": "I ordered stir-fried potatoes."
+        "ko": "gemini-3.1-flash-tts-preview\n감자 볶음을 주문했어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI ordered stir-fried potatoes."
       },
       {
         "situation": "Talking about a grandparent's garden",
-        "ko": "할머니 밭에 감자가 많이 있어요.",
-        "tl": "There are a lot of potatoes in my grandmother's garden."
+        "ko": "gemini-3.1-flash-tts-preview\n할머니 밭에 감자가 많이 있어요.",
+        "tl": "gemini-3.1-flash-tts-preview\nThere are a lot of potatoes in my grandmother's garden."
       },
       {
         "situation": "Describing your favorite snack",
-        "ko": "저는 감자튀김을 제일 좋아해요.",
-        "tl": "French fries are my favorite."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 감자튀김을 제일 좋아해요.",
+        "tl": "gemini-3.1-flash-tts-preview\nFrench fries are my favorite."
       },
       {
         "situation": "Asking a friend what they want to eat",
-        "ko": "같이 감자 요리를 먹을까요?",
-        "tl": "Shall we eat a potato dish together?"
+        "ko": "gemini-3.1-flash-tts-preview\n같이 감자 요리를 먹을까요?",
+        "tl": "gemini-3.1-flash-tts-preview\nShall we eat a potato dish together?"
       },
       {
         "situation": "Explaining a simple recipe to a friend",
-        "ko": "저는 보통 감자를 잘라서 기름에 볶아요.",
-        "tl": "I usually cut the potatoes and stir-fry them in oil."
+        "ko": "gemini-3.1-flash-tts-preview\n저는 보통 감자를 잘라서 기름에 볶아요.",
+        "tl": "gemini-3.1-flash-tts-preview\nI usually cut the potatoes and stir-fry them in oil."
       }
     ]
   },

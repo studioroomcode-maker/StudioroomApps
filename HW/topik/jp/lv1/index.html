@@ -66,7 +66,7 @@ let searchQuery = '';
 
 async function init() {
   try {
-    const res = await fetch('../../../level_data/topik_' + LANG + '_lv' + LEVEL + '.json?v=1778011576');
+    const res = await fetch('../../../level_data/topik_' + LANG + '_lv' + LEVEL + '.json?v=1778013610');
     if (!res.ok) throw new Error('Failed');
     allWords = await res.json();
     document.title = 'Hello Words - TOPIK ' + LEVEL + ' (Japanese)';

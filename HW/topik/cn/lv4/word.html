@@ -203,24 +203,6 @@ function speakText(text, _btn){
     }
   });
 }
-  });
-  a.play().catch(()=>{
-    restore();
-    if(window.speechSynthesis){
-      const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';u.rate=0.9;
-      window.speechSynthesis.speak(u);
-    }
-  });
-}
-  });
-  a.play().catch(()=>{
-    restore();
-    if(window.speechSynthesis){
-      const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';u.rate=0.9;
-      window.speechSynthesis.speak(u);
-    }
-  });
-}
 
 function speakWord(){const w=allWords[currentKey];if(w)speakText(w.word||'',document.getElementById('wordTtsBtn'));}
 function speakSentence(btn,text){

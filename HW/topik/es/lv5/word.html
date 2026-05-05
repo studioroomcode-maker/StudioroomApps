@@ -174,14 +174,52 @@ function render(){
   fitFont();
 }
 
-function speakText(text,btn){
-  if(!window.speechSynthesis||!text) return;
-  window.speechSynthesis.cancel();
-  const u=new SpeechSynthesisUtterance(text);
-  u.lang='ko-KR';u.rate=0.85;
+function speakText(text, _btn){
+  if(!text) return;
+  const btn = _btn;
+  if(window._hwAudio){try{window._hwAudio.pause();}catch(e){}}
+  if(window.speechSynthesis) try{window.speechSynthesis.cancel();}catch(e){}
+  const restore=()=>{if(btn){btn.classList.remove('playing');btn.textContent=btn.id==='wordTtsBtn'?'Speak word':'TTS';}};
   if(btn){btn.classList.add('playing');btn.textContent='...';}
-  u.onend=u.onerror=()=>{if(btn){btn.classList.remove('playing');btn.textContent=btn.id==='wordTtsBtn'?'Speak word':'TTS';}};
-  window.speechSynthesis.speak(u);
+  // Google 신경망 한국어 TTS (키 불필요, 자연스러운 음성)
+  const url='https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ko&q='+encodeURIComponent(text);
+  const a=new Audio(url);
+  window._hwAudio=a;
+  a.addEventListener('ended',restore);
+  a.addEventListener('error',()=>{
+    restore();
+    if(window.speechSynthesis){
+      const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';u.rate=0.9;
+      if(btn){btn.classList.add('playing');btn.textContent='...';}
+      u.onend=u.onerror=restore;
+      window.speechSynthesis.speak(u);
+    }
+  });
+  a.play().catch(()=>{
+    restore();
+    if(window.speechSynthesis){
+      const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';u.rate=0.9;
+      window.speechSynthesis.speak(u);
+    }
+  });
+}
+  });
+  a.play().catch(()=>{
+    restore();
+    if(window.speechSynthesis){
+      const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';u.rate=0.9;
+      window.speechSynthesis.speak(u);
+    }
+  });
+}
+  });
+  a.play().catch(()=>{
+    restore();
+    if(window.speechSynthesis){
+      const u=new SpeechSynthesisUtterance(text);u.lang='ko-KR';u.rate=0.9;
+      window.speechSynthesis.speak(u);
+    }
+  });
 }
 
 function speakWord(){const w=allWords[currentKey];if(w)speakText(w.word||'',document.getElementById('wordTtsBtn'));}

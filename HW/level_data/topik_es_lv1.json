@@ -9,13 +9,13 @@
     "level": "1",
     "lang": "es",
     "situation": "Asking If a Nearby Store Exists",
-    "example_ko": "이 근처에 편의점이 있어요?",
-    "example_tl": "¿Hay un minimarket por aquí?",
+    "example_ko": "집 근처 가게에서 필요한 물건을 샀어요.",
+    "example_tl": "Compré artículos necesarios en una tienda cerca de casa.",
     "examples": [
       {
         "situation": "Asking If a Nearby Store Exists",
-        "ko": "이 근처에 편의점이 있어요?",
-        "tl": "¿Hay un minimarket por aquí?"
+        "ko": "집 근처 가게에서 필요한 물건을 샀어요.",
+        "tl": "Compré artículos necesarios en una tienda cerca de casa."
       },
       {
         "situation": "Dónde comprar algo",
@@ -154,8 +154,8 @@
       },
       {
         "situation": "Decidiendo dónde poner muebles",
-        "ko": "책상을 창문 옆에 놓을 거예요.",
-        "tl": "Voy a poner el escritorio al lado de la ventana."
+        "ko": "이 가구는 어디에서 샀어요?",
+        "tl": "¿Dónde compraste este mueble?"
       },
       {
         "situation": "Browsing a Furniture Store for a Sofa",
@@ -189,8 +189,8 @@
       },
       {
         "situation": "Regalando muebles a los padres",
-        "ko": "부모님께 편안한 의자를 선물하고 싶어요.",
-        "tl": "Quiero regalarles una silla cómoda a mis papás."
+        "ko": "가구를 고를 때는 크기와 색깔을 잘 봐야 해요.",
+        "tl": "Al elegir muebles, debes fijarte bien en el tamaño y el color."
       }
     ]
   },
@@ -5759,8 +5759,8 @@
       },
       {
         "situation": "Preparation",
-        "ko": "비가 올 것 같은 날씨라서 우산을 꼭 챙겨야 해요.",
-        "tl": "Parece que va a llover, así que tengo que llevar un paraguas."
+        "ko": "날씨가 안 좋아서 우산을 가지고 나갔어요.",
+        "tl": "El tiempo era malo, así que salí con un paraguas."
       },
       {
         "situation": "Travel planning",

@@ -1,5 +1,6 @@
 {
   "가게": {
+    "id": 1,
     "word": "가게",
     "phonetic": "gage",
     "pos": "명사",
@@ -64,6 +65,7 @@
     ]
   },
   "가격": {
+    "id": 2,
     "word": "가격",
     "phonetic": "gagyeok",
     "pos": "명사",
@@ -130,6 +132,7 @@
     ]
   },
   "가구": {
+    "id": 3,
     "word": "가구",
     "phonetic": "gagu",
     "pos": "명사",
@@ -194,6 +197,7 @@
     ]
   },
   "가깝다": {
+    "id": 4,
     "word": "가깝다",
     "phonetic": "gakkapda",
     "pos": "형용사",
@@ -260,6 +264,7 @@
     ]
   },
   "가끔": {
+    "id": 5,
     "word": "가끔",
     "phonetic": "gakkeum",
     "pos": "부사",
@@ -324,6 +329,7 @@
     ]
   },
   "가다": {
+    "id": 6,
     "word": "가다",
     "phonetic": "gada",
     "pos": "동사",
@@ -391,6 +397,7 @@
     ]
   },
   "가르치다": {
+    "id": 7,
     "word": "가르치다",
     "phonetic": "gareuchida",
     "pos": "동사",
@@ -455,6 +462,7 @@
     ]
   },
   "가방": {
+    "id": 8,
     "word": "가방",
     "phonetic": "gabang",
     "pos": "명사",
@@ -519,6 +527,7 @@
     ]
   },
   "가수": {
+    "id": 9,
     "word": "가수",
     "phonetic": "gasu",
     "pos": "명사",
@@ -583,6 +592,7 @@
     ]
   },
   "가운데": {
+    "id": 10,
     "word": "가운데",
     "phonetic": "gaunde",
     "pos": "명사",
@@ -647,6 +657,7 @@
     ]
   },
   "가위": {
+    "id": 11,
     "word": "가위",
     "phonetic": "gawi",
     "pos": "명사",
@@ -711,6 +722,7 @@
     ]
   },
   "가을": {
+    "id": 12,
     "word": "가을",
     "phonetic": "gaeul",
     "pos": "명사",
@@ -775,6 +787,7 @@
     ]
   },
   "가장": {
+    "id": 13,
     "word": "가장",
     "phonetic": "gajang",
     "pos": "부사",
@@ -839,6 +852,7 @@
     ]
   },
   "가져가다": {
+    "id": 14,
     "word": "가져가다",
     "phonetic": "gajyeogada",
     "pos": "동사",
@@ -906,6 +920,7 @@
     ]
   },
   "가져오다": {
+    "id": 15,
     "word": "가져오다",
     "phonetic": "gajyeooda",
     "pos": "동사",
@@ -970,6 +985,7 @@
     ]
   },
   "가족": {
+    "id": 16,
     "word": "가족",
     "phonetic": "gajok",
     "pos": "명사",
@@ -1037,6 +1053,7 @@
     ]
   },
   "가지다": {
+    "id": 17,
     "word": "가지다",
     "phonetic": "gajida",
     "pos": "동사",
@@ -1101,6 +1118,7 @@
     ]
   },
   "감기": {
+    "id": 18,
     "word": "감기",
     "phonetic": "gamgi",
     "pos": "명사",
@@ -1165,6 +1183,7 @@
     ]
   },
   "감기약": {
+    "id": 19,
     "word": "감기약",
     "phonetic": "gamgiyak",
     "pos": "명사",
@@ -1229,6 +1248,7 @@
     ]
   },
   "감자": {
+    "id": 20,
     "word": "감자",
     "phonetic": "gamja",
     "pos": "명사",
@@ -1293,6 +1313,7 @@
     ]
   },
   "값": {
+    "id": 21,
     "word": "값",
     "phonetic": "gap",
     "pos": "명사",
@@ -1360,6 +1381,7 @@
     ]
   },
   "강": {
+    "id": 22,
     "word": "강",
     "phonetic": "gang",
     "pos": "명사",
@@ -1424,6 +1446,7 @@
     ]
   },
   "강아지": {
+    "id": 23,
     "word": "강아지",
     "phonetic": "gangaji",
     "pos": "명사",
@@ -1488,6 +1511,7 @@
     ]
   },
   "얼굴": {
+    "id": 24,
     "word": "얼굴",
     "phonetic": "eolgul",
     "pos": "명사",
@@ -1552,6 +1576,7 @@
     ]
   },
   "같다": {
+    "id": 25,
     "word": "같다",
     "phonetic": "gatda",
     "pos": "형용사",
@@ -1616,6 +1641,7 @@
     ]
   },
   "같이": {
+    "id": 26,
     "word": "같이",
     "phonetic": "gati",
     "pos": "부사",
@@ -1680,6 +1706,7 @@
     ]
   },
   "개": {
+    "id": 27,
     "word": "개",
     "phonetic": "gae",
     "pos": "명사",
@@ -1744,6 +1771,7 @@
     ]
   },
   "거기": {
+    "id": 28,
     "word": "거기",
     "phonetic": "geogi",
     "pos": "대명사",
@@ -1808,6 +1836,7 @@
     ]
   },
   "거리": {
+    "id": 29,
     "word": "거리",
     "phonetic": "geori",
     "pos": "명사",
@@ -1874,6 +1903,7 @@
     ]
   },
   "거실": {
+    "id": 30,
     "word": "거실",
     "phonetic": "geosil",
     "pos": "명사",
@@ -1940,6 +1970,7 @@
     ]
   },
   "거울": {
+    "id": 31,
     "word": "거울",
     "phonetic": "geoul",
     "pos": "명사",
@@ -2004,6 +2035,7 @@
     ]
   },
   "건너가다": {
+    "id": 32,
     "word": "건너가다",
     "phonetic": "geonneogada",
     "pos": "동사",
@@ -2070,6 +2102,7 @@
     ]
   },
   "건너다": {
+    "id": 33,
     "word": "건너다",
     "phonetic": "geonneoda",
     "pos": "동사",
@@ -2136,6 +2169,7 @@
     ]
   },
   "건너편": {
+    "id": 34,
     "word": "건너편",
     "phonetic": "geonneopyeon",
     "pos": "명사",
@@ -2202,6 +2236,7 @@
     ]
   },
   "건물": {
+    "id": 35,
     "word": "건물",
     "phonetic": "geonmul",
     "pos": "명사",
@@ -2266,6 +2301,7 @@
     ]
   },
   "걷다": {
+    "id": 36,
     "word": "걷다",
     "phonetic": "geotda",
     "pos": "동사",
@@ -2333,6 +2369,7 @@
     ]
   },
   "걸다": {
+    "id": 37,
     "word": "걸다",
     "phonetic": "geolda",
     "pos": "동사",
@@ -2397,6 +2434,7 @@
     ]
   },
   "걸리다": {
+    "id": 38,
     "word": "걸리다",
     "phonetic": "geolrida",
     "pos": "동사",
@@ -2464,6 +2502,7 @@
     ]
   },
   "걸어가다": {
+    "id": 39,
     "word": "걸어가다",
     "phonetic": "geoleogada",
     "pos": "동사",
@@ -2531,6 +2570,7 @@
     ]
   },
   "걸어오다": {
+    "id": 40,
     "word": "걸어오다",
     "phonetic": "geoleooda",
     "pos": "동사",
@@ -2598,6 +2638,7 @@
     ]
   },
   "검은색": {
+    "id": 41,
     "word": "검은색",
     "phonetic": "geomeunsaek",
     "pos": "명사",
@@ -2664,6 +2705,7 @@
     ]
   },
   "것": {
+    "id": 42,
     "word": "것",
     "phonetic": "geot",
     "pos": "명사",
@@ -2730,6 +2772,7 @@
     ]
   },
   "게임": {
+    "id": 43,
     "word": "게임",
     "phonetic": "geim",
     "pos": "명사",
@@ -2796,6 +2839,7 @@
     ]
   },
   "겨울": {
+    "id": 44,
     "word": "겨울",
     "phonetic": "gyeoul",
     "pos": "명사",
@@ -2860,9 +2904,10 @@
     ]
   },
   "하다": {
+    "id": 45,
     "word": "하다",
     "phonetic": "hada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to do, to perform, to make",
     "synonyms": [
       "짓다",
@@ -2927,6 +2972,7 @@
     ]
   },
   "되다": {
+    "id": 46,
     "word": "되다",
     "phonetic": "doeda",
     "pos": "동사",
@@ -2991,9 +3037,10 @@
     ]
   },
   "없다": {
+    "id": 47,
     "word": "없다",
     "phonetic": "eobsda",
-    "pos": "adjective",
+    "pos": "형용사",
     "meaning": "to not exist; to not have",
     "synonyms": [],
     "level": "1",
@@ -3055,9 +3102,10 @@
     ]
   },
   "사람": {
+    "id": 48,
     "word": "사람",
     "phonetic": "saram",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "person, human being",
     "synonyms": [],
     "level": "1",
@@ -3119,9 +3167,10 @@
     ]
   },
   "아니다": {
+    "id": 49,
     "word": "아니다",
     "phonetic": "anida",
-    "pos": "형용사 (adjective/copula)",
+    "pos": "형용사",
     "meaning": "to be not; to be wrong; negation of being",
     "synonyms": [],
     "level": "1",
@@ -3183,9 +3232,10 @@
     ]
   },
   "보다": {
+    "id": 50,
     "word": "보다",
     "phonetic": "boda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to see, to look, to watch",
     "synonyms": [
       "찾다",
@@ -3250,6 +3300,7 @@
     ]
   },
   "때": {
+    "id": 51,
     "word": "때",
     "phonetic": "ttae",
     "pos": "명사",
@@ -3317,9 +3368,10 @@
     ]
   },
   "주다": {
+    "id": 52,
     "word": "주다",
     "phonetic": "ju-da",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to give",
     "synonyms": [
       "낳다"
@@ -3383,6 +3435,7 @@
     ]
   },
   "년": {
+    "id": 53,
     "word": "년",
     "phonetic": "nyeon",
     "pos": "명사",
@@ -3449,6 +3502,7 @@
     ]
   },
   "말": {
+    "id": 54,
     "word": "말",
     "phonetic": "mal",
     "pos": "명사",
@@ -3516,9 +3570,10 @@
     ]
   },
   "오다": {
+    "id": 55,
     "word": "오다",
     "phonetic": "oda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to come",
     "synonyms": [
       "생기다",
@@ -3583,9 +3638,10 @@
     ]
   },
   "알다": {
+    "id": 56,
     "word": "알다",
     "phonetic": "alda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to know, to understand",
     "synonyms": [
       "깨닫다"
@@ -3649,6 +3705,7 @@
     ]
   },
   "그렇다": {
+    "id": 57,
     "word": "그렇다",
     "phonetic": "geureotda",
     "pos": "형용사",
@@ -3713,6 +3770,7 @@
     ]
   },
   "또": {
+    "id": 58,
     "word": "또",
     "phonetic": "tto",
     "pos": "부사",
@@ -3779,6 +3837,7 @@
     ]
   },
   "많다": {
+    "id": 59,
     "word": "많다",
     "phonetic": "manda",
     "pos": "형용사",
@@ -3843,9 +3902,10 @@
     ]
   },
   "좋다": {
+    "id": 60,
     "word": "좋다",
     "phonetic": "jota",
-    "pos": "형용사 (adjective)",
+    "pos": "형용사",
     "meaning": "to be good, to be fine, to like",
     "synonyms": [],
     "level": "1",
@@ -3907,6 +3967,7 @@
     ]
   },
   "더": {
+    "id": 61,
     "word": "더",
     "phonetic": "deo",
     "pos": "부사",
@@ -3971,9 +4032,10 @@
     ]
   },
   "받다": {
+    "id": 62,
     "word": "받다",
     "phonetic": "batda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to receive, to get, to accept",
     "synonyms": [
       "받아들이다",
@@ -4038,6 +4100,7 @@
     ]
   },
   "그것": {
+    "id": 63,
     "word": "그것",
     "phonetic": "geugeot",
     "pos": "대명사",
@@ -4075,9 +4138,9 @@
         "tl": "I really like that."
       },
       {
-        "situation": "Asking where a specific item has been placed",
-        "ko": "그것이 지금 어디 있어요?",
-        "tl": "Where is that right now?"
+        "situation": "Asking the listener to show an item they are holding",
+        "ko": "그것 좀 보여 주세요.",
+        "tl": "Please show me that."
       },
       {
         "situation": "Politely asking for permission to use something",
@@ -4102,6 +4165,7 @@
     ]
   },
   "집": {
+    "id": 64,
     "word": "집",
     "phonetic": "jip",
     "pos": "명사",
@@ -4168,6 +4232,7 @@
     ]
   },
   "나오다": {
+    "id": 65,
     "word": "나오다",
     "phonetic": "naoda",
     "pos": "동사",
@@ -4235,6 +4300,7 @@
     ]
   },
   "그리고": {
+    "id": 66,
     "word": "그리고",
     "phonetic": "geurigo",
     "pos": "접속사",
@@ -4299,9 +4365,10 @@
     ]
   },
   "살다": {
+    "id": 67,
     "word": "살다",
     "phonetic": "salda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to live, to reside",
     "synonyms": [
       "더불다",
@@ -4350,7 +4417,7 @@
       },
       {
         "situation": "Discussing moving to a new place",
-        "ko": "다음 달에 새 집에 살 거예요.",
+        "ko": "다음 달부터는 새 집에서 살 거예요.",
         "tl": "I will live in a new house next month."
       },
       {
@@ -4360,12 +4427,13 @@
       },
       {
         "situation": "Simple statement about current living",
-        "ko": "우리는 시골에서 살아요.",
+        "ko": "우리는 시골에 살아요.",
         "tl": "We live in the countryside."
       }
     ]
   },
   "모르다": {
+    "id": 68,
     "word": "모르다",
     "phonetic": "moreuda",
     "pos": "동사",
@@ -4430,6 +4498,7 @@
     ]
   },
   "만들다": {
+    "id": 69,
     "word": "만들다",
     "phonetic": "mandeulda",
     "pos": "동사",
@@ -4497,6 +4566,7 @@
     ]
   },
   "먹다": {
+    "id": 70,
     "word": "먹다",
     "phonetic": "meokda",
     "pos": "동사",
@@ -4563,6 +4633,7 @@
     ]
   },
   "문화": {
+    "id": 71,
     "word": "문화",
     "phonetic": "munhwa",
     "pos": "명사",
@@ -4627,6 +4698,7 @@
     ]
   },
   "생각": {
+    "id": 72,
     "word": "생각",
     "phonetic": "saenggak",
     "pos": "명사",
@@ -4693,9 +4765,10 @@
     ]
   },
   "어떻다": {
+    "id": 73,
     "word": "어떻다",
     "phonetic": "eotteokda",
-    "pos": "형용사 (adjective)",
+    "pos": "형용사",
     "meaning": "how is; what is like; how are things",
     "synonyms": [],
     "level": "1",
@@ -4757,6 +4830,7 @@
     ]
   },
   "명": {
+    "id": 74,
     "word": "명",
     "phonetic": "myeong",
     "pos": "수사",
@@ -4821,6 +4895,7 @@
     ]
   },
   "다시": {
+    "id": 75,
     "word": "다시",
     "phonetic": "dasi",
     "pos": "부사",
@@ -4887,6 +4962,7 @@
     ]
   },
   "다른": {
+    "id": 76,
     "word": "다른",
     "phonetic": "dareun",
     "pos": "관형사",
@@ -4951,9 +5027,10 @@
     ]
   },
   "여자": {
+    "id": 77,
     "word": "여자",
     "phonetic": "yeoja",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "woman; girl; female",
     "synonyms": [],
     "level": "1",
@@ -5015,6 +5092,7 @@
     ]
   },
   "뒤": {
+    "id": 78,
     "word": "뒤",
     "phonetic": "dwi",
     "pos": "명사",
@@ -5081,6 +5159,7 @@
     ]
   },
   "듣다": {
+    "id": 79,
     "word": "듣다",
     "phonetic": "deutda",
     "pos": "동사",
@@ -5145,6 +5224,7 @@
     ]
   },
   "들다": {
+    "id": 80,
     "word": "들다",
     "phonetic": "deulda",
     "pos": "동사",
@@ -5212,9 +5292,10 @@
     ]
   },
   "함께": {
+    "id": 81,
     "word": "함께",
     "phonetic": "hamkke",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "together",
     "synonyms": [],
     "level": "1",
@@ -5276,6 +5357,7 @@
     ]
   },
   "아이": {
+    "id": 82,
     "word": "아이",
     "phonetic": "ai",
     "pos": "명사",
@@ -5340,9 +5422,10 @@
     ]
   },
   "지나다": {
+    "id": 83,
     "word": "지나다",
     "phonetic": "jinada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to pass; to go by; to exceed",
     "synonyms": [
       "통하다",
@@ -5407,6 +5490,7 @@
     ]
   },
   "많이": {
+    "id": 84,
     "word": "많이",
     "phonetic": "mani",
     "pos": "부사",
@@ -5471,6 +5555,7 @@
     ]
   },
   "너": {
+    "id": 85,
     "word": "너",
     "phonetic": "neo",
     "pos": "대명사",
@@ -5535,6 +5620,7 @@
     ]
   },
   "나다": {
+    "id": 86,
     "word": "나다",
     "phonetic": "nada",
     "pos": "동사",
@@ -5602,6 +5688,7 @@
     ]
   },
   "어머니": {
+    "id": 87,
     "word": "어머니",
     "phonetic": "eomeoni",
     "pos": "명사",
@@ -5668,6 +5755,7 @@
     ]
   },
   "눈": {
+    "id": 88,
     "word": "눈",
     "phonetic": "nun",
     "pos": "명사",
@@ -5732,6 +5820,7 @@
     ]
   },
   "뭐": {
+    "id": 89,
     "word": "뭐",
     "phonetic": "mwo",
     "pos": "대명사",
@@ -5799,6 +5888,7 @@
     ]
   },
   "다음": {
+    "id": 90,
     "word": "다음",
     "phonetic": "daeum",
     "pos": "명사",
@@ -5866,6 +5956,7 @@
     ]
   },
   "누구": {
+    "id": 91,
     "word": "누구",
     "phonetic": "nugu",
     "pos": "대명사",
@@ -5932,6 +6023,7 @@
     ]
   },
   "곳": {
+    "id": 92,
     "word": "곳",
     "phonetic": "got",
     "pos": "명사",
@@ -5998,9 +6090,10 @@
     ]
   },
   "운동": {
+    "id": 93,
     "word": "운동",
     "phonetic": "undong",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "exercise, sport, physical activity",
     "synonyms": [
       "신체",
@@ -6065,6 +6158,7 @@
     ]
   },
   "학교": {
+    "id": 94,
     "word": "학교",
     "phonetic": "hakgyo",
     "pos": "명사",
@@ -6131,6 +6225,7 @@
     ]
   },
   "가지": {
+    "id": 95,
     "word": "가지",
     "phonetic": "gaji",
     "pos": "명사",
@@ -6195,9 +6290,10 @@
     ]
   },
   "바로": {
+    "id": 96,
     "word": "바로",
     "phonetic": "baro",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "right away, immediately, directly, just",
     "synonyms": [
       "그저",
@@ -6262,6 +6358,7 @@
     ]
   },
   "그래서": {
+    "id": 97,
     "word": "그래서",
     "phonetic": "geuraeseo",
     "pos": "부사",
@@ -6328,6 +6425,7 @@
     ]
   },
   "무엇": {
+    "id": 98,
     "word": "무엇",
     "phonetic": "mueot",
     "pos": "대명사",
@@ -6394,6 +6492,7 @@
     ]
   },
   "돈": {
+    "id": 99,
     "word": "돈",
     "phonetic": "don",
     "pos": "명사",
@@ -6458,6 +6557,7 @@
     ]
   },
   "그런데": {
+    "id": 100,
     "word": "그런데",
     "phonetic": "geureonde",
     "pos": "부사",
@@ -6524,6 +6624,7 @@
     ]
   },
   "친구": {
+    "id": 101,
     "word": "친구",
     "phonetic": "chingu",
     "pos": "명사",
@@ -6588,6 +6689,7 @@
     ]
   },
   "마음": {
+    "id": 102,
     "word": "마음",
     "phonetic": "maeum",
     "pos": "명사",
@@ -6655,9 +6757,10 @@
     ]
   },
   "아버지": {
+    "id": 103,
     "word": "아버지",
     "phonetic": "abeoji",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "father",
     "synonyms": [],
     "level": "1",
@@ -6719,6 +6822,7 @@
     ]
   },
   "남자": {
+    "id": 104,
     "word": "남자",
     "phonetic": "namja",
     "pos": "명사",
@@ -6785,6 +6889,7 @@
     ]
   },
   "몸": {
+    "id": 105,
     "word": "몸",
     "phonetic": "mom",
     "pos": "명사",
@@ -6851,6 +6956,7 @@
     ]
   },
   "들어가다": {
+    "id": 106,
     "word": "들어가다",
     "phonetic": "deuleogada",
     "pos": "동사",
@@ -6918,9 +7024,10 @@
     ]
   },
   "말다": {
+    "id": 107,
     "word": "말다",
     "phonetic": "malda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to stop; to refrain from; don't",
     "synonyms": [
       "않다",
@@ -6985,6 +7092,7 @@
     ]
   },
   "다르다": {
+    "id": 108,
     "word": "다르다",
     "phonetic": "dareuda",
     "pos": "형용사",
@@ -7049,6 +7157,7 @@
     ]
   },
   "물": {
+    "id": 109,
     "word": "물",
     "phonetic": "mul",
     "pos": "명사",
@@ -7113,6 +7222,7 @@
     ]
   },
   "만나다": {
+    "id": 110,
     "word": "만나다",
     "phonetic": "mannada",
     "pos": "동사",
@@ -7177,9 +7287,10 @@
     ]
   },
   "쓰다": {
+    "id": 111,
     "word": "쓰다",
     "phonetic": "sseuda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to write; to use",
     "synonyms": [
       "베다"
@@ -7243,6 +7354,7 @@
     ]
   },
   "이번": {
+    "id": 112,
     "word": "이번",
     "phonetic": "ibeon",
     "pos": "명사",
@@ -7310,6 +7422,7 @@
     ]
   },
   "길": {
+    "id": 113,
     "word": "길",
     "phonetic": "gil",
     "pos": "명사",
@@ -7376,6 +7489,7 @@
     ]
   },
   "생활": {
+    "id": 114,
     "word": "생활",
     "phonetic": "saenghwal",
     "pos": "명사",
@@ -7443,9 +7557,10 @@
     ]
   },
   "사이": {
+    "id": 115,
     "word": "사이",
     "phonetic": "sai",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "between, space, gap, relationship",
     "synonyms": [
       "차이",
@@ -7510,9 +7625,10 @@
     ]
   },
   "앉다": {
+    "id": 116,
     "word": "앉다",
     "phonetic": "antda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to sit",
     "synonyms": [
       "걸터앉다"
@@ -7576,9 +7692,10 @@
     ]
   },
   "처음": {
+    "id": 117,
     "word": "처음",
     "phonetic": "cheoeeum",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "beginning, first time, start",
     "synonyms": [
       "최초"
@@ -7642,6 +7759,7 @@
     ]
   },
   "손": {
+    "id": 118,
     "word": "손",
     "phonetic": "son",
     "pos": "명사",
@@ -7706,9 +7824,10 @@
     ]
   },
   "찾다": {
+    "id": 119,
     "word": "찾다",
     "phonetic": "chaj-da",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to find, to look for, to search",
     "synonyms": [
       "보다",
@@ -7773,9 +7892,10 @@
     ]
   },
   "특히": {
+    "id": 120,
     "word": "특히",
     "phonetic": "teukhi",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "especially, particularly, in particular",
     "synonyms": [
       "더구나"
@@ -7839,6 +7959,7 @@
     ]
   },
   "나가다": {
+    "id": 121,
     "word": "나가다",
     "phonetic": "nagada",
     "pos": "동사",
@@ -7906,9 +8027,10 @@
     ]
   },
   "이야기": {
+    "id": 122,
     "word": "이야기",
     "phonetic": "iyagi",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "story, tale, narrative",
     "synonyms": [],
     "level": "1",
@@ -7970,9 +8092,10 @@
     ]
   },
   "사다": {
+    "id": 123,
     "word": "사다",
     "phonetic": "sa-da",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to buy",
     "synonyms": [],
     "level": "1",
@@ -8034,9 +8157,10 @@
     ]
   },
   "아직": {
+    "id": 124,
     "word": "아직",
     "phonetic": "ajik",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "still, yet, not yet",
     "synonyms": [
       "여전히",
@@ -8101,6 +8225,7 @@
     ]
   },
   "선생님": {
+    "id": 125,
     "word": "선생님",
     "phonetic": "seonsaengnim",
     "pos": "명사",
@@ -8165,9 +8290,10 @@
     ]
   },
   "읽다": {
+    "id": 126,
     "word": "읽다",
     "phonetic": "ilkda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to read",
     "synonyms": [],
     "level": "1",
@@ -8229,6 +8355,7 @@
     ]
   },
   "동안": {
+    "id": 127,
     "word": "동안",
     "phonetic": "dongan",
     "pos": "명사",
@@ -8296,6 +8423,7 @@
     ]
   },
   "시장": {
+    "id": 128,
     "word": "시장",
     "phonetic": "sijang",
     "pos": "명사",
@@ -8360,6 +8488,7 @@
     ]
   },
   "넣다": {
+    "id": 129,
     "word": "넣다",
     "phonetic": "neotda",
     "pos": "동사",
@@ -8426,6 +8555,7 @@
     ]
   },
   "무슨": {
+    "id": 130,
     "word": "무슨",
     "phonetic": "museun",
     "pos": "관형사",
@@ -8490,6 +8620,7 @@
     ]
   },
   "너무": {
+    "id": 131,
     "word": "너무",
     "phonetic": "neomu",
     "pos": "부사",
@@ -8557,6 +8688,7 @@
     ]
   },
   "나라": {
+    "id": 132,
     "word": "나라",
     "phonetic": "nara",
     "pos": "명사",
@@ -8624,6 +8756,7 @@
     ]
   },
   "학생": {
+    "id": 133,
     "word": "학생",
     "phonetic": "haksaeng",
     "pos": "명사",
@@ -8688,6 +8821,7 @@
     ]
   },
   "내리다": {
+    "id": 134,
     "word": "내리다",
     "phonetic": "naerida",
     "pos": "동사",
@@ -8755,6 +8889,7 @@
     ]
   },
   "글": {
+    "id": 135,
     "word": "글",
     "phonetic": "geul",
     "pos": "명사",
@@ -8819,6 +8954,7 @@
     ]
   },
   "남편": {
+    "id": 136,
     "word": "남편",
     "phonetic": "nampyeon",
     "pos": "명사",
@@ -8883,6 +9019,7 @@
     ]
   },
   "들어오다": {
+    "id": 137,
     "word": "들어오다",
     "phonetic": "deuleooda",
     "pos": "동사",
@@ -8950,6 +9087,7 @@
     ]
   },
   "대학": {
+    "id": 138,
     "word": "대학",
     "phonetic": "daehak",
     "pos": "명사",
@@ -9017,6 +9155,7 @@
     ]
   },
   "밤": {
+    "id": 139,
     "word": "밤",
     "phonetic": "bam",
     "pos": "명사",
@@ -9081,6 +9220,7 @@
     ]
   },
   "높다": {
+    "id": 140,
     "word": "높다",
     "phonetic": "nopda",
     "pos": "형용사",
@@ -9145,6 +9285,7 @@
     ]
   },
   "다니다": {
+    "id": 141,
     "word": "다니다",
     "phonetic": "danida",
     "pos": "동사",
@@ -9212,6 +9353,7 @@
     ]
   },
   "머리": {
+    "id": 142,
     "word": "머리",
     "phonetic": "meori",
     "pos": "명사",
@@ -9278,6 +9420,7 @@
     ]
   },
   "묻다": {
+    "id": 143,
     "word": "묻다",
     "phonetic": "mutda",
     "pos": "동사",
@@ -9344,6 +9487,7 @@
     ]
   },
   "기다리다": {
+    "id": 144,
     "word": "기다리다",
     "phonetic": "gidarida",
     "pos": "동사",
@@ -9408,6 +9552,7 @@
     ]
   },
   "방": {
+    "id": 145,
     "word": "방",
     "phonetic": "bang",
     "pos": "명사",
@@ -9472,6 +9617,7 @@
     ]
   },
   "아침": {
+    "id": 146,
     "word": "아침",
     "phonetic": "achim",
     "pos": "명사",
@@ -9536,6 +9682,7 @@
     ]
   },
   "그래": {
+    "id": 147,
     "word": "그래",
     "phonetic": "geurae",
     "pos": "감탄사",
@@ -9602,6 +9749,7 @@
     ]
   },
   "밥": {
+    "id": 148,
     "word": "밥",
     "phonetic": "bap",
     "pos": "명사",
@@ -9666,6 +9814,7 @@
     ]
   },
   "네": {
+    "id": 149,
     "word": "네",
     "phonetic": "ne",
     "pos": "감탄사",
@@ -9732,6 +9881,7 @@
     ]
   },
   "그림": {
+    "id": 150,
     "word": "그림",
     "phonetic": "geurim",
     "pos": "명사",
@@ -9796,6 +9946,7 @@
     ]
   },
   "마시다": {
+    "id": 151,
     "word": "마시다",
     "phonetic": "masida",
     "pos": "동사",
@@ -9862,6 +10013,7 @@
     ]
   },
   "끝나다": {
+    "id": 152,
     "word": "끝나다",
     "phonetic": "kkeutnada",
     "pos": "동사",
@@ -9929,6 +10081,7 @@
     ]
   },
   "돌아오다": {
+    "id": 153,
     "word": "돌아오다",
     "phonetic": "dolaoda",
     "pos": "동사",
@@ -9996,6 +10149,7 @@
     ]
   },
   "맞다": {
+    "id": 154,
     "word": "맞다",
     "phonetic": "matda",
     "pos": "동사",
@@ -10062,6 +10216,7 @@
     ]
   },
   "길다": {
+    "id": 155,
     "word": "길다",
     "phonetic": "gilda",
     "pos": "형용사",
@@ -10126,6 +10281,7 @@
     ]
   },
   "맛": {
+    "id": 156,
     "word": "맛",
     "phonetic": "mat",
     "pos": "명사",
@@ -10190,6 +10346,7 @@
     ]
   },
   "꼭": {
+    "id": 157,
     "word": "꼭",
     "phonetic": "kkok",
     "pos": "부사",
@@ -10254,6 +10411,7 @@
     ]
   },
   "계획": {
+    "id": 158,
     "word": "계획",
     "phonetic": "gyehoek",
     "pos": "명사",
@@ -10318,6 +10476,7 @@
     ]
   },
   "놀다": {
+    "id": 159,
     "word": "놀다",
     "phonetic": "nolda",
     "pos": "동사",
@@ -10382,6 +10541,7 @@
     ]
   },
   "바꾸다": {
+    "id": 160,
     "word": "바꾸다",
     "phonetic": "bakkuda",
     "pos": "동사",
@@ -10446,6 +10606,7 @@
     ]
   },
   "그리다": {
+    "id": 161,
     "word": "그리다",
     "phonetic": "geurida",
     "pos": "동사",
@@ -10510,6 +10671,7 @@
     ]
   },
   "그럼": {
+    "id": 162,
     "word": "그럼",
     "phonetic": "geureom",
     "pos": "감탄사",
@@ -10574,6 +10736,7 @@
     ]
   },
   "내": {
+    "id": 163,
     "word": "내",
     "phonetic": "nae",
     "pos": "관형사",
@@ -10638,6 +10801,7 @@
     ]
   },
   "문": {
+    "id": 164,
     "word": "문",
     "phonetic": "mun",
     "pos": "명사",
@@ -10702,6 +10866,7 @@
     ]
   },
   "꽃": {
+    "id": 165,
     "word": "꽃",
     "phonetic": "kkot",
     "pos": "명사",
@@ -10766,6 +10931,7 @@
     ]
   },
   "바람": {
+    "id": 166,
     "word": "바람",
     "phonetic": "baram",
     "pos": "명사",
@@ -10830,6 +10996,7 @@
     ]
   },
   "노래": {
+    "id": 167,
     "word": "노래",
     "phonetic": "norae",
     "pos": "명사",
@@ -10896,6 +11063,7 @@
     ]
   },
   "공부": {
+    "id": 168,
     "word": "공부",
     "phonetic": "gongbu",
     "pos": "명사",
@@ -10963,6 +11131,7 @@
     ]
   },
   "돌아가다": {
+    "id": 169,
     "word": "돌아가다",
     "phonetic": "dolagada",
     "pos": "동사",
@@ -11030,6 +11199,7 @@
     ]
   },
   "기분": {
+    "id": 170,
     "word": "기분",
     "phonetic": "gibun",
     "pos": "명사",
@@ -11097,6 +11267,7 @@
     ]
   },
   "회의": {
+    "id": 171,
     "word": "회의",
     "phonetic": "hoeui",
     "pos": "명사",
@@ -11163,6 +11334,7 @@
     ]
   },
   "나무": {
+    "id": 172,
     "word": "나무",
     "phonetic": "namu",
     "pos": "명사",
@@ -11227,6 +11399,7 @@
     ]
   },
   "물건": {
+    "id": 173,
     "word": "물건",
     "phonetic": "mulgeon",
     "pos": "명사",
@@ -11293,6 +11466,7 @@
     ]
   },
   "둘": {
+    "id": 174,
     "word": "둘",
     "phonetic": "dul",
     "pos": "수사",
@@ -11357,6 +11531,7 @@
     ]
   },
   "비": {
+    "id": 175,
     "word": "비",
     "phonetic": "bi",
     "pos": "명사",
@@ -11421,6 +11596,7 @@
     ]
   },
   "고향": {
+    "id": 176,
     "word": "고향",
     "phonetic": "gohyang",
     "pos": "명사",
@@ -11485,6 +11661,7 @@
     ]
   },
   "은행": {
+    "id": 177,
     "word": "은행",
     "phonetic": "eunhaeng",
     "pos": "명사",
@@ -11549,6 +11726,7 @@
     ]
   },
   "동생": {
+    "id": 178,
     "word": "동생",
     "phonetic": "dongsaeng",
     "pos": "명사",
@@ -11615,6 +11793,7 @@
     ]
   },
   "딸": {
+    "id": 179,
     "word": "딸",
     "phonetic": "ttal",
     "pos": "명사",
@@ -11679,6 +11858,7 @@
     ]
   },
   "병원": {
+    "id": 180,
     "word": "병원",
     "phonetic": "byeongwon",
     "pos": "명사",
@@ -11743,6 +11923,7 @@
     ]
   },
   "저녁": {
+    "id": 181,
     "word": "저녁",
     "phonetic": "jeonyeok",
     "pos": "명사",
@@ -11807,6 +11988,7 @@
     ]
   },
   "그러면": {
+    "id": 182,
     "word": "그러면",
     "phonetic": "geureomyeon",
     "pos": "부사",
@@ -11871,6 +12053,7 @@
     ]
   },
   "넓다": {
+    "id": 183,
     "word": "넓다",
     "phonetic": "neolda",
     "pos": "형용사",
@@ -11935,6 +12118,7 @@
     ]
   },
   "건강": {
+    "id": 184,
     "word": "건강",
     "phonetic": "geongang",
     "pos": "명사",
@@ -12001,6 +12185,7 @@
     ]
   },
   "밑": {
+    "id": 185,
     "word": "밑",
     "phonetic": "mit",
     "pos": "명사",
@@ -12065,6 +12250,7 @@
     ]
   },
   "기간": {
+    "id": 186,
     "word": "기간",
     "phonetic": "gigan",
     "pos": "명사",
@@ -12131,6 +12317,7 @@
     ]
   },
   "담배": {
+    "id": 187,
     "word": "담배",
     "phonetic": "dambae",
     "pos": "명사",
@@ -12195,6 +12382,7 @@
     ]
   },
   "대화": {
+    "id": 188,
     "word": "대화",
     "phonetic": "daehwa",
     "pos": "명사",
@@ -12259,6 +12447,7 @@
     ]
   },
   "멀다": {
+    "id": 189,
     "word": "멀다",
     "phonetic": "meolda",
     "pos": "형용사",
@@ -12323,6 +12512,7 @@
     ]
   },
   "버스": {
+    "id": 190,
     "word": "버스",
     "phonetic": "beoseu",
     "pos": "명사",
@@ -12387,6 +12577,7 @@
     ]
   },
   "다리": {
+    "id": 191,
     "word": "다리",
     "phonetic": "dari",
     "pos": "명사",
@@ -12451,6 +12642,7 @@
     ]
   },
   "그러니까": {
+    "id": 192,
     "word": "그러니까",
     "phonetic": "geureonikka",
     "pos": "부사",
@@ -12517,6 +12709,7 @@
     ]
   },
   "말씀": {
+    "id": 193,
     "word": "말씀",
     "phonetic": "malsseum",
     "pos": "명사",
@@ -12581,6 +12774,7 @@
     ]
   },
   "괜찮다": {
+    "id": 194,
     "word": "괜찮다",
     "phonetic": "gwaenchanda",
     "pos": "형용사",
@@ -12645,6 +12839,7 @@
     ]
   },
   "드리다": {
+    "id": 195,
     "word": "드리다",
     "phonetic": "deurida",
     "pos": "동사",
@@ -12709,6 +12904,7 @@
     ]
   },
   "귀": {
+    "id": 196,
     "word": "귀",
     "phonetic": "gwi",
     "pos": "명사",
@@ -12773,6 +12969,7 @@
     ]
   },
   "고맙다": {
+    "id": 197,
     "word": "고맙다",
     "phonetic": "gomapda",
     "pos": "형용사",
@@ -12837,6 +13034,7 @@
     ]
   },
   "달다": {
+    "id": 198,
     "word": "달다",
     "phonetic": "dalda",
     "pos": "형용사",
@@ -12901,6 +13099,7 @@
     ]
   },
   "나쁘다": {
+    "id": 199,
     "word": "나쁘다",
     "phonetic": "nappeuda",
     "pos": "형용사",
@@ -12965,6 +13164,7 @@
     ]
   },
   "뉴스": {
+    "id": 200,
     "word": "뉴스",
     "phonetic": "nyuseu",
     "pos": "명사",
@@ -13029,6 +13229,7 @@
     ]
   },
   "낮다": {
+    "id": 201,
     "word": "낮다",
     "phonetic": "natda",
     "pos": "형용사",
@@ -13093,6 +13294,7 @@
     ]
   },
   "나중": {
+    "id": 202,
     "word": "나중",
     "phonetic": "najung",
     "pos": "명사",
@@ -13159,6 +13361,7 @@
     ]
   },
   "맛있다": {
+    "id": 203,
     "word": "맛있다",
     "phonetic": "matitda",
     "pos": "형용사",
@@ -13223,6 +13426,7 @@
     ]
   },
   "며칠": {
+    "id": 204,
     "word": "며칠",
     "phonetic": "myeochil",
     "pos": "명사",
@@ -13287,6 +13491,7 @@
     ]
   },
   "작년": {
+    "id": 205,
     "word": "작년",
     "phonetic": "jangnyeon",
     "pos": "명사",
@@ -13353,6 +13558,7 @@
     ]
   },
   "고기": {
+    "id": 206,
     "word": "고기",
     "phonetic": "gogi",
     "pos": "명사",
@@ -13417,6 +13623,7 @@
     ]
   },
   "구월": {
+    "id": 207,
     "word": "구월",
     "phonetic": "guwol",
     "pos": "명사",
@@ -13481,6 +13688,7 @@
     ]
   },
   "맑다": {
+    "id": 208,
     "word": "맑다",
     "phonetic": "makda",
     "pos": "형용사",
@@ -13545,6 +13753,7 @@
     ]
   },
   "돕다": {
+    "id": 209,
     "word": "돕다",
     "phonetic": "dopda",
     "pos": "동사",
@@ -13612,6 +13821,7 @@
     ]
   },
   "그렇지만": {
+    "id": 210,
     "word": "그렇지만",
     "phonetic": "geureotjiman",
     "pos": "부사",
@@ -13678,6 +13888,7 @@
     ]
   },
   "누나": {
+    "id": 211,
     "word": "누나",
     "phonetic": "nuna",
     "pos": "명사",
@@ -13744,6 +13955,7 @@
     ]
   },
   "근처": {
+    "id": 212,
     "word": "근처",
     "phonetic": "geuncheo",
     "pos": "명사",
@@ -13808,6 +14020,7 @@
     ]
   },
   "계시다": {
+    "id": 213,
     "word": "계시다",
     "phonetic": "gyesida",
     "pos": "동사",
@@ -13872,6 +14085,7 @@
     ]
   },
   "마리": {
+    "id": 214,
     "word": "마리",
     "phonetic": "mari",
     "pos": "명사",
@@ -13936,6 +14150,7 @@
     ]
   },
   "낮": {
+    "id": 215,
     "word": "낮",
     "phonetic": "nat",
     "pos": "명사",
@@ -14000,6 +14215,7 @@
     ]
   },
   "가볍다": {
+    "id": 216,
     "word": "가볍다",
     "phonetic": "gabyeopda",
     "pos": "형용사",
@@ -14064,6 +14280,7 @@
     ]
   },
   "목": {
+    "id": 217,
     "word": "목",
     "phonetic": "mok",
     "pos": "명사",
@@ -14128,6 +14345,7 @@
     ]
   },
   "드라마": {
+    "id": 218,
     "word": "드라마",
     "phonetic": "deurama",
     "pos": "명사",
@@ -14192,6 +14410,7 @@
     ]
   },
   "교통": {
+    "id": 219,
     "word": "교통",
     "phonetic": "gyotong",
     "pos": "명사",
@@ -14256,6 +14475,7 @@
     ]
   },
   "날씨": {
+    "id": 220,
     "word": "날씨",
     "phonetic": "nalssi",
     "pos": "명사",
@@ -14320,6 +14540,7 @@
     ]
   },
   "따뜻하다": {
+    "id": 221,
     "word": "따뜻하다",
     "phonetic": "ttatteuthada",
     "pos": "형용사",
@@ -14386,6 +14607,7 @@
     ]
   },
   "교실": {
+    "id": 222,
     "word": "교실",
     "phonetic": "gyosil",
     "pos": "명사",
@@ -14450,6 +14672,7 @@
     ]
   },
   "대답": {
+    "id": 223,
     "word": "대답",
     "phonetic": "daedap",
     "pos": "명사",
@@ -14516,6 +14739,7 @@
     ]
   },
   "깨끗하다": {
+    "id": 224,
     "word": "깨끗하다",
     "phonetic": "kkaekkeuthada",
     "pos": "형용사",
@@ -14580,6 +14804,7 @@
     ]
   },
   "과일": {
+    "id": 225,
     "word": "과일",
     "phonetic": "gwail",
     "pos": "명사",
@@ -14644,6 +14869,7 @@
     ]
   },
   "고르다": {
+    "id": 226,
     "word": "고르다",
     "phonetic": "goreuda",
     "pos": "동사",
@@ -14710,6 +14936,7 @@
     ]
   },
   "그릇": {
+    "id": 227,
     "word": "그릇",
     "phonetic": "geureut",
     "pos": "명사",
@@ -14774,6 +15001,7 @@
     ]
   },
   "기쁘다": {
+    "id": 228,
     "word": "기쁘다",
     "phonetic": "gippeuda",
     "pos": "형용사",
@@ -14840,6 +15068,7 @@
     ]
   },
   "숙제": {
+    "id": 229,
     "word": "숙제",
     "phonetic": "sukje",
     "pos": "명사",
@@ -14904,6 +15133,7 @@
     ]
   },
   "무겁다": {
+    "id": 230,
     "word": "무겁다",
     "phonetic": "mugeopda",
     "pos": "형용사",
@@ -14968,6 +15198,7 @@
     ]
   },
   "권": {
+    "id": 231,
     "word": "권",
     "phonetic": "gwon",
     "pos": "명사",
@@ -15034,6 +15265,7 @@
     ]
   },
   "특별하다": {
+    "id": 232,
     "word": "특별하다",
     "phonetic": "teukbyeolhada",
     "pos": "형용사",
@@ -15098,6 +15330,7 @@
     ]
   },
   "도서관": {
+    "id": 233,
     "word": "도서관",
     "phonetic": "doseogwan",
     "pos": "명사",
@@ -15162,6 +15395,7 @@
     ]
   },
   "다녀오다": {
+    "id": 234,
     "word": "다녀오다",
     "phonetic": "danyeooda",
     "pos": "동사",
@@ -15229,6 +15463,7 @@
     ]
   },
   "내년": {
+    "id": 235,
     "word": "내년",
     "phonetic": "naenyeon",
     "pos": "명사",
@@ -15296,6 +15531,7 @@
     ]
   },
   "대학생": {
+    "id": 236,
     "word": "대학생",
     "phonetic": "daehaksaeng",
     "pos": "명사",
@@ -15363,6 +15599,7 @@
     ]
   },
   "닫다": {
+    "id": 237,
     "word": "닫다",
     "phonetic": "datda",
     "pos": "동사",
@@ -15427,6 +15664,7 @@
     ]
   },
   "고양이": {
+    "id": 238,
     "word": "고양이",
     "phonetic": "goyangi",
     "pos": "명사",
@@ -15491,6 +15729,7 @@
     ]
   },
   "단어": {
+    "id": 239,
     "word": "단어",
     "phonetic": "daneo",
     "pos": "명사",
@@ -15558,6 +15797,7 @@
     ]
   },
   "도와주다": {
+    "id": 240,
     "word": "도와주다",
     "phonetic": "dowajuda",
     "pos": "동사",
@@ -15625,6 +15865,7 @@
     ]
   },
   "김치": {
+    "id": 241,
     "word": "김치",
     "phonetic": "gimchi",
     "pos": "명사",
@@ -15689,6 +15930,7 @@
     ]
   },
   "점심": {
+    "id": 242,
     "word": "점심",
     "phonetic": "jeomsim",
     "pos": "명사",
@@ -15755,6 +15997,7 @@
     ]
   },
   "극장": {
+    "id": 243,
     "word": "극장",
     "phonetic": "geukjang",
     "pos": "명사",
@@ -15819,6 +16062,7 @@
     ]
   },
   "공항": {
+    "id": 244,
     "word": "공항",
     "phonetic": "gonghang",
     "pos": "명사",
@@ -15883,6 +16127,7 @@
     ]
   },
   "끄다": {
+    "id": 245,
     "word": "끄다",
     "phonetic": "kkeuda",
     "pos": "동사",
@@ -15947,6 +16192,7 @@
     ]
   },
   "계절": {
+    "id": 246,
     "word": "계절",
     "phonetic": "gyejeol",
     "pos": "명사",
@@ -16013,6 +16259,7 @@
     ]
   },
   "휴가": {
+    "id": 247,
     "word": "휴가",
     "phonetic": "hyuga",
     "pos": "명사",
@@ -16077,6 +16324,7 @@
     ]
   },
   "라면": {
+    "id": 248,
     "word": "라면",
     "phonetic": "ramyeon",
     "pos": "명사",
@@ -16141,6 +16389,7 @@
     ]
   },
   "덥다": {
+    "id": 249,
     "word": "덥다",
     "phonetic": "deopda",
     "pos": "형용사",
@@ -16205,6 +16454,7 @@
     ]
   },
   "졸업": {
+    "id": 250,
     "word": "졸업",
     "phonetic": "joleop",
     "pos": "명사",
@@ -16269,6 +16519,7 @@
     ]
   },
   "출발": {
+    "id": 251,
     "word": "출발",
     "phonetic": "chulbal",
     "pos": "명사",
@@ -16333,6 +16584,7 @@
     ]
   },
   "기차": {
+    "id": 252,
     "word": "기차",
     "phonetic": "gicha",
     "pos": "명사",
@@ -16397,6 +16649,7 @@
     ]
   },
   "공원": {
+    "id": 253,
     "word": "공원",
     "phonetic": "gongwon",
     "pos": "명사",
@@ -16461,6 +16714,7 @@
     ]
   },
   "날짜": {
+    "id": 254,
     "word": "날짜",
     "phonetic": "naljja",
     "pos": "명사",
@@ -16527,6 +16781,7 @@
     ]
   },
   "그쪽": {
+    "id": 255,
     "word": "그쪽",
     "phonetic": "geujjok",
     "pos": "대명사",
@@ -16593,6 +16848,7 @@
     ]
   },
   "구두": {
+    "id": 256,
     "word": "구두",
     "phonetic": "gudu",
     "pos": "명사",
@@ -16657,6 +16913,7 @@
     ]
   },
   "전공": {
+    "id": 257,
     "word": "전공",
     "phonetic": "jeongong",
     "pos": "명사",
@@ -16721,6 +16978,7 @@
     ]
   },
   "노래방": {
+    "id": 258,
     "word": "노래방",
     "phonetic": "noraebang",
     "pos": "명사",
@@ -16785,6 +17043,7 @@
     ]
   },
   "모자": {
+    "id": 259,
     "word": "모자",
     "phonetic": "moja",
     "pos": "명사",
@@ -16849,6 +17108,7 @@
     ]
   },
   "글쎄요": {
+    "id": 260,
     "word": "글쎄요",
     "phonetic": "geulsseyo",
     "pos": "감탄사",
@@ -16913,6 +17173,7 @@
     ]
   },
   "여권": {
+    "id": 261,
     "word": "여권",
     "phonetic": "yeogwon",
     "pos": "명사",
@@ -16977,6 +17238,7 @@
     ]
   },
   "대학교": {
+    "id": 262,
     "word": "대학교",
     "phonetic": "daehakgyo",
     "pos": "명사",
@@ -17044,6 +17306,7 @@
     ]
   },
   "기숙사": {
+    "id": 263,
     "word": "기숙사",
     "phonetic": "gisuksa",
     "pos": "명사",
@@ -17108,6 +17371,7 @@
     ]
   },
   "산책": {
+    "id": 264,
     "word": "산책",
     "phonetic": "sanchaek",
     "pos": "명사",
@@ -17172,6 +17436,7 @@
     ]
   },
   "국적": {
+    "id": 265,
     "word": "국적",
     "phonetic": "gukjeok",
     "pos": "명사",
@@ -17236,6 +17501,7 @@
     ]
   },
   "등산": {
+    "id": 266,
     "word": "등산",
     "phonetic": "deungsan",
     "pos": "명사",
@@ -17300,6 +17566,7 @@
     ]
   },
   "메뉴": {
+    "id": 267,
     "word": "메뉴",
     "phonetic": "menyu",
     "pos": "명사",
@@ -17366,6 +17633,7 @@
     ]
   },
   "공책": {
+    "id": 268,
     "word": "공책",
     "phonetic": "gongchaek",
     "pos": "명사",
@@ -17432,6 +17700,7 @@
     ]
   },
   "멋있다": {
+    "id": 269,
     "word": "멋있다",
     "phonetic": "meotitda",
     "pos": "형용사",
@@ -17496,6 +17765,7 @@
     ]
   },
   "감": {
+    "id": 270,
     "word": "감",
     "phonetic": "gam",
     "pos": "명사",
@@ -17560,6 +17830,7 @@
     ]
   },
   "퇴근": {
+    "id": 271,
     "word": "퇴근",
     "phonetic": "toegeun",
     "pos": "명사",
@@ -17626,6 +17897,7 @@
     ]
   },
   "고프다": {
+    "id": 272,
     "word": "고프다",
     "phonetic": "gopeuda",
     "pos": "형용사",
@@ -17690,6 +17962,7 @@
     ]
   },
   "대사관": {
+    "id": 273,
     "word": "대사관",
     "phonetic": "daesagwan",
     "pos": "명사",
@@ -17754,6 +18027,7 @@
     ]
   },
   "맵다": {
+    "id": 274,
     "word": "맵다",
     "phonetic": "maepda",
     "pos": "형용사",
@@ -17820,6 +18094,7 @@
     ]
   },
   "감사": {
+    "id": 275,
     "word": "감사",
     "phonetic": "gamsa",
     "pos": "명사",
@@ -17884,6 +18159,7 @@
     ]
   },
   "가요": {
+    "id": 276,
     "word": "가요",
     "phonetic": "gayo",
     "pos": "명사",
@@ -17948,6 +18224,7 @@
     ]
   },
   "여행사": {
+    "id": 277,
     "word": "여행사",
     "phonetic": "yeohaengsa",
     "pos": "명사",
@@ -18012,6 +18289,7 @@
     ]
   },
   "넷": {
+    "id": 278,
     "word": "넷",
     "phonetic": "net",
     "pos": "수사",
@@ -18076,6 +18354,7 @@
     ]
   },
   "약국": {
+    "id": 279,
     "word": "약국",
     "phonetic": "yakguk",
     "pos": "명사",
@@ -18140,6 +18419,7 @@
     ]
   },
   "금요일": {
+    "id": 280,
     "word": "금요일",
     "phonetic": "geumyoil",
     "pos": "명사",
@@ -18204,6 +18484,7 @@
     ]
   },
   "김밥": {
+    "id": 281,
     "word": "김밥",
     "phonetic": "gimbap",
     "pos": "명사",
@@ -18268,6 +18549,7 @@
     ]
   },
   "딸기": {
+    "id": 282,
     "word": "딸기",
     "phonetic": "ttalgi",
     "pos": "명사",
@@ -18332,6 +18614,7 @@
     ]
   },
   "갈아타다": {
+    "id": 283,
     "word": "갈아타다",
     "phonetic": "galatada",
     "pos": "동사",
@@ -18396,6 +18679,7 @@
     ]
   },
   "남동생": {
+    "id": 284,
     "word": "남동생",
     "phonetic": "namdongsaeng",
     "pos": "명사",
@@ -18462,6 +18746,7 @@
     ]
   },
   "도착": {
+    "id": 285,
     "word": "도착",
     "phonetic": "dochak",
     "pos": "명사",
@@ -18526,6 +18811,7 @@
     ]
   },
   "농구": {
+    "id": 286,
     "word": "농구",
     "phonetic": "nonggu",
     "pos": "명사",
@@ -18590,6 +18876,7 @@
     ]
   },
   "귤": {
+    "id": 287,
     "word": "귤",
     "phonetic": "gyul",
     "pos": "명사",
@@ -18654,6 +18941,7 @@
     ]
   },
   "된장찌개": {
+    "id": 288,
     "word": "된장찌개",
     "phonetic": "doenjangjjigae",
     "pos": "명사",
@@ -18721,6 +19009,7 @@
     ]
   },
   "목요일": {
+    "id": 289,
     "word": "목요일",
     "phonetic": "mokyoil",
     "pos": "명사",
@@ -18785,6 +19074,7 @@
     ]
   },
   "갈비": {
+    "id": 290,
     "word": "갈비",
     "phonetic": "galbi",
     "pos": "명사",
@@ -18851,6 +19141,7 @@
     ]
   },
   "냉면": {
+    "id": 291,
     "word": "냉면",
     "phonetic": "naengmyeon",
     "pos": "명사",
@@ -18915,6 +19206,7 @@
     ]
   },
   "떡볶이": {
+    "id": 292,
     "word": "떡볶이",
     "phonetic": "tteokboki",
     "pos": "명사",
@@ -18979,6 +19271,7 @@
     ]
   },
   "맛없다": {
+    "id": 293,
     "word": "맛없다",
     "phonetic": "mateopda",
     "pos": "형용사",
@@ -19043,6 +19336,7 @@
     ]
   },
   "김치찌개": {
+    "id": 294,
     "word": "김치찌개",
     "phonetic": "gimchijjigae",
     "pos": "명사",
@@ -19107,6 +19401,7 @@
     ]
   },
   "갈비탕": {
+    "id": 295,
     "word": "갈비탕",
     "phonetic": "galbitang",
     "pos": "명사",
@@ -19173,6 +19468,7 @@
     ]
   },
   "미용실": {
+    "id": 296,
     "word": "미용실",
     "phonetic": "miyongsil",
     "pos": "명사",
@@ -19237,6 +19533,7 @@
     ]
   },
   "독일": {
+    "id": 297,
     "word": "독일",
     "phonetic": "dokil",
     "pos": "명사",
@@ -19301,6 +19598,7 @@
     ]
   },
   "러시아": {
+    "id": 298,
     "word": "러시아",
     "phonetic": "reosia",
     "pos": "명사",
@@ -19365,6 +19663,7 @@
     ]
   },
   "몽골": {
+    "id": 299,
     "word": "몽골",
     "phonetic": "monggol",
     "pos": "명사",
@@ -19429,6 +19728,7 @@
     ]
   },
   "미국": {
+    "id": 300,
     "word": "미국",
     "phonetic": "miguk",
     "pos": "명사",
@@ -19493,6 +19793,7 @@
     ]
   },
   "가슴": {
+    "id": 301,
     "word": "가슴",
     "phonetic": "gaseum",
     "pos": "명사",
@@ -19557,6 +19858,7 @@
     ]
   },
   "간단하다": {
+    "id": 302,
     "word": "간단하다",
     "phonetic": "gandanhada",
     "pos": "형용사",
@@ -19621,6 +19923,7 @@
     ]
   },
   "간단히": {
+    "id": 303,
     "word": "간단히",
     "phonetic": "gandanhi",
     "pos": "부사",
@@ -19685,6 +19988,7 @@
     ]
   },
   "간식": {
+    "id": 304,
     "word": "간식",
     "phonetic": "gansik",
     "pos": "명사",
@@ -19749,6 +20053,7 @@
     ]
   },
   "간장": {
+    "id": 305,
     "word": "간장",
     "phonetic": "ganjang",
     "pos": "명사",
@@ -19813,6 +20118,7 @@
     ]
   },
   "간호사": {
+    "id": 306,
     "word": "간호사",
     "phonetic": "ganhosa",
     "pos": "명사",
@@ -19877,6 +20183,7 @@
     ]
   },
   "갈색": {
+    "id": 307,
     "word": "갈색",
     "phonetic": "galsaek",
     "pos": "명사",
@@ -19941,6 +20248,7 @@
     ]
   },
   "감다": {
+    "id": 308,
     "word": "감다",
     "phonetic": "gamda",
     "pos": "동사",
@@ -20005,6 +20313,7 @@
     ]
   },
   "갑자기": {
+    "id": 309,
     "word": "갑자기",
     "phonetic": "gapjagi",
     "pos": "부사",
@@ -20069,9 +20378,10 @@
     ]
   },
   "갖다": {
+    "id": 310,
     "word": "갖다",
     "phonetic": "gatda",
-    "pos": "verb",
+    "pos": "동사",
     "meaning": "to have, to possess, to own",
     "synonyms": [],
     "level": "2",
@@ -20133,6 +20443,7 @@
     ]
   },
   "거절": {
+    "id": 311,
     "word": "거절",
     "phonetic": "geojeol",
     "pos": "명사",
@@ -20197,6 +20508,7 @@
     ]
   },
   "거짓말": {
+    "id": 312,
     "word": "거짓말",
     "phonetic": "geojitmal",
     "pos": "명사",
@@ -20261,6 +20573,7 @@
     ]
   },
   "걱정": {
+    "id": 313,
     "word": "걱정",
     "phonetic": "geokjeong",
     "pos": "명사",
@@ -20328,6 +20641,7 @@
     ]
   },
   "검사": {
+    "id": 314,
     "word": "검사",
     "phonetic": "geomsa",
     "pos": "명사",
@@ -20394,6 +20708,7 @@
     ]
   },
   "결과": {
+    "id": 315,
     "word": "결과",
     "phonetic": "gyeolgwa",
     "pos": "명사",
@@ -20460,6 +20775,7 @@
     ]
   },
   "결정": {
+    "id": 316,
     "word": "결정",
     "phonetic": "gyeoljeong",
     "pos": "명사",
@@ -20526,6 +20842,7 @@
     ]
   },
   "결혼": {
+    "id": 317,
     "word": "결혼",
     "phonetic": "gyeolhon",
     "pos": "명사",
@@ -20590,6 +20907,7 @@
     ]
   },
   "결혼식": {
+    "id": 318,
     "word": "결혼식",
     "phonetic": "gyeolhonsik",
     "pos": "명사",
@@ -20654,6 +20972,7 @@
     ]
   },
   "경기": {
+    "id": 319,
     "word": "경기",
     "phonetic": "gyeonggi",
     "pos": "명사",
@@ -20721,6 +21040,7 @@
     ]
   },
   "경찰": {
+    "id": 320,
     "word": "경찰",
     "phonetic": "gyeongchal",
     "pos": "명사",
@@ -20787,6 +21107,7 @@
     ]
   },
   "경찰서": {
+    "id": 321,
     "word": "경찰서",
     "phonetic": "gyeongchalseo",
     "pos": "명사",
@@ -20851,6 +21172,7 @@
     ]
   },
   "경치": {
+    "id": 322,
     "word": "경치",
     "phonetic": "gyeongchi",
     "pos": "명사",
@@ -20918,6 +21240,7 @@
     ]
   },
   "경험": {
+    "id": 323,
     "word": "경험",
     "phonetic": "gyeongheom",
     "pos": "명사",
@@ -20982,6 +21305,7 @@
     ]
   },
   "계단": {
+    "id": 324,
     "word": "계단",
     "phonetic": "gyedan",
     "pos": "명사",
@@ -21046,6 +21370,7 @@
     ]
   },
   "계란": {
+    "id": 325,
     "word": "계란",
     "phonetic": "gyeran",
     "pos": "명사",
@@ -21112,6 +21437,7 @@
     ]
   },
   "고등학교": {
+    "id": 326,
     "word": "고등학교",
     "phonetic": "godeunghakgyo",
     "pos": "명사",
@@ -21178,6 +21504,7 @@
     ]
   },
   "고등학생": {
+    "id": 327,
     "word": "고등학생",
     "phonetic": "godeunghaksaeng",
     "pos": "명사",
@@ -21244,6 +21571,7 @@
     ]
   },
   "고모": {
+    "id": 328,
     "word": "고모",
     "phonetic": "gomo",
     "pos": "명사",
@@ -21310,6 +21638,7 @@
     ]
   },
   "고속버스": {
+    "id": 329,
     "word": "고속버스",
     "phonetic": "gosokbeoseu",
     "pos": "명사",
@@ -21374,6 +21703,7 @@
     ]
   },
   "고장": {
+    "id": 330,
     "word": "고장",
     "phonetic": "gojang",
     "pos": "명사",
@@ -21438,6 +21768,7 @@
     ]
   },
   "고추장": {
+    "id": 331,
     "word": "고추장",
     "phonetic": "gochujang",
     "pos": "명사",
@@ -21502,6 +21833,7 @@
     ]
   },
   "고치다": {
+    "id": 332,
     "word": "고치다",
     "phonetic": "gochida",
     "pos": "동사",
@@ -21566,6 +21898,7 @@
     ]
   },
   "곧": {
+    "id": 333,
     "word": "곧",
     "phonetic": "got",
     "pos": "부사",
@@ -21632,6 +21965,7 @@
     ]
   },
   "공": {
+    "id": 334,
     "word": "공",
     "phonetic": "gong",
     "pos": "명사",
@@ -21696,6 +22030,7 @@
     ]
   },
   "공무원": {
+    "id": 335,
     "word": "공무원",
     "phonetic": "gongmuwon",
     "pos": "명사",
@@ -21763,6 +22098,7 @@
     ]
   },
   "공짜": {
+    "id": 336,
     "word": "공짜",
     "phonetic": "gongjja",
     "pos": "명사",
@@ -21829,6 +22165,7 @@
     ]
   },
   "공휴일": {
+    "id": 337,
     "word": "공휴일",
     "phonetic": "gonghyuil",
     "pos": "명사",
@@ -21896,6 +22233,7 @@
     ]
   },
   "과거": {
+    "id": 338,
     "word": "과거",
     "phonetic": "gwageo",
     "pos": "명사",
@@ -21960,6 +22298,7 @@
     ]
   },
   "과자": {
+    "id": 339,
     "word": "과자",
     "phonetic": "gwaja",
     "pos": "명사",
@@ -22024,6 +22363,7 @@
     ]
   },
   "관계": {
+    "id": 340,
     "word": "관계",
     "phonetic": "gwangye",
     "pos": "명사",
@@ -22088,6 +22428,7 @@
     ]
   },
   "관광지": {
+    "id": 341,
     "word": "관광지",
     "phonetic": "gwangwangji",
     "pos": "명사",
@@ -22154,6 +22495,7 @@
     ]
   },
   "관심": {
+    "id": 342,
     "word": "관심",
     "phonetic": "gwansim",
     "pos": "명사",
@@ -22221,6 +22563,7 @@
     ]
   },
   "광고": {
+    "id": 343,
     "word": "광고",
     "phonetic": "gwanggo",
     "pos": "명사",
@@ -22285,6 +22628,7 @@
     ]
   },
   "교과서": {
+    "id": 344,
     "word": "교과서",
     "phonetic": "gyogwaseo",
     "pos": "명사",
@@ -22351,6 +22695,7 @@
     ]
   },
   "교수": {
+    "id": 345,
     "word": "교수",
     "phonetic": "gyosu",
     "pos": "명사",
@@ -22415,9 +22760,10 @@
     ]
   },
   "교육": {
+    "id": 346,
     "word": "교육",
     "phonetic": "gyoyuk",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "education",
     "synonyms": [],
     "level": "2",
@@ -22479,6 +22825,7 @@
     ]
   },
   "교통사고": {
+    "id": 347,
     "word": "교통사고",
     "phonetic": "gyotongsago",
     "pos": "명사",
@@ -22543,6 +22890,7 @@
     ]
   },
   "교환": {
+    "id": 348,
     "word": "교환",
     "phonetic": "gyohwan",
     "pos": "명사",
@@ -22607,6 +22955,7 @@
     ]
   },
   "교회": {
+    "id": 349,
     "word": "교회",
     "phonetic": "gyohoe",
     "pos": "명사",
@@ -22671,6 +23020,7 @@
     ]
   },
   "구름": {
+    "id": 350,
     "word": "구름",
     "phonetic": "gureum",
     "pos": "명사",
@@ -22735,6 +23085,7 @@
     ]
   },
   "국": {
+    "id": 351,
     "word": "국",
     "phonetic": "guk",
     "pos": "명사",
@@ -22801,6 +23152,7 @@
     ]
   },
   "국내": {
+    "id": 352,
     "word": "국내",
     "phonetic": "guknae",
     "pos": "명사",
@@ -22865,6 +23217,7 @@
     ]
   },
   "국수": {
+    "id": 353,
     "word": "국수",
     "phonetic": "guksu",
     "pos": "명사",
@@ -22929,6 +23282,7 @@
     ]
   },
   "국제": {
+    "id": 354,
     "word": "국제",
     "phonetic": "gukje",
     "pos": "명사",
@@ -22996,6 +23350,7 @@
     ]
   },
   "군인": {
+    "id": 355,
     "word": "군인",
     "phonetic": "gunin",
     "pos": "명사",
@@ -23060,6 +23415,7 @@
     ]
   },
   "굽다": {
+    "id": 356,
     "word": "굽다",
     "phonetic": "gupda",
     "pos": "동사",
@@ -23124,6 +23480,7 @@
     ]
   },
   "귀엽다": {
+    "id": 357,
     "word": "귀엽다",
     "phonetic": "gwiyeopda",
     "pos": "형용사",
@@ -23188,6 +23545,7 @@
     ]
   },
   "규칙": {
+    "id": 358,
     "word": "규칙",
     "phonetic": "gyuchik",
     "pos": "명사",
@@ -23254,6 +23612,7 @@
     ]
   },
   "그거": {
+    "id": 359,
     "word": "그거",
     "phonetic": "geugeo",
     "pos": "대명사",
@@ -23318,6 +23677,7 @@
     ]
   },
   "그곳": {
+    "id": 360,
     "word": "그곳",
     "phonetic": "geugot",
     "pos": "명사",
@@ -23384,6 +23744,7 @@
     ]
   },
   "그날": {
+    "id": 361,
     "word": "그날",
     "phonetic": "geunal",
     "pos": "명사",
@@ -23450,6 +23811,7 @@
     ]
   },
   "그냥": {
+    "id": 362,
     "word": "그냥",
     "phonetic": "geunyang",
     "pos": "부사",
@@ -23514,6 +23876,7 @@
     ]
   },
   "그동안": {
+    "id": 363,
     "word": "그동안",
     "phonetic": "geudongan",
     "pos": "명사",
@@ -23578,6 +23941,7 @@
     ]
   },
   "그때": {
+    "id": 364,
     "word": "그때",
     "phonetic": "geuttae",
     "pos": "명사",
@@ -23644,6 +24008,7 @@
     ]
   },
   "그러나": {
+    "id": 365,
     "word": "그러나",
     "phonetic": "geureona",
     "pos": "부사",
@@ -23711,6 +24076,7 @@
     ]
   },
   "그런": {
+    "id": 366,
     "word": "그런",
     "phonetic": "geureon",
     "pos": "관형사",
@@ -23775,6 +24141,7 @@
     ]
   },
   "그만": {
+    "id": 367,
     "word": "그만",
     "phonetic": "geuman",
     "pos": "부사",
@@ -23839,6 +24206,7 @@
     ]
   },
   "그분": {
+    "id": 368,
     "word": "그분",
     "phonetic": "geubun",
     "pos": "대명사",
@@ -23905,6 +24273,7 @@
     ]
   },
   "그치다": {
+    "id": 369,
     "word": "그치다",
     "phonetic": "geuchida",
     "pos": "동사",
@@ -23972,6 +24341,7 @@
     ]
   },
   "금방": {
+    "id": 370,
     "word": "금방",
     "phonetic": "geumbang",
     "pos": "부사",
@@ -24038,6 +24408,7 @@
     ]
   },
   "급하다": {
+    "id": 371,
     "word": "급하다",
     "phonetic": "geuphada",
     "pos": "형용사",
@@ -24102,6 +24473,7 @@
     ]
   },
   "기르다": {
+    "id": 372,
     "word": "기르다",
     "phonetic": "gireuda",
     "pos": "동사",
@@ -24166,6 +24538,7 @@
     ]
   },
   "기름": {
+    "id": 373,
     "word": "기름",
     "phonetic": "gireum",
     "pos": "명사",
@@ -24230,6 +24603,7 @@
     ]
   },
   "기뻐하다": {
+    "id": 374,
     "word": "기뻐하다",
     "phonetic": "gippeohada",
     "pos": "동사",
@@ -24294,6 +24668,7 @@
     ]
   },
   "기온": {
+    "id": 375,
     "word": "기온",
     "phonetic": "gion",
     "pos": "명사",
@@ -24358,6 +24733,7 @@
     ]
   },
   "기자": {
+    "id": 376,
     "word": "기자",
     "phonetic": "gija",
     "pos": "명사",
@@ -24422,6 +24798,7 @@
     ]
   },
   "기침": {
+    "id": 377,
     "word": "기침",
     "phonetic": "gichim",
     "pos": "명사",
@@ -24486,6 +24863,7 @@
     ]
   },
   "기타": {
+    "id": 378,
     "word": "기타",
     "phonetic": "gita",
     "pos": "명사",
@@ -24552,6 +24930,7 @@
     ]
   },
   "긴장": {
+    "id": 379,
     "word": "긴장",
     "phonetic": "ginjang",
     "pos": "명사",
@@ -24619,6 +24998,7 @@
     ]
   },
   "김": {
+    "id": 380,
     "word": "김",
     "phonetic": "gim",
     "pos": "명사",
@@ -24683,6 +25063,7 @@
     ]
   },
   "까만색": {
+    "id": 381,
     "word": "까만색",
     "phonetic": "kkamansaek",
     "pos": "명사",
@@ -24749,6 +25130,7 @@
     ]
   },
   "까맣다": {
+    "id": 382,
     "word": "까맣다",
     "phonetic": "kkamatda",
     "pos": "형용사",
@@ -24813,6 +25195,7 @@
     ]
   },
   "깎다": {
+    "id": 383,
     "word": "깎다",
     "phonetic": "kkakda",
     "pos": "동사",
@@ -24877,6 +25260,7 @@
     ]
   },
   "깜짝": {
+    "id": 384,
     "word": "깜짝",
     "phonetic": "kkamjjak",
     "pos": "부사",
@@ -24941,6 +25325,7 @@
     ]
   },
   "깨다": {
+    "id": 385,
     "word": "깨다",
     "phonetic": "kkaeda",
     "pos": "동사",
@@ -25007,6 +25392,7 @@
     ]
   },
   "꺼내다": {
+    "id": 386,
     "word": "꺼내다",
     "phonetic": "kkeonaeda",
     "pos": "동사",
@@ -25074,6 +25460,7 @@
     ]
   },
   "껌": {
+    "id": 387,
     "word": "껌",
     "phonetic": "kkeom",
     "pos": "명사",
@@ -25138,6 +25525,7 @@
     ]
   },
   "꽃집": {
+    "id": 388,
     "word": "꽃집",
     "phonetic": "kkotjip",
     "pos": "명사",
@@ -25202,6 +25590,7 @@
     ]
   },
   "꾸다": {
+    "id": 389,
     "word": "꾸다",
     "phonetic": "kkuda",
     "pos": "동사",
@@ -25266,6 +25655,7 @@
     ]
   },
   "꿈": {
+    "id": 390,
     "word": "꿈",
     "phonetic": "kkum",
     "pos": "명사",
@@ -25330,6 +25720,7 @@
     ]
   },
   "끓이다": {
+    "id": 391,
     "word": "끓이다",
     "phonetic": "kkeulida",
     "pos": "동사",
@@ -25394,6 +25785,7 @@
     ]
   },
   "끝": {
+    "id": 392,
     "word": "끝",
     "phonetic": "kkeut",
     "pos": "명사",
@@ -25460,6 +25852,7 @@
     ]
   },
   "끝내다": {
+    "id": 393,
     "word": "끝내다",
     "phonetic": "kkeutnaeda",
     "pos": "동사",
@@ -25527,6 +25920,7 @@
     ]
   },
   "끼다": {
+    "id": 394,
     "word": "끼다",
     "phonetic": "kkida",
     "pos": "동사",
@@ -25593,6 +25987,7 @@
     ]
   },
   "나누다": {
+    "id": 395,
     "word": "나누다",
     "phonetic": "nanuda",
     "pos": "동사",
@@ -25659,6 +26054,7 @@
     ]
   },
   "나이": {
+    "id": 396,
     "word": "나이",
     "phonetic": "nai",
     "pos": "명사",
@@ -25723,6 +26119,7 @@
     ]
   },
   "나타나다": {
+    "id": 397,
     "word": "나타나다",
     "phonetic": "natanada",
     "pos": "동사",
@@ -25789,6 +26186,7 @@
     ]
   },
   "나흘": {
+    "id": 398,
     "word": "나흘",
     "phonetic": "naheul",
     "pos": "명사",
@@ -25853,6 +26251,7 @@
     ]
   },
   "낚시": {
+    "id": 399,
     "word": "낚시",
     "phonetic": "naksi",
     "pos": "명사",
@@ -25917,6 +26316,7 @@
     ]
   },
   "남": {
+    "id": 400,
     "word": "남",
     "phonetic": "nam",
     "pos": "명사",
@@ -25983,6 +26383,7 @@
     ]
   },
   "남기다": {
+    "id": 401,
     "word": "남기다",
     "phonetic": "namgida",
     "pos": "동사",
@@ -26050,6 +26451,7 @@
     ]
   },
   "남녀": {
+    "id": 402,
     "word": "남녀",
     "phonetic": "namnyeo",
     "pos": "명사",
@@ -26114,9 +26516,10 @@
     ]
   },
   "남다": {
+    "id": 403,
     "word": "남다",
     "phonetic": "namda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to remain, to be left over",
     "synonyms": [],
     "level": "2",
@@ -26178,6 +26581,7 @@
     ]
   },
   "남쪽": {
+    "id": 404,
     "word": "남쪽",
     "phonetic": "namjjok",
     "pos": "명사",
@@ -26245,6 +26649,7 @@
     ]
   },
   "남학생": {
+    "id": 405,
     "word": "남학생",
     "phonetic": "namhaksaeng",
     "pos": "명사",
@@ -26311,6 +26716,7 @@
     ]
   },
   "내과": {
+    "id": 406,
     "word": "내과",
     "phonetic": "naegwa",
     "pos": "명사",
@@ -26375,6 +26781,7 @@
     ]
   },
   "내다": {
+    "id": 407,
     "word": "내다",
     "phonetic": "naeda",
     "pos": "동사",
@@ -26442,6 +26849,7 @@
     ]
   },
   "내려가다": {
+    "id": 408,
     "word": "내려가다",
     "phonetic": "naeryeogada",
     "pos": "동사",
@@ -26509,6 +26917,7 @@
     ]
   },
   "내려오다": {
+    "id": 409,
     "word": "내려오다",
     "phonetic": "naeryeooda",
     "pos": "동사",
@@ -26573,6 +26982,7 @@
     ]
   },
   "내용": {
+    "id": 410,
     "word": "내용",
     "phonetic": "naeyong",
     "pos": "명사",
@@ -26637,6 +27047,7 @@
     ]
   },
   "냄비": {
+    "id": 411,
     "word": "냄비",
     "phonetic": "naembi",
     "pos": "명사",
@@ -26701,6 +27112,7 @@
     ]
   },
   "냄새": {
+    "id": 412,
     "word": "냄새",
     "phonetic": "naemsae",
     "pos": "명사",
@@ -26765,6 +27177,7 @@
     ]
   },
   "냉장고": {
+    "id": 413,
     "word": "냉장고",
     "phonetic": "naengjanggo",
     "pos": "명사",
@@ -26829,6 +27242,7 @@
     ]
   },
   "넘다": {
+    "id": 414,
     "word": "넘다",
     "phonetic": "neomda",
     "pos": "동사",
@@ -26893,6 +27307,7 @@
     ]
   },
   "넘어지다": {
+    "id": 415,
     "word": "넘어지다",
     "phonetic": "neomeojida",
     "pos": "동사",
@@ -26957,6 +27372,7 @@
     ]
   },
   "넥타이": {
+    "id": 416,
     "word": "넥타이",
     "phonetic": "nektai",
     "pos": "명사",
@@ -27021,6 +27437,7 @@
     ]
   },
   "노란색": {
+    "id": 417,
     "word": "노란색",
     "phonetic": "noransaek",
     "pos": "명사",
@@ -27085,6 +27502,7 @@
     ]
   },
   "노랗다": {
+    "id": 418,
     "word": "노랗다",
     "phonetic": "noratda",
     "pos": "형용사",
@@ -27149,6 +27567,7 @@
     ]
   },
   "노트": {
+    "id": 419,
     "word": "노트",
     "phonetic": "noteu",
     "pos": "명사",
@@ -27216,6 +27635,7 @@
     ]
   },
   "녹색": {
+    "id": 420,
     "word": "녹색",
     "phonetic": "noksaek",
     "pos": "명사",
@@ -27280,6 +27700,7 @@
     ]
   },
   "녹차": {
+    "id": 421,
     "word": "녹차",
     "phonetic": "nokcha",
     "pos": "명사",
@@ -27346,6 +27767,7 @@
     ]
   },
   "놀라다": {
+    "id": 422,
     "word": "놀라다",
     "phonetic": "nolrada",
     "pos": "동사",
@@ -27410,6 +27832,7 @@
     ]
   },
   "놓다": {
+    "id": 423,
     "word": "놓다",
     "phonetic": "notda",
     "pos": "동사",
@@ -27476,6 +27899,7 @@
     ]
   },
   "누르다": {
+    "id": 424,
     "word": "누르다",
     "phonetic": "nureuda",
     "pos": "동사",
@@ -27540,6 +27964,7 @@
     ]
   },
   "눈물": {
+    "id": 425,
     "word": "눈물",
     "phonetic": "nunmul",
     "pos": "명사",
@@ -27604,6 +28029,7 @@
     ]
   },
   "눕다": {
+    "id": 426,
     "word": "눕다",
     "phonetic": "nupda",
     "pos": "동사",
@@ -27668,6 +28094,7 @@
     ]
   },
   "느끼다": {
+    "id": 427,
     "word": "느끼다",
     "phonetic": "neukkida",
     "pos": "동사",
@@ -27732,6 +28159,7 @@
     ]
   },
   "느낌": {
+    "id": 428,
     "word": "느낌",
     "phonetic": "neukkim",
     "pos": "명사",
@@ -27799,6 +28227,7 @@
     ]
   },
   "느리다": {
+    "id": 429,
     "word": "느리다",
     "phonetic": "neurida",
     "pos": "형용사",
@@ -27863,6 +28292,7 @@
     ]
   },
   "늘": {
+    "id": 430,
     "word": "늘",
     "phonetic": "neul",
     "pos": "부사",
@@ -27927,6 +28357,7 @@
     ]
   },
   "늘다": {
+    "id": 431,
     "word": "늘다",
     "phonetic": "neulda",
     "pos": "동사",
@@ -27993,6 +28424,7 @@
     ]
   },
   "능력": {
+    "id": 432,
     "word": "능력",
     "phonetic": "neungryeok",
     "pos": "명사",
@@ -28059,6 +28491,7 @@
     ]
   },
   "다이어트": {
+    "id": 433,
     "word": "다이어트",
     "phonetic": "daieoteu",
     "pos": "명사",
@@ -28125,6 +28558,7 @@
     ]
   },
   "다치다": {
+    "id": 434,
     "word": "다치다",
     "phonetic": "dachida",
     "pos": "동사",
@@ -28192,6 +28626,7 @@
     ]
   },
   "닦다": {
+    "id": 435,
     "word": "닦다",
     "phonetic": "dakda",
     "pos": "동사",
@@ -28256,6 +28691,7 @@
     ]
   },
   "달걀": {
+    "id": 436,
     "word": "달걀",
     "phonetic": "dalgyal",
     "pos": "명사",
@@ -28322,6 +28758,7 @@
     ]
   },
   "달력": {
+    "id": 437,
     "word": "달력",
     "phonetic": "dalryeok",
     "pos": "명사",
@@ -28386,6 +28823,7 @@
     ]
   },
   "달리다": {
+    "id": 438,
     "word": "달리다",
     "phonetic": "dalrida",
     "pos": "동사",
@@ -28452,6 +28890,7 @@
     ]
   },
   "닭": {
+    "id": 439,
     "word": "닭",
     "phonetic": "dak",
     "pos": "명사",
@@ -28518,6 +28957,7 @@
     ]
   },
   "닭고기": {
+    "id": 440,
     "word": "닭고기",
     "phonetic": "dakgogi",
     "pos": "명사",
@@ -28584,6 +29024,7 @@
     ]
   },
   "닮다": {
+    "id": 441,
     "word": "닮다",
     "phonetic": "damda",
     "pos": "동사",
@@ -28648,6 +29089,7 @@
     ]
   },
   "답장": {
+    "id": 442,
     "word": "답장",
     "phonetic": "dapjang",
     "pos": "명사",
@@ -28714,6 +29156,7 @@
     ]
   },
   "대": {
+    "id": 443,
     "word": "대",
     "phonetic": "dae",
     "pos": "명사",
@@ -28778,6 +29221,7 @@
     ]
   },
   "대학원": {
+    "id": 444,
     "word": "대학원",
     "phonetic": "daehakwon",
     "pos": "명사",
@@ -28842,6 +29286,7 @@
     ]
   },
   "대회": {
+    "id": 445,
     "word": "대회",
     "phonetic": "daehoe",
     "pos": "명사",
@@ -28908,6 +29353,7 @@
     ]
   },
   "더럽다": {
+    "id": 446,
     "word": "더럽다",
     "phonetic": "deoreopda",
     "pos": "형용사",
@@ -28974,9 +29420,10 @@
     ]
   },
   "더욱": {
+    "id": 447,
     "word": "더욱",
     "phonetic": "deo-uk",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "even more, all the more, further",
     "synonyms": [
       "더구나",
@@ -29041,6 +29488,7 @@
     ]
   },
   "덕분": {
+    "id": 448,
     "word": "덕분",
     "phonetic": "deokbun",
     "pos": "명사",
@@ -29105,6 +29553,7 @@
     ]
   },
   "던지다": {
+    "id": 449,
     "word": "던지다",
     "phonetic": "deonjida",
     "pos": "동사",
@@ -29169,6 +29618,7 @@
     ]
   },
   "데이트": {
+    "id": 450,
     "word": "데이트",
     "phonetic": "deiteu",
     "pos": "명사",
@@ -29235,6 +29685,7 @@
     ]
   },
   "도로": {
+    "id": 451,
     "word": "도로",
     "phonetic": "doro",
     "pos": "명사",
@@ -29302,6 +29753,7 @@
     ]
   },
   "도시": {
+    "id": 452,
     "word": "도시",
     "phonetic": "dosi",
     "pos": "명사",
@@ -29368,6 +29820,7 @@
     ]
   },
   "도움": {
+    "id": 453,
     "word": "도움",
     "phonetic": "doum",
     "pos": "명사",
@@ -29432,6 +29885,7 @@
     ]
   },
   "독서": {
+    "id": 454,
     "word": "독서",
     "phonetic": "dokseo",
     "pos": "명사",
@@ -29496,6 +29950,7 @@
     ]
   },
   "돌": {
+    "id": 455,
     "word": "돌",
     "phonetic": "dol",
     "pos": "명사",
@@ -29560,6 +30015,7 @@
     ]
   },
   "동네": {
+    "id": 456,
     "word": "동네",
     "phonetic": "dongne",
     "pos": "명사",
@@ -29624,6 +30080,7 @@
     ]
   },
   "동물": {
+    "id": 457,
     "word": "동물",
     "phonetic": "dongmul",
     "pos": "명사",
@@ -29688,6 +30145,7 @@
     ]
   },
   "동전": {
+    "id": 458,
     "word": "동전",
     "phonetic": "dongjeon",
     "pos": "명사",
@@ -29752,6 +30210,7 @@
     ]
   },
   "동쪽": {
+    "id": 459,
     "word": "동쪽",
     "phonetic": "dongjjok",
     "pos": "명사",
@@ -29816,6 +30275,7 @@
     ]
   },
   "돼지": {
+    "id": 460,
     "word": "돼지",
     "phonetic": "dwaeji",
     "pos": "명사",
@@ -29880,6 +30340,7 @@
     ]
   },
   "돼지고기": {
+    "id": 461,
     "word": "돼지고기",
     "phonetic": "dwaejigogi",
     "pos": "명사",
@@ -29944,6 +30405,7 @@
     ]
   },
   "된장": {
+    "id": 462,
     "word": "된장",
     "phonetic": "doenjang",
     "pos": "명사",
@@ -30011,6 +30473,7 @@
     ]
   },
   "두껍다": {
+    "id": 463,
     "word": "두껍다",
     "phonetic": "dukkeopda",
     "pos": "형용사",
@@ -30075,6 +30538,7 @@
     ]
   },
   "두다": {
+    "id": 464,
     "word": "두다",
     "phonetic": "duda",
     "pos": "동사",
@@ -30142,6 +30606,7 @@
     ]
   },
   "두부": {
+    "id": 465,
     "word": "두부",
     "phonetic": "dubu",
     "pos": "명사",
@@ -30208,6 +30673,7 @@
     ]
   },
   "뒤쪽": {
+    "id": 466,
     "word": "뒤쪽",
     "phonetic": "dwijjok",
     "pos": "명사",
@@ -30274,6 +30740,7 @@
     ]
   },
   "등": {
+    "id": 467,
     "word": "등",
     "phonetic": "deung",
     "pos": "명사",
@@ -30340,6 +30807,7 @@
     ]
   },
   "디자인": {
+    "id": 468,
     "word": "디자인",
     "phonetic": "dijain",
     "pos": "명사",
@@ -30404,6 +30872,7 @@
     ]
   },
   "따로": {
+    "id": 469,
     "word": "따로",
     "phonetic": "ttaro",
     "pos": "부사",
@@ -30468,6 +30937,7 @@
     ]
   },
   "땀": {
+    "id": 470,
     "word": "땀",
     "phonetic": "ttam",
     "pos": "명사",
@@ -30532,6 +31002,7 @@
     ]
   },
   "떠나다": {
+    "id": 471,
     "word": "떠나다",
     "phonetic": "tteonada",
     "pos": "동사",
@@ -30598,6 +31069,7 @@
     ]
   },
   "떠들다": {
+    "id": 472,
     "word": "떠들다",
     "phonetic": "tteodeulda",
     "pos": "동사",
@@ -30665,6 +31137,7 @@
     ]
   },
   "떡": {
+    "id": 473,
     "word": "떡",
     "phonetic": "tteok",
     "pos": "명사",
@@ -30731,6 +31204,7 @@
     ]
   },
   "떡국": {
+    "id": 474,
     "word": "떡국",
     "phonetic": "tteokguk",
     "pos": "명사",
@@ -30797,6 +31271,7 @@
     ]
   },
   "떨어지다": {
+    "id": 475,
     "word": "떨어지다",
     "phonetic": "tteoleojida",
     "pos": "동사",
@@ -30864,6 +31339,7 @@
     ]
   },
   "또는": {
+    "id": 476,
     "word": "또는",
     "phonetic": "ttoneun",
     "pos": "부사",
@@ -30928,6 +31404,7 @@
     ]
   },
   "똑같다": {
+    "id": 477,
     "word": "똑같다",
     "phonetic": "ttokgatda",
     "pos": "형용사",
@@ -30992,6 +31469,7 @@
     ]
   },
   "똑바로": {
+    "id": 478,
     "word": "똑바로",
     "phonetic": "ttokbaro",
     "pos": "부사",
@@ -31056,6 +31534,7 @@
     ]
   },
   "뛰다": {
+    "id": 479,
     "word": "뛰다",
     "phonetic": "ttwida",
     "pos": "동사",
@@ -31123,6 +31602,7 @@
     ]
   },
   "뜨겁다": {
+    "id": 480,
     "word": "뜨겁다",
     "phonetic": "tteugeopda",
     "pos": "형용사",
@@ -31187,6 +31667,7 @@
     ]
   },
   "뜨다": {
+    "id": 481,
     "word": "뜨다",
     "phonetic": "tteuda",
     "pos": "동사",
@@ -31251,6 +31732,7 @@
     ]
   },
   "뜻": {
+    "id": 482,
     "word": "뜻",
     "phonetic": "tteut",
     "pos": "명사",
@@ -31317,6 +31799,7 @@
     ]
   },
   "라디오": {
+    "id": 483,
     "word": "라디오",
     "phonetic": "radio",
     "pos": "명사",
@@ -31381,6 +31864,7 @@
     ]
   },
   "마르다": {
+    "id": 484,
     "word": "마르다",
     "phonetic": "mareuda",
     "pos": "동사",
@@ -31445,6 +31929,7 @@
     ]
   },
   "마지막": {
+    "id": 485,
     "word": "마지막",
     "phonetic": "majimak",
     "pos": "명사",
@@ -31512,6 +31997,7 @@
     ]
   },
   "마치다": {
+    "id": 486,
     "word": "마치다",
     "phonetic": "machida",
     "pos": "동사",
@@ -31579,6 +32065,7 @@
     ]
   },
   "막히다": {
+    "id": 487,
     "word": "막히다",
     "phonetic": "makhida",
     "pos": "동사",
@@ -31643,6 +32130,7 @@
     ]
   },
   "만두": {
+    "id": 488,
     "word": "만두",
     "phonetic": "mandu",
     "pos": "명사",
@@ -31707,6 +32195,7 @@
     ]
   },
   "만일": {
+    "id": 489,
     "word": "만일",
     "phonetic": "manil",
     "pos": "부사",
@@ -31771,6 +32260,7 @@
     ]
   },
   "만지다": {
+    "id": 490,
     "word": "만지다",
     "phonetic": "manjida",
     "pos": "동사",
@@ -31835,6 +32325,7 @@
     ]
   },
   "만화": {
+    "id": 491,
     "word": "만화",
     "phonetic": "manhwa",
     "pos": "명사",
@@ -31899,6 +32390,7 @@
     ]
   },
   "매다": {
+    "id": 492,
     "word": "매다",
     "phonetic": "maeda",
     "pos": "동사",
@@ -31963,6 +32455,7 @@
     ]
   },
   "매우": {
+    "id": 493,
     "word": "매우",
     "phonetic": "maeu",
     "pos": "부사",
@@ -32030,6 +32523,7 @@
     ]
   },
   "맥주": {
+    "id": 494,
     "word": "맥주",
     "phonetic": "maekju",
     "pos": "명사",
@@ -32094,6 +32588,7 @@
     ]
   },
   "메다": {
+    "id": 495,
     "word": "메다",
     "phonetic": "meda",
     "pos": "동사",
@@ -32158,6 +32653,7 @@
     ]
   },
   "메모": {
+    "id": 496,
     "word": "메모",
     "phonetic": "memo",
     "pos": "명사",
@@ -32224,6 +32720,7 @@
     ]
   },
   "메시지": {
+    "id": 497,
     "word": "메시지",
     "phonetic": "mesiji",
     "pos": "명사",
@@ -32288,6 +32785,7 @@
     ]
   },
   "명절": {
+    "id": 498,
     "word": "명절",
     "phonetic": "myeongjeol",
     "pos": "명사",
@@ -32354,9 +32852,10 @@
     ]
   },
   "모습": {
+    "id": 499,
     "word": "모습",
     "phonetic": "moseup",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "appearance, look, figure, shape",
     "synonyms": [
       "인물",
@@ -32421,6 +32920,7 @@
     ]
   },
   "모시다": {
+    "id": 500,
     "word": "모시다",
     "phonetic": "mosida",
     "pos": "동사",
@@ -32485,6 +32985,7 @@
     ]
   },
   "모양": {
+    "id": 501,
     "word": "모양",
     "phonetic": "moyang",
     "pos": "명사",
@@ -32551,6 +33052,7 @@
     ]
   },
   "모으다": {
+    "id": 502,
     "word": "모으다",
     "phonetic": "moeuda",
     "pos": "동사",
@@ -32617,6 +33119,7 @@
     ]
   },
   "모이다": {
+    "id": 503,
     "word": "모이다",
     "phonetic": "moida",
     "pos": "동사",
@@ -32683,6 +33186,7 @@
     ]
   },
   "모임": {
+    "id": 504,
     "word": "모임",
     "phonetic": "moim",
     "pos": "명사",
@@ -32749,6 +33253,7 @@
     ]
   },
   "목걸이": {
+    "id": 505,
     "word": "목걸이",
     "phonetic": "mokgeoli",
     "pos": "명사",
@@ -32813,6 +33318,7 @@
     ]
   },
   "목소리": {
+    "id": 506,
     "word": "목소리",
     "phonetic": "moksori",
     "pos": "명사",
@@ -32879,6 +33385,7 @@
     ]
   },
   "목욕": {
+    "id": 507,
     "word": "목욕",
     "phonetic": "mokyok",
     "pos": "명사",
@@ -32943,6 +33450,7 @@
     ]
   },
   "목적": {
+    "id": 508,
     "word": "목적",
     "phonetic": "mokjeok",
     "pos": "명사",
@@ -33009,6 +33517,7 @@
     ]
   },
   "무": {
+    "id": 509,
     "word": "무",
     "phonetic": "mu",
     "pos": "명사",
@@ -33073,6 +33582,7 @@
     ]
   },
   "무궁화": {
+    "id": 510,
     "word": "무궁화",
     "phonetic": "mugunghwa",
     "pos": "명사",
@@ -33137,6 +33647,7 @@
     ]
   },
   "무료": {
+    "id": 511,
     "word": "무료",
     "phonetic": "muryo",
     "pos": "명사",
@@ -33203,6 +33714,7 @@
     ]
   },
   "무릎": {
+    "id": 512,
     "word": "무릎",
     "phonetic": "mureup",
     "pos": "명사",
@@ -33267,6 +33779,7 @@
     ]
   },
   "무섭다": {
+    "id": 513,
     "word": "무섭다",
     "phonetic": "museopda",
     "pos": "형용사",
@@ -33331,6 +33844,7 @@
     ]
   },
   "무척": {
+    "id": 514,
     "word": "무척",
     "phonetic": "mucheok",
     "pos": "부사",
@@ -33398,6 +33912,7 @@
     ]
   },
   "문제": {
+    "id": 515,
     "word": "문제",
     "phonetic": "munje",
     "pos": "명사",
@@ -33462,6 +33977,7 @@
     ]
   },
   "물어보다": {
+    "id": 516,
     "word": "물어보다",
     "phonetic": "muleoboda",
     "pos": "동사",
@@ -33528,6 +34044,7 @@
     ]
   },
   "미래": {
+    "id": 517,
     "word": "미래",
     "phonetic": "mirae",
     "pos": "명사",
@@ -33592,6 +34109,7 @@
     ]
   },
   "미리": {
+    "id": 518,
     "word": "미리",
     "phonetic": "miri",
     "pos": "부사",
@@ -33658,6 +34176,7 @@
     ]
   },
   "미술관": {
+    "id": 519,
     "word": "미술관",
     "phonetic": "misulgwan",
     "pos": "명사",
@@ -33724,6 +34243,7 @@
     ]
   },
   "미터": {
+    "id": 520,
     "word": "미터",
     "phonetic": "miteo",
     "pos": "명사",
@@ -33788,6 +34308,7 @@
     ]
   },
   "밀가루": {
+    "id": 521,
     "word": "밀가루",
     "phonetic": "milgaru",
     "pos": "명사",
@@ -33852,6 +34373,7 @@
     ]
   },
   "반찬": {
+    "id": 522,
     "word": "반찬",
     "phonetic": "banchan",
     "pos": "명사",
@@ -33916,9 +34438,10 @@
     ]
   },
   "방법": {
+    "id": 523,
     "word": "방법",
     "phonetic": "bangbeop",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "method, way, means",
     "synonyms": [],
     "level": "2",
@@ -33980,6 +34503,7 @@
     ]
   },
   "방송": {
+    "id": 524,
     "word": "방송",
     "phonetic": "bangsong",
     "pos": "동사",
@@ -34044,6 +34568,7 @@
     ]
   },
   "배달": {
+    "id": 525,
     "word": "배달",
     "phonetic": "baedal",
     "pos": "명사",
@@ -34110,6 +34635,7 @@
     ]
   },
   "버릇": {
+    "id": 526,
     "word": "버릇",
     "phonetic": "beoreut",
     "pos": "명사",
@@ -34176,9 +34702,10 @@
     ]
   },
   "버리다": {
+    "id": 527,
     "word": "버리다",
     "phonetic": "beorida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to throw away, to discard, to abandon",
     "synonyms": [],
     "level": "2",
@@ -34240,6 +34767,7 @@
     ]
   },
   "변호사": {
+    "id": 528,
     "word": "변호사",
     "phonetic": "byeonhosa",
     "pos": "명사",
@@ -34304,9 +34832,10 @@
     ]
   },
   "보이다": {
+    "id": 529,
     "word": "보이다",
     "phonetic": "boida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to be seen, to appear, to look",
     "synonyms": [
       "생기다",
@@ -34371,6 +34900,7 @@
     ]
   },
   "복습": {
+    "id": 530,
     "word": "복습",
     "phonetic": "bokseup",
     "pos": "명사",
@@ -34437,6 +34967,7 @@
     ]
   },
   "복잡하다": {
+    "id": 531,
     "word": "복잡하다",
     "phonetic": "bokjaphada",
     "pos": "형용사",
@@ -34501,6 +35032,7 @@
     ]
   },
   "볶다": {
+    "id": 532,
     "word": "볶다",
     "phonetic": "bokda",
     "pos": "동사",
@@ -34565,9 +35097,10 @@
     ]
   },
   "부분": {
+    "id": 533,
     "word": "부분",
     "phonetic": "bubun",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "part, portion, section",
     "synonyms": [
       "역할"
@@ -34631,6 +35164,7 @@
     ]
   },
   "부지런하다": {
+    "id": 534,
     "word": "부지런하다",
     "phonetic": "bujireonhada",
     "pos": "형용사",
@@ -34695,6 +35229,7 @@
     ]
   },
   "부치다": {
+    "id": 535,
     "word": "부치다",
     "phonetic": "buchida",
     "pos": "동사",
@@ -34762,6 +35297,7 @@
     ]
   },
   "불안": {
+    "id": 536,
     "word": "불안",
     "phonetic": "bulan",
     "pos": "명사",
@@ -34829,6 +35365,7 @@
     ]
   },
   "불편": {
+    "id": 537,
     "word": "불편",
     "phonetic": "bulpyeon",
     "pos": "명사",
@@ -34893,6 +35430,7 @@
     ]
   },
   "빨래": {
+    "id": 538,
     "word": "빨래",
     "phonetic": "ppalrae",
     "pos": "명사",
@@ -34957,6 +35495,7 @@
     ]
   },
   "상처": {
+    "id": 539,
     "word": "상처",
     "phonetic": "sangcheo",
     "pos": "명사",
@@ -35021,6 +35560,7 @@
     ]
   },
   "상품": {
+    "id": 540,
     "word": "상품",
     "phonetic": "sangpum",
     "pos": "명사",
@@ -35085,9 +35625,10 @@
     ]
   },
   "새롭다": {
+    "id": 541,
     "word": "새롭다",
     "phonetic": "saereopda",
-    "pos": "adjective",
+    "pos": "형용사",
     "meaning": "new, fresh, novel",
     "synonyms": [],
     "level": "2",
@@ -35149,9 +35690,10 @@
     ]
   },
   "생기다": {
+    "id": 542,
     "word": "생기다",
     "phonetic": "saenggi-da",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to come into being, to appear, to arise, to occur, to happen",
     "synonyms": [
       "떠오르다",
@@ -35216,9 +35758,10 @@
     ]
   },
   "서다": {
+    "id": 543,
     "word": "서다",
     "phonetic": "seoda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to stand",
     "synonyms": [
       "튀다"
@@ -35282,9 +35825,10 @@
     ]
   },
   "서로": {
+    "id": 544,
     "word": "서로",
     "phonetic": "seoro",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "each other; mutually; one another",
     "synonyms": [],
     "level": "2",
@@ -35346,6 +35890,7 @@
     ]
   },
   "설거지": {
+    "id": 545,
     "word": "설거지",
     "phonetic": "seolgeoji",
     "pos": "명사",
@@ -35410,6 +35955,7 @@
     ]
   },
   "성적": {
+    "id": 546,
     "word": "성적",
     "phonetic": "seongjeok",
     "pos": "명사",
@@ -35477,6 +36023,7 @@
     ]
   },
   "세계": {
+    "id": 547,
     "word": "세계",
     "phonetic": "segyae",
     "pos": "명사",
@@ -35541,9 +36088,10 @@
     ]
   },
   "세상": {
+    "id": 548,
     "word": "세상",
     "phonetic": "sesang",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "world, the world, society, people",
     "synonyms": [],
     "level": "2",
@@ -35605,6 +36153,7 @@
     ]
   },
   "소리": {
+    "id": 549,
     "word": "소리",
     "phonetic": "sori",
     "pos": "명사",
@@ -35672,6 +36221,7 @@
     ]
   },
   "소설": {
+    "id": 550,
     "word": "소설",
     "phonetic": "soseol",
     "pos": "명사",
@@ -35736,6 +36286,7 @@
     ]
   },
   "손가락": {
+    "id": 551,
     "word": "손가락",
     "phonetic": "songarak",
     "pos": "명사",
@@ -35800,6 +36351,7 @@
     ]
   },
   "수술": {
+    "id": 552,
     "word": "수술",
     "phonetic": "susul",
     "pos": "명사",
@@ -35864,6 +36416,7 @@
     ]
   },
   "스트레스": {
+    "id": 553,
     "word": "스트레스",
     "phonetic": "seuteureseu",
     "pos": "명사",
@@ -35928,6 +36481,7 @@
     ]
   },
   "습관": {
+    "id": 554,
     "word": "습관",
     "phonetic": "seupgwan",
     "pos": "명사",
@@ -35995,6 +36549,7 @@
     ]
   },
   "시": {
+    "id": 555,
     "word": "시",
     "phonetic": "si",
     "pos": "명사",
@@ -36059,6 +36614,7 @@
     ]
   },
   "시민": {
+    "id": 556,
     "word": "시민",
     "phonetic": "simin",
     "pos": "명사",
@@ -36125,6 +36681,7 @@
     ]
   },
   "신선하다": {
+    "id": 557,
     "word": "신선하다",
     "phonetic": "sinseonhada",
     "pos": "형용사",
@@ -36189,9 +36746,10 @@
     ]
   },
   "아들": {
+    "id": 558,
     "word": "아들",
     "phonetic": "adeul",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "son",
     "synonyms": [],
     "level": "2",
@@ -36253,6 +36811,7 @@
     ]
   },
   "아빠": {
+    "id": 559,
     "word": "아빠",
     "phonetic": "appa",
     "pos": "명사",
@@ -36317,9 +36876,10 @@
     ]
   },
   "얘기": {
+    "id": 560,
     "word": "얘기",
     "phonetic": "yaegi",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "story, talk, conversation, matter",
     "synonyms": [],
     "level": "2",
@@ -36381,6 +36941,7 @@
     ]
   },
   "엄마": {
+    "id": 561,
     "word": "엄마",
     "phonetic": "eomma",
     "pos": "명사",
@@ -36447,9 +37008,10 @@
     ]
   },
   "여성": {
+    "id": 562,
     "word": "여성",
     "phonetic": "yeoseong",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "woman; female",
     "synonyms": [],
     "level": "2",
@@ -36511,6 +37073,7 @@
     ]
   },
   "역사": {
+    "id": 563,
     "word": "역사",
     "phonetic": "yeoksa",
     "pos": "명사",
@@ -36575,6 +37138,7 @@
     ]
   },
   "영수증": {
+    "id": 564,
     "word": "영수증",
     "phonetic": "yeongsujeung",
     "pos": "명사",
@@ -36639,9 +37203,10 @@
     ]
   },
   "예술": {
+    "id": 565,
     "word": "예술",
     "phonetic": "yesul",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "art",
     "synonyms": [],
     "level": "2",
@@ -36703,6 +37268,7 @@
     ]
   },
   "예습": {
+    "id": 566,
     "word": "예습",
     "phonetic": "yeseup",
     "pos": "명사",
@@ -36767,6 +37333,7 @@
     ]
   },
   "예약": {
+    "id": 567,
     "word": "예약",
     "phonetic": "yeyak",
     "pos": "명사",
@@ -36833,6 +37400,7 @@
     ]
   },
   "외롭다": {
+    "id": 568,
     "word": "외롭다",
     "phonetic": "oeropda",
     "pos": "형용사",
@@ -36897,6 +37465,7 @@
     ]
   },
   "요리사": {
+    "id": 569,
     "word": "요리사",
     "phonetic": "yorisa",
     "pos": "명사",
@@ -36961,6 +37530,7 @@
     ]
   },
   "우리나라": {
+    "id": 570,
     "word": "우리나라",
     "phonetic": "urinara",
     "pos": "명사",
@@ -37027,6 +37597,7 @@
     ]
   },
   "유학": {
+    "id": 571,
     "word": "유학",
     "phonetic": "yuhak",
     "pos": "명사",
@@ -37091,6 +37662,7 @@
     ]
   },
   "의미": {
+    "id": 572,
     "word": "의미",
     "phonetic": "uimi",
     "pos": "명사",
@@ -37158,9 +37730,10 @@
     ]
   },
   "이렇다": {
+    "id": 573,
     "word": "이렇다",
     "phonetic": "ireohda",
-    "pos": "adjective",
+    "pos": "형용사",
     "meaning": "to be like this; to be such",
     "synonyms": [],
     "level": "2",
@@ -37222,9 +37795,10 @@
     ]
   },
   "이미": {
+    "id": 574,
     "word": "이미",
     "phonetic": "imi",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "already",
     "synonyms": [],
     "level": "2",
@@ -37286,6 +37860,7 @@
     ]
   },
   "이상": {
+    "id": 575,
     "word": "이상",
     "phonetic": "isang",
     "pos": "명사",
@@ -37350,9 +37925,10 @@
     ]
   },
   "이후": {
+    "id": 576,
     "word": "이후",
     "phonetic": "ihu",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "after, since, afterwards",
     "synonyms": [],
     "level": "2",
@@ -37414,6 +37990,7 @@
     ]
   },
   "익숙하다": {
+    "id": 577,
     "word": "익숙하다",
     "phonetic": "iksukhada",
     "pos": "형용사",
@@ -37478,6 +38055,7 @@
     ]
   },
   "입원": {
+    "id": 578,
     "word": "입원",
     "phonetic": "ipwon",
     "pos": "명사",
@@ -37544,6 +38122,7 @@
     ]
   },
   "입학": {
+    "id": 579,
     "word": "입학",
     "phonetic": "iphak",
     "pos": "명사",
@@ -37610,9 +38189,10 @@
     ]
   },
   "자리": {
+    "id": 580,
     "word": "자리",
     "phonetic": "jari",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "seat, place, position",
     "synonyms": [
       "대신",
@@ -37677,9 +38257,10 @@
     ]
   },
   "자신": {
+    "id": 581,
     "word": "자신",
     "phonetic": "jasin",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "oneself, self, confidence",
     "synonyms": [],
     "level": "2",
@@ -37741,9 +38322,10 @@
     ]
   },
   "잡다": {
+    "id": 582,
     "word": "잡다",
     "phonetic": "japta",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to catch, to grab, to hold",
     "synonyms": [
       "담다",
@@ -37808,6 +38390,7 @@
     ]
   },
   "점심시간": {
+    "id": 583,
     "word": "점심시간",
     "phonetic": "jeomshimsigan",
     "pos": "명사",
@@ -37874,9 +38457,10 @@
     ]
   },
   "정도": {
+    "id": 584,
     "word": "정도",
     "phonetic": "jeongdo",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "degree, extent, level, amount",
     "synonyms": [],
     "level": "2",
@@ -37938,9 +38522,10 @@
     ]
   },
   "죽다": {
+    "id": 585,
     "word": "죽다",
     "phonetic": "jugda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to die",
     "synonyms": [],
     "level": "2",
@@ -38002,9 +38587,10 @@
     ]
   },
   "중심": {
+    "id": 586,
     "word": "중심",
     "phonetic": "joong-shim",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "center, middle, core, focus",
     "synonyms": [],
     "level": "2",
@@ -38066,9 +38652,10 @@
     ]
   },
   "지방": {
+    "id": 587,
     "word": "지방",
     "phonetic": "jibang",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "region, area, province",
     "synonyms": [
       "지대",
@@ -38133,9 +38720,10 @@
     ]
   },
   "짓다": {
+    "id": 588,
     "word": "짓다",
     "phonetic": "jitda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "to build, to construct, to make",
     "synonyms": [
       "하다",
@@ -38200,6 +38788,7 @@
     ]
   },
   "찌다": {
+    "id": 589,
     "word": "찌다",
     "phonetic": "jjida",
     "pos": "동사",
@@ -38264,9 +38853,10 @@
     ]
   },
   "최근": {
+    "id": 590,
     "word": "최근",
     "phonetic": "choegeun",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "recently, lately, in recent times",
     "synonyms": [],
     "level": "2",
@@ -38328,6 +38918,7 @@
     ]
   },
   "출석": {
+    "id": 591,
     "word": "출석",
     "phonetic": "chulseok",
     "pos": "명사",
@@ -38392,6 +38983,7 @@
     ]
   },
   "출장": {
+    "id": 592,
     "word": "출장",
     "phonetic": "chuljang",
     "pos": "명사",
@@ -38456,6 +39048,7 @@
     ]
   },
   "충분하다": {
+    "id": 593,
     "word": "충분하다",
     "phonetic": "chungbunhada",
     "pos": "형용사",
@@ -38520,6 +39113,7 @@
     ]
   },
   "치료": {
+    "id": 594,
     "word": "치료",
     "phonetic": "chiryo",
     "pos": "명사",
@@ -38584,6 +39178,7 @@
     ]
   },
   "퇴원": {
+    "id": 595,
     "word": "퇴원",
     "phonetic": "toewon",
     "pos": "명사",
@@ -38648,6 +39243,7 @@
     ]
   },
   "튀기다": {
+    "id": 596,
     "word": "튀기다",
     "phonetic": "twigida",
     "pos": "동사",
@@ -38712,6 +39308,7 @@
     ]
   },
   "포장": {
+    "id": 597,
     "word": "포장",
     "phonetic": "pojang",
     "pos": "명사",
@@ -38776,6 +39373,7 @@
     ]
   },
   "학기": {
+    "id": 598,
     "word": "학기",
     "phonetic": "hakgi",
     "pos": "명사",
@@ -38842,6 +39440,7 @@
     ]
   },
   "할인": {
+    "id": 599,
     "word": "할인",
     "phonetic": "halin",
     "pos": "명사",
@@ -38906,6 +39505,7 @@
     ]
   },
   "행사": {
+    "id": 600,
     "word": "행사",
     "phonetic": "haengsa",
     "pos": "명사",

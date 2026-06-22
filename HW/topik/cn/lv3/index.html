@@ -82,7 +82,7 @@ function onSearch(v) { searchQuery = v.trim().toLowerCase(); renderList(); }
 function renderList() {
   const items = Object.entries(allWords)
     .filter(([_, w]) => !searchQuery || (w.word||'').toLowerCase().includes(searchQuery) || (w.meaning||'').toLowerCase().includes(searchQuery))
-    .sort((a, b) => a[1].word.localeCompare(b[1].word, 'ko'));
+    .sort((a, b) => (a[1].id||0) - (b[1].id||0));
   document.getElementById('countBar').textContent = items.length + ' words';
   if (!items.length) {
     document.getElementById('listWrap').innerHTML = '<div class="empty"><div class="empty-icon">0</div><div class="empty-text">No matching words.</div></div>';

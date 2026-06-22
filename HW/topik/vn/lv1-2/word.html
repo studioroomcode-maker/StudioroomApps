@@ -221,7 +221,7 @@ function showError(msg){
 async function init(){
   try{
     allWords=await loadWords();
-    wordKeys=Object.keys(allWords).sort((a,b)=>allWords[a].source_level-allWords[b].source_level||a.localeCompare(b,'ko'));
+    wordKeys=Object.keys(allWords).sort((a,b)=>(allWords[a].id||0)-(allWords[b].id||0));
     if(!currentKey||!allWords[currentKey])currentKey=wordKeys[0];
     render();
   }catch(e){showError('Failed to load words.');}

@@ -1,5 +1,6 @@
 {
   "가능성": {
+    "id": 901,
     "word": "가능성",
     "phonetic": "ganeungsseong",
     "pos": "명사",
@@ -64,6 +65,7 @@
     ]
   },
   "가뭄": {
+    "id": 902,
     "word": "가뭄",
     "phonetic": "gamum",
     "pos": "명사",
@@ -128,6 +130,7 @@
     ]
   },
   "가치": {
+    "id": 903,
     "word": "가치",
     "phonetic": "gachi",
     "pos": "명사",
@@ -194,9 +197,10 @@
     ]
   },
   "각종": {
+    "id": 904,
     "word": "각종",
     "phonetic": "gakjong",
-    "pos": "명사 (noun/determiner)",
+    "pos": "명사",
     "meaning": "各种，各类",
     "synonyms": [],
     "level": "4",
@@ -258,6 +262,7 @@
     ]
   },
   "갈등": {
+    "id": 905,
     "word": "갈등",
     "phonetic": "galdŭng",
     "pos": "명사",
@@ -324,6 +329,7 @@
     ]
   },
   "강수량": {
+    "id": 906,
     "word": "강수량",
     "phonetic": "gangsuryang",
     "pos": "명사",
@@ -388,6 +394,7 @@
     ]
   },
   "강의": {
+    "id": 907,
     "word": "강의",
     "phonetic": "gangui",
     "pos": "명사",
@@ -455,9 +462,10 @@
     ]
   },
   "갖추다": {
+    "id": 908,
     "word": "갖추다",
     "phonetic": "gatchuда",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "配备、装备、具备",
     "synonyms": [],
     "level": "4",
@@ -519,6 +527,7 @@
     ]
   },
   "개방": {
+    "id": 909,
     "word": "개방",
     "phonetic": "gaebangg",
     "pos": "명사",
@@ -586,6 +595,7 @@
     ]
   },
   "개선": {
+    "id": 910,
     "word": "개선",
     "phonetic": "gaeseon",
     "pos": "동사",
@@ -650,6 +660,7 @@
     ]
   },
   "개혁": {
+    "id": 911,
     "word": "개혁",
     "phonetic": "gaehyeok",
     "pos": "명사",
@@ -714,9 +725,10 @@
     ]
   },
   "거치다": {
+    "id": 912,
     "word": "거치다",
     "phonetic": "geochida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "经过，途经；妨碍，阻挡",
     "synonyms": [
       "통하다",
@@ -781,9 +793,10 @@
     ]
   },
   "건설": {
+    "id": 913,
     "word": "건설",
     "phonetic": "geonseol",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "建设",
     "synonyms": [
       "건립",
@@ -848,9 +861,10 @@
     ]
   },
   "걸치다": {
+    "id": 914,
     "word": "걸치다",
     "phonetic": "geolchida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "跨越，横跨，搭在...上",
     "synonyms": [
       "늘어지다"
@@ -914,9 +928,10 @@
     ]
   },
   "게다가": {
+    "id": 915,
     "word": "게다가",
     "phonetic": "gedaga",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "而且；加上；另外",
     "synonyms": [],
     "level": "4",
@@ -978,9 +993,10 @@
     ]
   },
   "겪다": {
+    "id": 916,
     "word": "겪다",
     "phonetic": "gyeokda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "经历，经过",
     "synonyms": [
       "당하다",
@@ -1045,9 +1061,10 @@
     ]
   },
   "견디다": {
+    "id": 917,
     "word": "견디다",
     "phonetic": "gyeondida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "忍耐，承受，坚持",
     "synonyms": [
       "지니다",
@@ -1112,6 +1129,7 @@
     ]
   },
   "견해": {
+    "id": 918,
     "word": "견해",
     "phonetic": "gyeonhae",
     "pos": "명사",
@@ -1179,6 +1197,7 @@
     ]
   },
   "결론": {
+    "id": 919,
     "word": "결론",
     "phonetic": "gyeol-lon",
     "pos": "명사",
@@ -1243,9 +1262,10 @@
     ]
   },
   "결코": {
+    "id": 920,
     "word": "결코",
     "phonetic": "gyeolko",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "绝不，决不 (emphatic negation)",
     "synonyms": [],
     "level": "4",
@@ -1307,6 +1327,7 @@
     ]
   },
   "경영": {
+    "id": 921,
     "word": "경영",
     "phonetic": "gyeongyeong",
     "pos": "명사",
@@ -1374,9 +1395,10 @@
     ]
   },
   "경쟁": {
+    "id": 922,
     "word": "경쟁",
     "phonetic": "gyeongjaeng",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "竞争",
     "synonyms": [],
     "level": "4",
@@ -1438,6 +1460,7 @@
     ]
   },
   "경향": {
+    "id": 923,
     "word": "경향",
     "phonetic": "gyeonghyang",
     "pos": "명사",
@@ -1505,6 +1528,7 @@
     ]
   },
   "고소하다": {
+    "id": 924,
     "word": "고소하다",
     "phonetic": "gosohada",
     "pos": "형용사",
@@ -1569,6 +1593,7 @@
     ]
   },
   "고집": {
+    "id": 925,
     "word": "고집",
     "phonetic": "gojip",
     "pos": "명사",
@@ -1633,6 +1658,7 @@
     ]
   },
   "고통": {
+    "id": 926,
     "word": "고통",
     "phonetic": "gotong",
     "pos": "명사",
@@ -1699,6 +1725,7 @@
     ]
   },
   "곡": {
+    "id": 927,
     "word": "곡",
     "phonetic": "gok",
     "pos": "명사",
@@ -1765,6 +1792,7 @@
     ]
   },
   "곡식": {
+    "id": 928,
     "word": "곡식",
     "phonetic": "goksik",
     "pos": "명사",
@@ -1829,6 +1857,7 @@
     ]
   },
   "공감": {
+    "id": 929,
     "word": "공감",
     "phonetic": "gonggam",
     "pos": "명사",
@@ -1895,6 +1924,7 @@
     ]
   },
   "공개": {
+    "id": 930,
     "word": "공개",
     "phonetic": "gongae",
     "pos": "명사",
@@ -1962,6 +1992,7 @@
     ]
   },
   "공급": {
+    "id": 931,
     "word": "공급",
     "phonetic": "gonggeup",
     "pos": "명사",
@@ -2026,6 +2057,7 @@
     ]
   },
   "공업": {
+    "id": 932,
     "word": "공업",
     "phonetic": "gong-eop",
     "pos": "명사",
@@ -2093,9 +2125,10 @@
     ]
   },
   "과연": {
+    "id": 933,
     "word": "과연",
     "phonetic": "gwayeon",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "确实，果然，实际上",
     "synonyms": [
       "여전히",
@@ -2160,6 +2193,7 @@
     ]
   },
   "과제": {
+    "id": 934,
     "word": "과제",
     "phonetic": "gwaje",
     "pos": "명사",
@@ -2226,6 +2260,7 @@
     ]
   },
   "관계자": {
+    "id": 935,
     "word": "관계자",
     "phonetic": "gwangyeja",
     "pos": "명사",
@@ -2293,6 +2328,7 @@
     ]
   },
   "관점": {
+    "id": 936,
     "word": "관점",
     "phonetic": "gwanjeom",
     "pos": "명사",
@@ -2360,6 +2396,7 @@
     ]
   },
   "교장": {
+    "id": 937,
     "word": "교장",
     "phonetic": "gyojang",
     "pos": "명사",
@@ -2426,6 +2463,7 @@
     ]
   },
   "교재": {
+    "id": 938,
     "word": "교재",
     "phonetic": "gyojae",
     "pos": "명사",
@@ -2492,6 +2530,7 @@
     ]
   },
   "교체": {
+    "id": 939,
     "word": "교체",
     "phonetic": "gyoche",
     "pos": "명사",
@@ -2556,6 +2595,7 @@
     ]
   },
   "구매": {
+    "id": 940,
     "word": "구매",
     "phonetic": "gumae",
     "pos": "명사",
@@ -2620,9 +2660,10 @@
     ]
   },
   "구성": {
+    "id": 941,
     "word": "구성",
     "phonetic": "guseong",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "构成、组成、人员组成",
     "synonyms": [
       "건립",
@@ -2687,6 +2728,7 @@
     ]
   },
   "구속": {
+    "id": 942,
     "word": "구속",
     "phonetic": "guseok",
     "pos": "명사",
@@ -2753,6 +2795,7 @@
     ]
   },
   "국회": {
+    "id": 943,
     "word": "국회",
     "phonetic": "gukhoe",
     "pos": "명사",
@@ -2819,6 +2862,7 @@
     ]
   },
   "권리": {
+    "id": 944,
     "word": "권리",
     "phonetic": "gwonli",
     "pos": "명사",
@@ -2883,6 +2927,7 @@
     ]
   },
   "규모": {
+    "id": 945,
     "word": "규모",
     "phonetic": "gyumo",
     "pos": "명사",
@@ -2949,9 +2994,10 @@
     ]
   },
   "그리": {
+    "id": 946,
     "word": "그리",
     "phonetic": "geuri",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "不很；不太；那么；那样",
     "synonyms": [
       "내지",
@@ -3016,6 +3062,7 @@
     ]
   },
   "그림자": {
+    "id": 947,
     "word": "그림자",
     "phonetic": "geurimja",
     "pos": "명사",
@@ -3080,6 +3127,7 @@
     ]
   },
   "극복": {
+    "id": 948,
     "word": "극복",
     "phonetic": "geukbok",
     "pos": "동사",
@@ -3144,9 +3192,10 @@
     ]
   },
   "근거": {
+    "id": 949,
     "word": "근거",
     "phonetic": "geungeo",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "根据、基础、证据",
     "synonyms": [
       "토대",
@@ -3211,6 +3260,7 @@
     ]
   },
   "기념일": {
+    "id": 950,
     "word": "기념일",
     "phonetic": "ginyeomil",
     "pos": "명사",
@@ -3275,6 +3325,7 @@
     ]
   },
   "기록": {
+    "id": 951,
     "word": "기록",
     "phonetic": "girok",
     "pos": "명사",
@@ -3339,6 +3390,7 @@
     ]
   },
   "기본": {
+    "id": 952,
     "word": "기본",
     "phonetic": "gibon",
     "pos": "명사",
@@ -3405,6 +3457,7 @@
     ]
   },
   "기부": {
+    "id": 953,
     "word": "기부",
     "phonetic": "gibu",
     "pos": "명사",
@@ -3469,6 +3522,7 @@
     ]
   },
   "기술": {
+    "id": 954,
     "word": "기술",
     "phonetic": "gisul",
     "pos": "명사",
@@ -3535,9 +3589,10 @@
     ]
   },
   "기울이다": {
+    "id": 955,
     "word": "기울이다",
     "phonetic": "giuridha",
-    "pos": "verb",
+    "pos": "동사",
     "meaning": "倾斜，倾向，倾注",
     "synonyms": [],
     "level": "4",
@@ -3599,6 +3654,7 @@
     ]
   },
   "기후": {
+    "id": 956,
     "word": "기후",
     "phonetic": "gihu",
     "pos": "명사",
@@ -3665,9 +3721,10 @@
     ]
   },
   "까닭": {
+    "id": 957,
     "word": "까닭",
     "phonetic": "kkandalg",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "原因，理由",
     "synonyms": [],
     "level": "4",
@@ -3729,9 +3786,10 @@
     ]
   },
   "깨닫다": {
+    "id": 958,
     "word": "깨닫다",
     "phonetic": "kkaedatda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "意识到，领悟，觉悟",
     "synonyms": [
       "드러나다",
@@ -3796,9 +3854,10 @@
     ]
   },
   "나서다": {
+    "id": 959,
     "word": "나서다",
     "phonetic": "naseoda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "站出来，挺身而出，采取行动",
     "synonyms": [
       "다가오다",
@@ -3863,9 +3922,10 @@
     ]
   },
   "나아가다": {
+    "id": 960,
     "word": "나아가다",
     "phonetic": "naagada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "向前进行，进展",
     "synonyms": [
       "옮기다"
@@ -3929,6 +3989,7 @@
     ]
   },
   "남북": {
+    "id": 961,
     "word": "남북",
     "phonetic": "nambuk",
     "pos": "명사",
@@ -3995,6 +4056,7 @@
     ]
   },
   "낭비": {
+    "id": 962,
     "word": "낭비",
     "phonetic": "nangbi",
     "pos": "명사",
@@ -4059,9 +4121,10 @@
     ]
   },
   "내놓다": {
+    "id": 963,
     "word": "내놓다",
     "phonetic": "nae-notda",
-    "pos": "verb",
+    "pos": "동사",
     "meaning": "拿出，提出，推出，暴露",
     "synonyms": [],
     "level": "4",
@@ -4123,9 +4186,10 @@
     ]
   },
   "내밀다": {
+    "id": 964,
     "word": "내밀다",
     "phonetic": "naemilda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "伸出，递出，提出",
     "synonyms": [
       "이어지다",
@@ -4190,9 +4254,10 @@
     ]
   },
   "내부": {
+    "id": 965,
     "word": "내부",
     "phonetic": "naebu",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "内部",
     "synonyms": [],
     "level": "4",
@@ -4254,9 +4319,10 @@
     ]
   },
   "너무나": {
+    "id": 966,
     "word": "너무나",
     "phonetic": "neomunà",
-    "pos": "adverb (부사)",
+    "pos": "부사",
     "meaning": "太,非常,极其",
     "synonyms": [],
     "level": "4",
@@ -4318,9 +4384,10 @@
     ]
   },
   "넘기다": {
+    "id": 967,
     "word": "넘기다",
     "phonetic": "neomgida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "越过、翻过、跳过、度过",
     "synonyms": [
       "엇갈리다",
@@ -4385,6 +4452,7 @@
     ]
   },
   "노동": {
+    "id": 968,
     "word": "노동",
     "phonetic": "nodong",
     "pos": "명사",
@@ -4452,6 +4520,7 @@
     ]
   },
   "노동자": {
+    "id": 969,
     "word": "노동자",
     "phonetic": "nodongja",
     "pos": "명사",
@@ -4516,6 +4585,7 @@
     ]
   },
   "논리": {
+    "id": 970,
     "word": "논리",
     "phonetic": "nongli",
     "pos": "명사",
@@ -4582,9 +4652,10 @@
     ]
   },
   "농민": {
+    "id": 971,
     "word": "농민",
     "phonetic": "nongmin",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "农民",
     "synonyms": [],
     "level": "4",
@@ -4646,6 +4717,7 @@
     ]
   },
   "농업": {
+    "id": 972,
     "word": "농업",
     "phonetic": "nong-eop",
     "pos": "명사",
@@ -4710,6 +4782,7 @@
     ]
   },
   "농촌": {
+    "id": 973,
     "word": "농촌",
     "phonetic": "nongchon",
     "pos": "명사",
@@ -4774,6 +4847,7 @@
     ]
   },
   "눈길": {
+    "id": 974,
     "word": "눈길",
     "phonetic": "nungil",
     "pos": "명사",
@@ -4841,9 +4915,10 @@
     ]
   },
   "님": {
+    "id": 975,
     "word": "님",
     "phonetic": "nim",
-    "pos": "접미사",
+    "pos": "접사",
     "meaning": "尊称后缀",
     "synonyms": [],
     "level": "4",
@@ -4905,9 +4980,10 @@
     ]
   },
   "다가오다": {
+    "id": 976,
     "word": "다가오다",
     "phonetic": "dagaoda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "接近，靠近，逼近",
     "synonyms": [
       "나서다",
@@ -4972,9 +5048,10 @@
     ]
   },
   "다루다": {
+    "id": 977,
     "word": "다루다",
     "phonetic": "daruda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "处理、处置、对待",
     "synonyms": [
       "대하다",
@@ -5039,9 +5116,10 @@
     ]
   },
   "다만": {
+    "id": 978,
     "word": "다만",
     "phonetic": "daman",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "只是；仅仅；然而",
     "synonyms": [],
     "level": "4",
@@ -5103,6 +5181,7 @@
     ]
   },
   "단계": {
+    "id": 979,
     "word": "단계",
     "phonetic": "danggye",
     "pos": "명사",
@@ -5170,9 +5249,10 @@
     ]
   },
   "달리": {
+    "id": 980,
     "word": "달리",
     "phonetic": "dalli",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "不同地，另外地",
     "synonyms": [],
     "level": "4",
@@ -5234,6 +5314,7 @@
     ]
   },
   "담백하다": {
+    "id": 981,
     "word": "담백하다",
     "phonetic": "dambaekhada",
     "pos": "형용사",
@@ -5298,9 +5379,10 @@
     ]
   },
   "당시": {
+    "id": 982,
     "word": "당시",
     "phonetic": "dangsi",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "当时，那时",
     "synonyms": [
       "시즌"
@@ -5364,9 +5446,10 @@
     ]
   },
   "당하다": {
+    "id": 983,
     "word": "당하다",
     "phonetic": "danghada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "遭受，遭遇，经历（负面的事情）",
     "synonyms": [
       "겪다",
@@ -5431,6 +5514,7 @@
     ]
   },
   "대기": {
+    "id": 984,
     "word": "대기",
     "phonetic": "daegi",
     "pos": "명사",
@@ -5497,9 +5581,10 @@
     ]
   },
   "대책": {
+    "id": 985,
     "word": "대책",
     "phonetic": "daechaek",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "对策",
     "synonyms": [
       "방안"
@@ -5563,6 +5648,7 @@
     ]
   },
   "대출": {
+    "id": 986,
     "word": "대출",
     "phonetic": "daechul",
     "pos": "명사",
@@ -5627,9 +5713,10 @@
     ]
   },
   "더구나": {
+    "id": 987,
     "word": "더구나",
     "phonetic": "deoguna",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "而且；更何况；况且",
     "synonyms": [
       "더욱",
@@ -5694,9 +5781,10 @@
     ]
   },
   "더불다": {
+    "id": 988,
     "word": "더불다",
     "phonetic": "deobulda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "与...一起生活，共存",
     "synonyms": [
       "살아가다",
@@ -5761,9 +5849,10 @@
     ]
   },
   "도대체": {
+    "id": 989,
     "word": "도대체",
     "phonetic": "dodaeche",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "到底；究竟；到底是怎样",
     "synonyms": [
       "어쨌든"
@@ -5827,6 +5916,7 @@
     ]
   },
   "독립": {
+    "id": 990,
     "word": "독립",
     "phonetic": "dokrip",
     "pos": "명사",
@@ -5891,9 +5981,10 @@
     ]
   },
   "독특하다": {
+    "id": 991,
     "word": "독특하다",
     "phonetic": "dokteuk-hada",
-    "pos": "형용사 (adjective)",
+    "pos": "형용사",
     "meaning": "独特的，有特色的",
     "synonyms": [],
     "level": "4",
@@ -5955,6 +6046,7 @@
     ]
   },
   "두려움": {
+    "id": 992,
     "word": "두려움",
     "phonetic": "duryeoum",
     "pos": "명사",
@@ -6022,9 +6114,10 @@
     ]
   },
   "드러나다": {
+    "id": 993,
     "word": "드러나다",
     "phonetic": "deureounada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "被揭露，被暴露，显露",
     "synonyms": [
       "밝혀지다",
@@ -6089,9 +6182,10 @@
     ]
   },
   "들이다": {
+    "id": 994,
     "word": "들이다",
     "phonetic": "deureida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "让进来，吸入，接纳",
     "synonyms": [
       "들여놓다",
@@ -6156,9 +6250,10 @@
     ]
   },
   "때로": {
+    "id": 995,
     "word": "때로",
     "phonetic": "ttaero",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "有时；偶尔",
     "synonyms": [],
     "level": "4",
@@ -6220,9 +6315,10 @@
     ]
   },
   "떼다": {
+    "id": 996,
     "word": "떼다",
     "phonetic": "tteda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "撕下，剥下，去掉",
     "synonyms": [
       "나서다",
@@ -6287,9 +6383,10 @@
     ]
   },
   "마찬가지": {
+    "id": 997,
     "word": "마찬가지",
     "phonetic": "machanggaji",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "同样的事；一样",
     "synonyms": [],
     "level": "4",
@@ -6351,9 +6448,10 @@
     ]
   },
   "마치": {
+    "id": 998,
     "word": "마치",
     "phonetic": "machi",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "仿佛，好像，恰如",
     "synonyms": [
       "가뜩이나",
@@ -6418,9 +6516,10 @@
     ]
   },
   "마침내": {
+    "id": 999,
     "word": "마침내",
     "phonetic": "machimnal",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "终于；最后",
     "synonyms": [
       "비로소"
@@ -6484,6 +6583,7 @@
     ]
   },
   "매체": {
+    "id": 1000,
     "word": "매체",
     "phonetic": "maechae",
     "pos": "명사",
@@ -6551,6 +6651,7 @@
     ]
   },
   "면도": {
+    "id": 1001,
     "word": "면도",
     "phonetic": "myeondo",
     "pos": "명사",
@@ -6615,6 +6716,7 @@
     ]
   },
   "무리": {
+    "id": 1002,
     "word": "무리",
     "phonetic": "muri",
     "pos": "명사",
@@ -6682,6 +6784,7 @@
     ]
   },
   "물질": {
+    "id": 1003,
     "word": "물질",
     "phonetic": "muljil",
     "pos": "명사",
@@ -6749,9 +6852,10 @@
     ]
   },
   "미치다": {
+    "id": 1004,
     "word": "미치다",
     "phonetic": "michida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "发疯，疯狂",
     "synonyms": [
       "거치다",
@@ -6816,6 +6920,7 @@
     ]
   },
   "민족": {
+    "id": 1005,
     "word": "민족",
     "phonetic": "minjok",
     "pos": "명사",
@@ -6883,6 +6988,7 @@
     ]
   },
   "민주주의": {
+    "id": 1006,
     "word": "민주주의",
     "phonetic": "minjujuui",
     "pos": "명사",
@@ -6947,6 +7053,7 @@
     ]
   },
   "반응": {
+    "id": 1007,
     "word": "반응",
     "phonetic": "baneung",
     "pos": "명사",
@@ -7013,6 +7120,7 @@
     ]
   },
   "반품": {
+    "id": 1008,
     "word": "반품",
     "phonetic": "banpum",
     "pos": "명사",
@@ -7077,9 +7185,10 @@
     ]
   },
   "받아들이다": {
+    "id": 1009,
     "word": "받아들이다",
     "phonetic": "badadeulida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "接受，采纳",
     "synonyms": [
       "받다"
@@ -7143,6 +7252,7 @@
     ]
   },
   "발견": {
+    "id": 1010,
     "word": "발견",
     "phonetic": "balgyeon",
     "pos": "명사",
@@ -7207,9 +7317,10 @@
     ]
   },
   "밝혀지다": {
+    "id": 1011,
     "word": "밝혀지다",
     "phonetic": "balkhyeojida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "被揭露，被发现，被照亮",
     "synonyms": [
       "드러나다",
@@ -7274,9 +7385,10 @@
     ]
   },
   "방안": {
+    "id": 1012,
     "word": "방안",
     "phonetic": "bang-an",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "办法、方案、措施",
     "synonyms": [
       "대책",
@@ -7341,9 +7453,10 @@
     ]
   },
   "배경": {
+    "id": 1013,
     "word": "배경",
     "phonetic": "baegyeong",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "背景",
     "synonyms": [],
     "level": "4",
@@ -7405,6 +7518,7 @@
     ]
   },
   "배려": {
+    "id": 1014,
     "word": "배려",
     "phonetic": "baeryeo",
     "pos": "명사",
@@ -7471,9 +7585,10 @@
     ]
   },
   "벌어지다": {
+    "id": 1015,
     "word": "벌어지다",
     "phonetic": "beoreojida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "打开，展开，发生，张开",
     "synonyms": [
       "트이다",
@@ -7538,9 +7653,10 @@
     ]
   },
   "벌이다": {
+    "id": 1016,
     "word": "벌이다",
     "phonetic": "beol-ida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "进行，开展，从事",
     "synonyms": [
       "지니다",
@@ -7605,6 +7721,7 @@
     ]
   },
   "법원": {
+    "id": 1017,
     "word": "법원",
     "phonetic": "beopwon",
     "pos": "명사",
@@ -7669,6 +7786,7 @@
     ]
   },
   "보도": {
+    "id": 1018,
     "word": "보도",
     "phonetic": "bodo",
     "pos": "동사",
@@ -7735,6 +7853,7 @@
     ]
   },
   "보존": {
+    "id": 1019,
     "word": "보존",
     "phonetic": "bojon",
     "pos": "명사",
@@ -7799,9 +7918,10 @@
     ]
   },
   "부문": {
+    "id": 1020,
     "word": "부문",
     "phonetic": "bumun",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "领域，部门，部分",
     "synonyms": [],
     "level": "4",
@@ -7863,6 +7983,7 @@
     ]
   },
   "부상": {
+    "id": 1021,
     "word": "부상",
     "phonetic": "busang",
     "pos": "명사",
@@ -7929,6 +8050,7 @@
     ]
   },
   "부서": {
+    "id": 1022,
     "word": "부서",
     "phonetic": "buseo",
     "pos": "명사",
@@ -7995,6 +8117,7 @@
     ]
   },
   "부작용": {
+    "id": 1023,
     "word": "부작용",
     "phonetic": "bujakyong",
     "pos": "명사",
@@ -8059,9 +8182,10 @@
     ]
   },
   "부정": {
+    "id": 1024,
     "word": "부정",
     "phonetic": "bujeong",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "不正；舞弊；欺诈",
     "synonyms": [
       "위법"
@@ -8125,6 +8249,7 @@
     ]
   },
   "분석": {
+    "id": 1025,
     "word": "분석",
     "phonetic": "bunseok",
     "pos": "명사",
@@ -8191,9 +8316,10 @@
     ]
   },
   "분야": {
+    "id": 1026,
     "word": "분야",
     "phonetic": "bunyа",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "领域，范畴",
     "synonyms": [
       "영역",
@@ -8258,6 +8384,7 @@
     ]
   },
   "불가피하다": {
+    "id": 1027,
     "word": "불가피하다",
     "phonetic": "bulgapihada",
     "pos": "형용사",
@@ -8322,6 +8449,7 @@
     ]
   },
   "불교": {
+    "id": 1028,
     "word": "불교",
     "phonetic": "bulgyo",
     "pos": "명사",
@@ -8386,9 +8514,10 @@
     ]
   },
   "불구하다": {
+    "id": 1029,
     "word": "불구하다",
     "phonetic": "bulgu-hada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "尽管; 不顾; 相反",
     "synonyms": [],
     "level": "4",
@@ -8450,9 +8579,10 @@
     ]
   },
   "불리다": {
+    "id": 1030,
     "word": "불리다",
     "phonetic": "bullida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "浸泡；被称为；处于不利地位",
     "synonyms": [],
     "level": "4",
@@ -8514,6 +8644,7 @@
     ]
   },
   "불법": {
+    "id": 1031,
     "word": "불법",
     "phonetic": "buleop",
     "pos": "명사",
@@ -8578,6 +8709,7 @@
     ]
   },
   "불평등": {
+    "id": 1032,
     "word": "불평등",
     "phonetic": "bulpyeongdeung",
     "pos": "명사",
@@ -8642,9 +8774,10 @@
     ]
   },
   "비로소": {
+    "id": 1033,
     "word": "비로소",
     "phonetic": "biroso",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "才、终于、这才",
     "synonyms": [
       "마침내",
@@ -8709,9 +8842,10 @@
     ]
   },
   "비롯하다": {
+    "id": 1034,
     "word": "비롯하다",
     "phonetic": "birotheada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "起源于；始于；从...开始",
     "synonyms": [
       "들어서다",
@@ -8776,6 +8910,7 @@
     ]
   },
   "비만": {
+    "id": 1035,
     "word": "비만",
     "phonetic": "biman",
     "pos": "명사",
@@ -8840,6 +8975,7 @@
     ]
   },
   "비유": {
+    "id": 1036,
     "word": "비유",
     "phonetic": "biyu",
     "pos": "명사",
@@ -8907,6 +9043,7 @@
     ]
   },
   "비판": {
+    "id": 1037,
     "word": "비판",
     "phonetic": "bipan",
     "pos": "명사",
@@ -8971,9 +9108,10 @@
     ]
   },
   "사례": {
+    "id": 1038,
     "word": "사례",
     "phonetic": "sarye",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "案例",
     "synonyms": [],
     "level": "4",
@@ -9035,6 +9173,7 @@
     ]
   },
   "사정": {
+    "id": 1039,
     "word": "사정",
     "phonetic": "sajeong",
     "pos": "명사",
@@ -9102,9 +9241,10 @@
     ]
   },
   "살리다": {
+    "id": 1040,
     "word": "살리다",
     "phonetic": "salilda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "拯救，救活，保护",
     "synonyms": [],
     "level": "4",
@@ -9166,9 +9306,10 @@
     ]
   },
   "살아가다": {
+    "id": 1041,
     "word": "살아가다",
     "phonetic": "saraga-da",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "生活，谋生，维持生计",
     "synonyms": [
       "더불다",
@@ -9233,9 +9374,10 @@
     ]
   },
   "삼다": {
+    "id": 1042,
     "word": "삼다",
     "phonetic": "samda",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "把...作为，视为，以...为",
     "synonyms": [
       "여기다",
@@ -9300,9 +9442,10 @@
     ]
   },
   "상대": {
+    "id": 1043,
     "word": "상대",
     "phonetic": "sang-dae",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "对方，对手，伙伴",
     "synonyms": [
       "인물",
@@ -9367,6 +9510,7 @@
     ]
   },
   "상사": {
+    "id": 1044,
     "word": "상사",
     "phonetic": "sangsa",
     "pos": "명사",
@@ -9431,6 +9575,7 @@
     ]
   },
   "상징": {
+    "id": 1045,
     "word": "상징",
     "phonetic": "sangjing",
     "pos": "명사",
@@ -9495,6 +9640,7 @@
     ]
   },
   "새끼": {
+    "id": 1046,
     "word": "새끼",
     "phonetic": "saekki",
     "pos": "명사",
@@ -9561,9 +9707,10 @@
     ]
   },
   "생명": {
+    "id": 1047,
     "word": "생명",
     "phonetic": "saengmyeong",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "生命",
     "synonyms": [],
     "level": "4",
@@ -9625,6 +9772,7 @@
     ]
   },
   "생산": {
+    "id": 1048,
     "word": "생산",
     "phonetic": "saengsan",
     "pos": "명사",
@@ -9692,6 +9840,7 @@
     ]
   },
   "선거": {
+    "id": 1049,
     "word": "선거",
     "phonetic": "seongeo",
     "pos": "명사",
@@ -9758,6 +9907,7 @@
     ]
   },
   "설득": {
+    "id": 1050,
     "word": "설득",
     "phonetic": "seoldeuk",
     "pos": "명사",
@@ -9822,6 +9972,7 @@
     ]
   },
   "성과": {
+    "id": 1051,
     "word": "성과",
     "phonetic": "seonggwa",
     "pos": "명사",
@@ -9888,6 +10039,7 @@
     ]
   },
   "성장": {
+    "id": 1052,
     "word": "성장",
     "phonetic": "seongjang",
     "pos": "명사",
@@ -9955,6 +10107,7 @@
     ]
   },
   "성질": {
+    "id": 1053,
     "word": "성질",
     "phonetic": "seongjil",
     "pos": "명사",
@@ -10019,6 +10172,7 @@
     ]
   },
   "세금": {
+    "id": 1054,
     "word": "세금",
     "phonetic": "segeum",
     "pos": "명사",
@@ -10083,6 +10237,7 @@
     ]
   },
   "세대": {
+    "id": 1055,
     "word": "세대",
     "phonetic": "sedae",
     "pos": "명사",
@@ -10149,9 +10304,10 @@
     ]
   },
   "소녀": {
+    "id": 1056,
     "word": "소녀",
     "phonetic": "sonyeo",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "女孩；少女",
     "synonyms": [
       "젊은이",
@@ -10216,6 +10372,7 @@
     ]
   },
   "소년": {
+    "id": 1057,
     "word": "소년",
     "phonetic": "sonyeon",
     "pos": "명사",
@@ -10282,6 +10439,7 @@
     ]
   },
   "소득": {
+    "id": 1058,
     "word": "소득",
     "phonetic": "sodeuk",
     "pos": "명사",
@@ -10348,6 +10506,7 @@
     ]
   },
   "소비": {
+    "id": 1059,
     "word": "소비",
     "phonetic": "sobi",
     "pos": "명사",
@@ -10414,6 +10573,7 @@
     ]
   },
   "소비자": {
+    "id": 1060,
     "word": "소비자",
     "phonetic": "sobi-ja",
     "pos": "명사",
@@ -10478,6 +10638,7 @@
     ]
   },
   "소수": {
+    "id": 1061,
     "word": "소수",
     "phonetic": "sosu",
     "pos": "명사",
@@ -10542,6 +10703,7 @@
     ]
   },
   "소유": {
+    "id": 1062,
     "word": "소유",
     "phonetic": "soyu",
     "pos": "명사",
@@ -10606,9 +10768,10 @@
     ]
   },
   "소재": {
+    "id": 1063,
     "word": "소재",
     "phonetic": "sojae",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "材料，题材，主题",
     "synonyms": [
       "주제",
@@ -10673,9 +10836,10 @@
     ]
   },
   "속하다": {
+    "id": 1064,
     "word": "속하다",
     "phonetic": "sokada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "属于；隶属于；被归类为",
     "synonyms": [
       "당하다",
@@ -10740,6 +10904,7 @@
     ]
   },
   "솔직하다": {
+    "id": 1065,
     "word": "솔직하다",
     "phonetic": "soljikhada",
     "pos": "형용사",
@@ -10804,9 +10969,10 @@
     ]
   },
   "수많다": {
+    "id": 1066,
     "word": "수많다",
     "phonetic": "sumanhdah",
-    "pos": "adjective",
+    "pos": "형용사",
     "meaning": "众多的，许多的",
     "synonyms": [],
     "level": "4",
@@ -10868,6 +11034,7 @@
     ]
   },
   "수사": {
+    "id": 1067,
     "word": "수사",
     "phonetic": "susa",
     "pos": "명사",
@@ -10932,6 +11099,7 @@
     ]
   },
   "수요": {
+    "id": 1068,
     "word": "수요",
     "phonetic": "suyo",
     "pos": "명사",
@@ -10996,6 +11164,7 @@
     ]
   },
   "수준": {
+    "id": 1069,
     "word": "수준",
     "phonetic": "sujun",
     "pos": "명사",
@@ -11063,6 +11232,7 @@
     ]
   },
   "시리즈": {
+    "id": 1070,
     "word": "시리즈",
     "phonetic": "sirijesu",
     "pos": "명사",
@@ -11127,9 +11297,10 @@
     ]
   },
   "시선": {
+    "id": 1071,
     "word": "시선",
     "phonetic": "siseon",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "视线、目光、观点",
     "synonyms": [
       "각도",
@@ -11194,9 +11365,10 @@
     ]
   },
   "시인": {
+    "id": 1072,
     "word": "시인",
     "phonetic": "sigin",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "诗人",
     "synonyms": [],
     "level": "4",
@@ -11258,9 +11430,10 @@
     ]
   },
   "시절": {
+    "id": 1073,
     "word": "시절",
     "phonetic": "sijeol",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "时期，时代，季节",
     "synonyms": [],
     "level": "4",
@@ -11322,6 +11495,7 @@
     ]
   },
   "시행": {
+    "id": 1074,
     "word": "시행",
     "phonetic": "sihaeng",
     "pos": "명사",
@@ -11388,6 +11562,7 @@
     ]
   },
   "식물": {
+    "id": 1075,
     "word": "식물",
     "phonetic": "singmul",
     "pos": "명사",
@@ -11452,6 +11627,7 @@
     ]
   },
   "식욕": {
+    "id": 1076,
     "word": "식욕",
     "phonetic": "sikyok",
     "pos": "명사",
@@ -11516,6 +11692,7 @@
     ]
   },
   "실천": {
+    "id": 1077,
     "word": "실천",
     "phonetic": "silcheon",
     "pos": "명사",
@@ -11583,6 +11760,7 @@
     ]
   },
   "실험": {
+    "id": 1078,
     "word": "실험",
     "phonetic": "silheom",
     "pos": "명사",
@@ -11647,6 +11825,7 @@
     ]
   },
   "싸움": {
+    "id": 1079,
     "word": "싸움",
     "phonetic": "ssaum",
     "pos": "명사",
@@ -11713,6 +11892,7 @@
     ]
   },
   "암기": {
+    "id": 1080,
     "word": "암기",
     "phonetic": "amgi",
     "pos": "명사",
@@ -11777,9 +11957,10 @@
     ]
   },
   "앞서": {
+    "id": 1081,
     "word": "앞서",
     "phonetic": "apseó",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "提前，在前面，先前",
     "synonyms": [],
     "level": "4",
@@ -11841,9 +12022,10 @@
     ]
   },
   "어둠": {
+    "id": 1082,
     "word": "어둠",
     "phonetic": "eodum",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "黑暗，昏暗",
     "synonyms": [],
     "level": "4",
@@ -11905,6 +12087,7 @@
     ]
   },
   "어색하다": {
+    "id": 1083,
     "word": "어색하다",
     "phonetic": "eosaekhada",
     "pos": "형용사",
@@ -11969,9 +12152,10 @@
     ]
   },
   "어쨌든": {
+    "id": 1084,
     "word": "어쨌든",
     "phonetic": "eojjaetgeun",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "无论如何，反正，总之",
     "synonyms": [
       "도대체"
@@ -12035,9 +12219,10 @@
     ]
   },
   "어쩌다": {
+    "id": 1085,
     "word": "어쩌다",
     "phonetic": "eojjeotda",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "偶然地、碰巧、不知所措",
     "synonyms": [
       "어찌",
@@ -12102,9 +12287,10 @@
     ]
   },
   "어쩌면": {
+    "id": 1086,
     "word": "어쩌면",
     "phonetic": "eojjimyeon",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "也许；或许；可能",
     "synonyms": [
       "어쩌다"
@@ -12168,6 +12354,7 @@
     ]
   },
   "언론": {
+    "id": 1087,
     "word": "언론",
     "phonetic": "eonron",
     "pos": "명사",
@@ -12235,9 +12422,10 @@
     ]
   },
   "엄청나다": {
+    "id": 1088,
     "word": "엄청나다",
     "phonetic": "eomcheongna-da",
-    "pos": "adjective",
+    "pos": "형용사",
     "meaning": "巨大的，惊人的，严重的",
     "synonyms": [
       "각박하다",
@@ -12302,9 +12490,10 @@
     ]
   },
   "업체": {
+    "id": 1089,
     "word": "업체",
     "phonetic": "eomche",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "企业；公司；承包商",
     "synonyms": [
       "동행",
@@ -12369,6 +12558,7 @@
     ]
   },
   "에너지": {
+    "id": 1090,
     "word": "에너지",
     "phonetic": "eneoji",
     "pos": "명사",
@@ -12433,9 +12623,10 @@
     ]
   },
   "여전히": {
+    "id": 1091,
     "word": "여전히",
     "phonetic": "yeojeonhi",
-    "pos": "adverb",
+    "pos": "부사",
     "meaning": "仍然，依然，还是",
     "synonyms": [
       "아직",
@@ -12500,6 +12691,7 @@
     ]
   },
   "연봉": {
+    "id": 1092,
     "word": "연봉",
     "phonetic": "yeonbong",
     "pos": "명사",
@@ -12564,6 +12756,7 @@
     ]
   },
   "연설": {
+    "id": 1093,
     "word": "연설",
     "phonetic": "yeonseol",
     "pos": "명사",
@@ -12630,6 +12823,7 @@
     ]
   },
   "영업": {
+    "id": 1094,
     "word": "영업",
     "phonetic": "yeongeop",
     "pos": "명사",
@@ -12696,9 +12890,10 @@
     ]
   },
   "영역": {
+    "id": 1095,
     "word": "영역",
     "phonetic": "yeong-yeok",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "领域, 范围, 领土",
     "synonyms": [
       "분야",
@@ -12763,6 +12958,7 @@
     ]
   },
   "예산": {
+    "id": 1096,
     "word": "예산",
     "phonetic": "yesan",
     "pos": "명사",
@@ -12827,9 +13023,10 @@
     ]
   },
   "오늘날": {
+    "id": 1097,
     "word": "오늘날",
     "phonetic": "oneulnal",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "当今, 现在, 当代",
     "synonyms": [],
     "level": "4",
@@ -12891,9 +13088,10 @@
     ]
   },
   "오염": {
+    "id": 1098,
     "word": "오염",
     "phonetic": "oyeom",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "污染",
     "synonyms": [],
     "level": "4",
@@ -12955,9 +13153,10 @@
     ]
   },
   "오히려": {
+    "id": 1099,
     "word": "오히려",
     "phonetic": "ohiryeo",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "反而，倒是，相反地",
     "synonyms": [
       "의외로"
@@ -13021,9 +13220,10 @@
     ]
   },
   "외치다": {
+    "id": 1100,
     "word": "외치다",
     "phonetic": "oechida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "大声喊叫，呼喊",
     "synonyms": [],
     "level": "4",
@@ -13085,9 +13285,10 @@
     ]
   },
   "요구": {
+    "id": 1101,
     "word": "요구",
     "phonetic": "yogu",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "要求",
     "synonyms": [],
     "level": "4",
@@ -13149,6 +13350,7 @@
     ]
   },
   "움직임": {
+    "id": 1102,
     "word": "움직임",
     "phonetic": "umjigim",
     "pos": "명사",
@@ -13216,6 +13418,7 @@
     ]
   },
   "원리": {
+    "id": 1103,
     "word": "원리",
     "phonetic": "wonri",
     "pos": "명사",
@@ -13282,6 +13485,7 @@
     ]
   },
   "위기": {
+    "id": 1104,
     "word": "위기",
     "phonetic": "wigi",
     "pos": "명사",
@@ -13346,6 +13550,7 @@
     ]
   },
   "유산": {
+    "id": 1105,
     "word": "유산",
     "phonetic": "yusan",
     "pos": "명사",
@@ -13410,6 +13615,7 @@
     ]
   },
   "유통": {
+    "id": 1106,
     "word": "유통",
     "phonetic": "yutong",
     "pos": "명사",
@@ -13476,6 +13682,7 @@
     ]
   },
   "의무": {
+    "id": 1107,
     "word": "의무",
     "phonetic": "uimu",
     "pos": "명사",
@@ -13542,6 +13749,7 @@
     ]
   },
   "의식": {
+    "id": 1108,
     "word": "의식",
     "phonetic": "uisik",
     "pos": "명사",
@@ -13606,6 +13814,7 @@
     ]
   },
   "의지": {
+    "id": 1109,
     "word": "의지",
     "phonetic": "uiji",
     "pos": "명사",
@@ -13673,6 +13882,7 @@
     ]
   },
   "이념": {
+    "id": 1110,
     "word": "이념",
     "phonetic": "inyeom",
     "pos": "명사",
@@ -13739,6 +13949,7 @@
     ]
   },
   "이론": {
+    "id": 1111,
     "word": "이론",
     "phonetic": "iron",
     "pos": "명사",
@@ -13806,9 +14017,10 @@
     ]
   },
   "이어지다": {
+    "id": 1112,
     "word": "이어지다",
     "phonetic": "ieo-eojida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "继续、连接、依次进行",
     "synonyms": [
       "내밀다",
@@ -13873,6 +14085,7 @@
     ]
   },
   "이외": {
+    "id": 1113,
     "word": "이외",
     "phonetic": "iyoe",
     "pos": "명사",
@@ -13940,6 +14153,7 @@
     ]
   },
   "이익": {
+    "id": 1114,
     "word": "이익",
     "phonetic": "iik",
     "pos": "명사",
@@ -14007,6 +14221,7 @@
     ]
   },
   "인간": {
+    "id": 1115,
     "word": "인간",
     "phonetic": "ingan",
     "pos": "명사",
@@ -14074,9 +14289,10 @@
     ]
   },
   "인류": {
+    "id": 1116,
     "word": "인류",
     "phonetic": "inryu",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "人类",
     "synonyms": [],
     "level": "4",
@@ -14138,9 +14354,10 @@
     ]
   },
   "인물": {
+    "id": 1117,
     "word": "인물",
     "phonetic": "inmul",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "人物",
     "synonyms": [
       "상대",
@@ -14205,6 +14422,7 @@
     ]
   },
   "인식": {
+    "id": 1118,
     "word": "인식",
     "phonetic": "insik",
     "pos": "명사",
@@ -14272,6 +14490,7 @@
     ]
   },
   "인용": {
+    "id": 1119,
     "word": "인용",
     "phonetic": "inyong",
     "pos": "명사",
@@ -14336,9 +14555,10 @@
     ]
   },
   "인하다": {
+    "id": 1120,
     "word": "인하다",
     "phonetic": "inhada",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "由...引起；因...而产生",
     "synonyms": [],
     "level": "4",
@@ -14400,9 +14620,10 @@
     ]
   },
   "일단": {
+    "id": 1121,
     "word": "일단",
     "phonetic": "ildan",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "首先，暂时，先",
     "synonyms": [
       "간간이",
@@ -14467,9 +14688,10 @@
     ]
   },
   "일으키다": {
+    "id": 1122,
     "word": "일으키다",
     "phonetic": "il-eul-ki-da",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "抬起，举起，引起，造成",
     "synonyms": [
       "높이다",
@@ -14534,6 +14756,7 @@
     ]
   },
   "임금": {
+    "id": 1123,
     "word": "임금",
     "phonetic": "imgeum",
     "pos": "명사",
@@ -14600,6 +14823,7 @@
     ]
   },
   "입시": {
+    "id": 1124,
     "word": "입시",
     "phonetic": "ipsi",
     "pos": "명사",
@@ -14667,6 +14891,7 @@
     ]
   },
   "입장": {
+    "id": 1125,
     "word": "입장",
     "phonetic": "ipjang",
     "pos": "명사",
@@ -14734,6 +14959,7 @@
     ]
   },
   "자본": {
+    "id": 1126,
     "word": "자본",
     "phonetic": "jabon",
     "pos": "명사",
@@ -14798,6 +15024,7 @@
     ]
   },
   "자세": {
+    "id": 1127,
     "word": "자세",
     "phonetic": "jasae",
     "pos": "명사",
@@ -14865,6 +15092,7 @@
     ]
   },
   "자연스럽다": {
+    "id": 1128,
     "word": "자연스럽다",
     "phonetic": "jayeonseureopda",
     "pos": "형용사",
@@ -14929,6 +15157,7 @@
     ]
   },
   "자원": {
+    "id": 1129,
     "word": "자원",
     "phonetic": "jayuon",
     "pos": "명사",
@@ -14993,6 +15222,7 @@
     ]
   },
   "작가": {
+    "id": 1130,
     "word": "작가",
     "phonetic": "jakga",
     "pos": "명사",
@@ -15057,6 +15287,7 @@
     ]
   },
   "작업": {
+    "id": 1131,
     "word": "작업",
     "phonetic": "jageop",
     "pos": "명사",
@@ -15124,9 +15355,10 @@
     ]
   },
   "작용": {
+    "id": 1132,
     "word": "작용",
     "phonetic": "jagyong",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "作用",
     "synonyms": [
       "행위",
@@ -15191,9 +15423,10 @@
     ]
   },
   "작품": {
+    "id": 1133,
     "word": "작품",
     "phonetic": "jakpum",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "作品",
     "synonyms": [
       "걸작",
@@ -15258,6 +15491,7 @@
     ]
   },
   "장관": {
+    "id": 1134,
     "word": "장관",
     "phonetic": "jangkwan",
     "pos": "명사",
@@ -15324,9 +15558,10 @@
     ]
   },
   "재산": {
+    "id": 1135,
     "word": "재산",
     "phonetic": "jaessan",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "财产",
     "synonyms": [
       "특성"
@@ -15390,6 +15625,7 @@
     ]
   },
   "적자": {
+    "id": 1136,
     "word": "적자",
     "phonetic": "jeokja",
     "pos": "명사",
@@ -15456,6 +15692,7 @@
     ]
   },
   "적절하다": {
+    "id": 1137,
     "word": "적절하다",
     "phonetic": "jeokjeolhada",
     "pos": "형용사",
@@ -15520,6 +15757,7 @@
     ]
   },
   "전제": {
+    "id": 1138,
     "word": "전제",
     "phonetic": "jeonje",
     "pos": "명사",
@@ -15584,9 +15822,10 @@
     ]
   },
   "절차": {
+    "id": 1139,
     "word": "절차",
     "phonetic": "jeolcha",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "程序，步骤",
     "synonyms": [],
     "level": "4",
@@ -15648,9 +15887,10 @@
     ]
   },
   "정당": {
+    "id": 1140,
     "word": "정당",
     "phonetic": "jeongdang",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "政党",
     "synonyms": [
       "강대국"
@@ -15714,6 +15954,7 @@
     ]
   },
   "정부": {
+    "id": 1141,
     "word": "정부",
     "phonetic": "jeongbu",
     "pos": "명사",
@@ -15778,6 +16019,7 @@
     ]
   },
   "정책": {
+    "id": 1142,
     "word": "정책",
     "phonetic": "jeongchaek",
     "pos": "명사",
@@ -15842,6 +16084,7 @@
     ]
   },
   "제도": {
+    "id": 1143,
     "word": "제도",
     "phonetic": "jedo",
     "pos": "명사",
@@ -15909,6 +16152,7 @@
     ]
   },
   "제사": {
+    "id": 1144,
     "word": "제사",
     "phonetic": "jesa",
     "pos": "명사",
@@ -15973,6 +16217,7 @@
     ]
   },
   "존재": {
+    "id": 1145,
     "word": "존재",
     "phonetic": "jonzae",
     "pos": "명사",
@@ -16040,9 +16285,10 @@
     ]
   },
   "주어지다": {
+    "id": 1146,
     "word": "주어지다",
     "phonetic": "jueojida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "被给予，被提供",
     "synonyms": [],
     "level": "4",
@@ -16104,6 +16350,7 @@
     ]
   },
   "주장": {
+    "id": 1147,
     "word": "주장",
     "phonetic": "juJang",
     "pos": "명사",
@@ -16171,6 +16418,7 @@
     ]
   },
   "주택": {
+    "id": 1148,
     "word": "주택",
     "phonetic": "jutaek",
     "pos": "명사",
@@ -16237,9 +16485,10 @@
     ]
   },
   "쥐다": {
+    "id": 1149,
     "word": "쥐다",
     "phonetic": "jwida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "紧握，握紧",
     "synonyms": [
       "지니다",
@@ -16304,6 +16553,7 @@
     ]
   },
   "증거": {
+    "id": 1150,
     "word": "증거",
     "phonetic": "jeunggeo",
     "pos": "명사",
@@ -16368,9 +16618,10 @@
     ]
   },
   "지구": {
+    "id": 1151,
     "word": "지구",
     "phonetic": "jigu",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "地球",
     "synonyms": [],
     "level": "4",
@@ -16432,9 +16683,10 @@
     ]
   },
   "지니다": {
+    "id": 1152,
     "word": "지니다",
     "phonetic": "jinida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "携带，拥有，承担",
     "synonyms": [
       "견디다",
@@ -16499,6 +16751,7 @@
     ]
   },
   "지식": {
+    "id": 1153,
     "word": "지식",
     "phonetic": "jisik",
     "pos": "명사",
@@ -16563,6 +16816,7 @@
     ]
   },
   "지진": {
+    "id": 1154,
     "word": "지진",
     "phonetic": "jijin",
     "pos": "명사",
@@ -16627,6 +16881,7 @@
     ]
   },
   "지출": {
+    "id": 1155,
     "word": "지출",
     "phonetic": "jichul",
     "pos": "명사",
@@ -16693,6 +16948,7 @@
     ]
   },
   "진단": {
+    "id": 1156,
     "word": "진단",
     "phonetic": "jindan",
     "pos": "명사",
@@ -16757,6 +17013,7 @@
     ]
   },
   "질서": {
+    "id": 1157,
     "word": "질서",
     "phonetic": "jilseo",
     "pos": "명사",
@@ -16824,6 +17081,7 @@
     ]
   },
   "질투": {
+    "id": 1158,
     "word": "질투",
     "phonetic": "jiltu",
     "pos": "명사",
@@ -16888,6 +17146,7 @@
     ]
   },
   "집단": {
+    "id": 1159,
     "word": "집단",
     "phonetic": "jipdan",
     "pos": "명사",
@@ -16955,6 +17214,7 @@
     ]
   },
   "참여": {
+    "id": 1160,
     "word": "참여",
     "phonetic": "chamyeo",
     "pos": "명사",
@@ -17021,6 +17281,7 @@
     ]
   },
   "책임": {
+    "id": 1161,
     "word": "책임",
     "phonetic": "chaegim",
     "pos": "명사",
@@ -17088,9 +17349,10 @@
     ]
   },
   "처리": {
+    "id": 1162,
     "word": "처리",
     "phonetic": "cheori",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "处理 (chǔlǐ)",
     "synonyms": [
       "가공"
@@ -17154,9 +17416,10 @@
     ]
   },
   "초기": {
+    "id": 1163,
     "word": "초기",
     "phonetic": "chogi",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "初期阶段，早期",
     "synonyms": [
       "초순"
@@ -17220,9 +17483,10 @@
     ]
   },
   "최대": {
+    "id": 1164,
     "word": "최대",
     "phonetic": "choe-dae",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "最大，最多",
     "synonyms": [],
     "level": "4",
@@ -17284,9 +17548,10 @@
     ]
   },
   "최초": {
+    "id": 1165,
     "word": "최초",
     "phonetic": "choecho",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "最初；最早；最初的",
     "synonyms": [
       "처음"
@@ -17350,9 +17615,10 @@
     ]
   },
   "출신": {
+    "id": 1166,
     "word": "출신",
     "phonetic": "chulsin",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "出身 (出身地、来源)",
     "synonyms": [
       "바탕",
@@ -17417,6 +17683,7 @@
     ]
   },
   "출판": {
+    "id": 1167,
     "word": "출판",
     "phonetic": "chulpan",
     "pos": "동사",
@@ -17481,6 +17748,7 @@
     ]
   },
   "취재": {
+    "id": 1168,
     "word": "취재",
     "phonetic": "chwijae",
     "pos": "동사",
@@ -17547,9 +17815,10 @@
     ]
   },
   "커다랗다": {
+    "id": 1169,
     "word": "커다랗다",
     "phonetic": "keodalaata",
-    "pos": "adjective",
+    "pos": "형용사",
     "meaning": "巨大的，很大的",
     "synonyms": [],
     "level": "4",
@@ -17611,9 +17880,10 @@
     ]
   },
   "터지다": {
+    "id": 1170,
     "word": "터지다",
     "phonetic": "teojida",
-    "pos": "동사 (verb)",
+    "pos": "동사",
     "meaning": "破裂，爆炸，突发",
     "synonyms": [
       "튀어나오다",
@@ -17678,6 +17948,7 @@
     ]
   },
   "통증": {
+    "id": 1171,
     "word": "통증",
     "phonetic": "tongjeung",
     "pos": "명사",
@@ -17744,6 +18015,7 @@
     ]
   },
   "투자": {
+    "id": 1172,
     "word": "투자",
     "phonetic": "tuja",
     "pos": "명사",
@@ -17808,6 +18080,7 @@
     ]
   },
   "투표": {
+    "id": 1173,
     "word": "투표",
     "phonetic": "tupyo",
     "pos": "명사",
@@ -17872,6 +18145,7 @@
     ]
   },
   "판단": {
+    "id": 1174,
     "word": "판단",
     "phonetic": "pandан",
     "pos": "명사",
@@ -17939,6 +18213,7 @@
     ]
   },
   "판사": {
+    "id": 1175,
     "word": "판사",
     "phonetic": "pansa",
     "pos": "명사",
@@ -18003,6 +18278,7 @@
     ]
   },
   "평균": {
+    "id": 1176,
     "word": "평균",
     "phonetic": "pyeong-gyun",
     "pos": "명사",
@@ -18067,6 +18343,7 @@
     ]
   },
   "평화": {
+    "id": 1177,
     "word": "평화",
     "phonetic": "pyeonghwa",
     "pos": "명사",
@@ -18131,9 +18408,10 @@
     ]
   },
   "폭력": {
+    "id": 1178,
     "word": "폭력",
     "phonetic": "pokryeok",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "暴力",
     "synonyms": [
       "신체",
@@ -18198,6 +18476,7 @@
     ]
   },
   "풍부하다": {
+    "id": 1179,
     "word": "풍부하다",
     "phonetic": "pungbuhada",
     "pos": "형용사",
@@ -18262,9 +18541,10 @@
     ]
   },
   "한계": {
+    "id": 1180,
     "word": "한계",
     "phonetic": "hanggye",
-    "pos": "noun",
+    "pos": "명사",
     "meaning": "极限，局限",
     "synonyms": [],
     "level": "4",
@@ -18326,9 +18606,10 @@
     ]
   },
   "한마디": {
+    "id": 1181,
     "word": "한마디",
     "phonetic": "hanmadi",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "一句话；一言；评论",
     "synonyms": [
       "낱말",
@@ -18393,9 +18674,10 @@
     ]
   },
   "한편": {
+    "id": 1182,
     "word": "한편",
     "phonetic": "hanpyeon",
-    "pos": "noun; adverb",
+    "pos": "명사",
     "meaning": "一方面；另一方面；同时",
     "synonyms": [],
     "level": "4",
@@ -18457,6 +18739,7 @@
     ]
   },
   "할부": {
+    "id": 1183,
     "word": "할부",
     "phonetic": "halbu",
     "pos": "명사",
@@ -18521,9 +18804,10 @@
     ]
   },
   "행위": {
+    "id": 1184,
     "word": "행위",
     "phonetic": "haengwi",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "行为",
     "synonyms": [
       "거동",
@@ -18588,6 +18872,7 @@
     ]
   },
   "행정": {
+    "id": 1185,
     "word": "행정",
     "phonetic": "haengjeong",
     "pos": "명사",
@@ -18652,6 +18937,7 @@
     ]
   },
   "허가": {
+    "id": 1186,
     "word": "허가",
     "phonetic": "heoga",
     "pos": "명사",
@@ -18716,6 +19002,7 @@
     ]
   },
   "현상": {
+    "id": 1187,
     "word": "현상",
     "phonetic": "hyeonsang",
     "pos": "명사",
@@ -18780,9 +19067,10 @@
     ]
   },
   "현실": {
+    "id": 1188,
     "word": "현실",
     "phonetic": "hyeon-sil",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "现实；现状；事实",
     "synonyms": [
       "실태"
@@ -18846,9 +19134,10 @@
     ]
   },
   "현장": {
+    "id": 1189,
     "word": "현장",
     "phonetic": "hyeonjang",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "现场；现地；工地",
     "synonyms": [
       "분야",
@@ -18913,6 +19202,7 @@
     ]
   },
   "협력": {
+    "id": 1190,
     "word": "협력",
     "phonetic": "hyeopryeok",
     "pos": "명사",
@@ -18977,6 +19267,7 @@
     ]
   },
   "형님": {
+    "id": 1191,
     "word": "형님",
     "phonetic": "hyungnim",
     "pos": "명사",
@@ -19043,6 +19334,7 @@
     ]
   },
   "형성": {
+    "id": 1192,
     "word": "형성",
     "phonetic": "hyeongseong",
     "pos": "명사",
@@ -19110,6 +19402,7 @@
     ]
   },
   "형식": {
+    "id": 1193,
     "word": "형식",
     "phonetic": "hyungshik",
     "pos": "명사",
@@ -19177,6 +19470,7 @@
     ]
   },
   "홍보": {
+    "id": 1194,
     "word": "홍보",
     "phonetic": "hongbo",
     "pos": "명사",
@@ -19244,9 +19538,10 @@
     ]
   },
   "환경": {
+    "id": 1195,
     "word": "환경",
     "phonetic": "hwangyeong",
-    "pos": "명사 (noun)",
+    "pos": "명사",
     "meaning": "环境",
     "synonyms": [],
     "level": "4",
@@ -19308,6 +19603,7 @@
     ]
   },
   "회복": {
+    "id": 1196,
     "word": "회복",
     "phonetic": "hoebok",
     "pos": "명사",
@@ -19372,6 +19668,7 @@
     ]
   },
   "후보": {
+    "id": 1197,
     "word": "후보",
     "phonetic": "hubo",
     "pos": "명사",
@@ -19436,6 +19733,7 @@
     ]
   },
   "훈련": {
+    "id": 1198,
     "word": "훈련",
     "phonetic": "hunryeon",
     "pos": "명사",
@@ -19502,6 +19800,7 @@
     ]
   },
   "흐름": {
+    "id": 1199,
     "word": "흐름",
     "phonetic": "heureeum",
     "pos": "명사",
@@ -19568,9 +19867,10 @@
     ]
   },
   "흔히": {
+    "id": 1200,
     "word": "흔히",
     "phonetic": "heunhi",
-    "pos": "부사 (adverb)",
+    "pos": "부사",
     "meaning": "通常，常见地",
     "synonyms": [],
     "level": "4",

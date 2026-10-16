@@ -121,9 +121,10 @@ section{scroll-margin-top:80px}
 .svc ul{margin-top:20px;list-style:none;display:flex;flex-wrap:wrap;gap:8px}
 .svc li{font-size:14px;color:var(--ink-2);padding:5px 12px;border:1px solid var(--rule);border-radius:999px;background:var(--paper)}
 .svc > div:first-child{position:sticky;top:96px;align-self:start}
-.svc-art{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px 8px;width:100%;max-width:620px;justify-self:end;align-self:start}
+.svc-art{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px 8px;width:100%;max-width:620px;justify-self:end;align-self:start}
 .svc-art .frame:first-child{grid-column:1/-1}
-.svc-art .frame:not(:first-child) figcaption .tc{display:none}
+.svc-art figcaption{font-size:11.5px;color:var(--ink-2)}
+.svc-art .frame:not(:first-child) figcaption{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block}
 
 /* process */
 .steps{list-style:none;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--rule-strong);counter-reset:s}
@@ -280,8 +281,8 @@ footer{padding:0 0 48px}
   <section class="sec" id="services" aria-labelledby="services-title">
     <div class="wrap">
       <div class="sec-head">
-        <h2 id="services-title">세 가지 방식으로 움직입니다<span class="en" lang="en">Three ways we make things move</span></h2>
-        <p>목적과 예산, 일정에 맞춰 2D·3D·모션그래픽 가운데 가장 잘 맞는 방식을 함께 고르고, 필요하면 섞어서 만듭니다.</p>
+        <h2 id="services-title">네 가지 방식으로 움직입니다<span class="en" lang="en">Four ways we make things move</span></h2>
+        <p>목적과 예산, 일정에 맞춰 2D·3D·모션그래픽·브랜드 디자인 가운데 가장 잘 맞는 방식을 함께 고르고, 필요하면 섞어서 만듭니다.</p>
       </div>
       <div class="svc" data-seg="2d">
         <div>
@@ -289,7 +290,14 @@ footer{padding:0 0 48px}
           <p class="hook">선과 면으로 캐릭터와 이야기를 움직입니다.</p>
           <ul><li>캐릭터 애니메이션</li><li>설명·홍보 영상</li><li>광고 영상</li><li>콘티·애니매틱</li></ul>
         </div>
-        <div class="svc-art" data-frames="3"></div>
+        <div class="svc-art">
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/89892543/Feature-animation-promotion"><img src="/assets/studio/work/feature-promo.webp" alt="신비아파트 캐릭터들이 크리스마스 세트에 앉아 있는 장면" width="960" height="540" loading="lazy"></a>
+            <figcaption><span>Feature animation promotion</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/179418021/The-Haunted-House-JFla-Collaboration-promotion"><img src="/assets/studio/work/haunted.webp" alt="신비아파트 초록 캐릭터의 2D 장면" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>The Haunted House &amp; J.Fla Collaboration promotion</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/79411415/Emoticon-animating"><img src="/assets/studio/work/emoticon.webp" alt="하트 눈의 노란 곰 이모티콘" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>Emoticon animating</span></figcaption></figure>
+        </div>
       </div>
       <div class="svc" data-seg="3d">
         <div>
@@ -297,7 +305,16 @@ footer{padding:0 0 48px}
           <p class="hook">공간과 빛 속에서 제품과 캐릭터를 보여줍니다.</p>
           <ul><li>3D 캐릭터</li><li>제품 시각화</li><li>공간·배경 연출</li><li>3D 모션</li></ul>
         </div>
-        <div class="svc-art" data-frames="7"></div>
+        <div class="svc-art">
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/48211739/MyCoin%28Short-Animation%29"><img src="/assets/studio/work/mycoin.webp" alt="후드티를 입은 아이 캐릭터의 3D 장면" width="1600" height="900" loading="lazy"></a>
+            <figcaption><span>MyCoin (Short Animation)</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/53599841/Hello-Man%28Short-Animation%29"><img src="/assets/studio/work/helloman.webp" alt="손을 흔드는 후드티 차림 3D 캐릭터" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>Hello Man (Short Animation)</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/234248067/4D-Animation-of-Gangjin-Bay-Ecology"><img src="/assets/studio/work/gangjin.webp" alt="갈대밭 속 새 캐릭터의 3D 장면" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>4D Animation of Gangjin Bay Ecology</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/102573835/Mobile-game-character-promotions%28Ghost-war%29"><img src="/assets/studio/work/ghostwar.webp" alt="고스트워 게임 캐릭터 무리의 3D 렌더" width="960" height="540" loading="lazy"></a>
+            <figcaption><span>Mobile game character promotions (Ghost war)</span></figcaption></figure>
+        </div>
       </div>
       <div class="svc" data-seg="mg">
         <div>
@@ -305,7 +322,33 @@ footer{padding:0 0 48px}
           <p class="hook">로고와 글자, 데이터가 리듬을 갖고 움직입니다.</p>
           <ul><li>브랜드·로고 모션</li><li>타이틀·자막 그래픽</li><li>인포그래픽</li><li>UI·앱 모션</li></ul>
         </div>
-        <div class="svc-art" data-frames="10"></div>
+        <div class="svc-art">
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/234250965/CJ-ENM-Animation-Annual-License-Agreement"><img src="/assets/studio/work/cjenm-license.webp" alt="집게에 들린 초록 캐릭터와 CHARACTER 글자의 모션그래픽" width="960" height="540" loading="lazy"></a>
+            <figcaption><span>CJ ENM Animation Annual License Agreement</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/20313311/motiongraphic-reel"><img src="/assets/studio/work/mg-reel.webp" alt="평범한 5월 5일 어린이날 손글씨 모션그래픽" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>motiongraphic reel</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/97619423/%28Soul-fighters%29-mobile-game-promotion"><img src="/assets/studio/work/soulfighters.webp" alt="소울파이터즈 스마트 토이 패키지 진열 장면" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>소울파이터즈 (Soul fighters) mobile game promotion</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/133770289/K-documentary-film-promotion"><img src="/assets/studio/work/kdoc.webp" alt="금빛 줄무늬 위 K-Documentary film 타이틀" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>K-documentary film promotion</span></figcaption></figure>
+        </div>
+      </div>
+      <div class="svc" data-seg="brand">
+        <div>
+          <h3>브랜드 디자인<span class="en" lang="en">Brand Design</span></h3>
+          <p class="hook">타이틀 로고와 애니메이션 요소로 작품의 얼굴을 만듭니다.</p>
+          <ul><li>타이틀 로고</li><li>애니메이션 브랜드 요소</li><li>오프닝·엔딩 그래픽</li></ul>
+        </div>
+        <div class="svc-art">
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/257192481/Terror-Man-Animation-Elements"><img src="/assets/studio/work/terrorman.webp" alt="티빙 오리지널 테러맨 타이틀 로고" width="960" height="540" loading="lazy"></a>
+            <figcaption><span>Terror Man Animation Elements</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/133233103/Animation-Brand-design%28Battle-marbliens%29"><img src="/assets/studio/work/battle-marbliens.webp" alt="배틀 미블리언즈 타이틀 로고" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>Animation Brand design (Battle marbliens)</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/234259429/Dalja-OPED"><img src="/assets/studio/work/dalja.webp" alt="뱀파이어소녀 달자 타이틀 로고" width="960" height="540" loading="lazy"></a>
+            <figcaption><span>Dalja OP/ED</span></figcaption></figure>
+          <figure class="frame"><a class="pic" href="https://www.behance.net/gallery/257201987/After-school-treasurehunt-Animation-Elements"><img src="/assets/studio/work/treasurehunt.webp" alt="After School Treasure Hunt 타이틀 로고" width="640" height="360" loading="lazy"></a>
+            <figcaption><span>After school treasurehunt Animation Elements</span></figcaption></figure>
+        </div>
       </div>
     </div>
   </section>
@@ -438,7 +481,7 @@ footer{padding:0 0 48px}
         <p lang="en">STUDIO ROOM is an animation and motion graphics studio founded in Seoul in 2019. We design motion, and we build the software it lives in — from storyboard tools for creators to everyday apps.</p>
         <dl class="facts">
           <div><dt>설립</dt><dd>2019 · 서울</dd></div>
-          <div><dt>분야</dt><dd>2D · 3D · 모션그래픽</dd></div>
+          <div><dt>분야</dt><dd>2D · 3D · 모션그래픽 · 브랜드</dd></div>
           <div><dt>문의</dt><dd><a class="mail" href="mailto:contact@studioroomkr.com">contact@studioroomkr.com</a></dd></div>
         </dl>
       </div>
@@ -477,25 +520,10 @@ footer{padding:0 0 48px}
 
 <script>
 (() => {
-  const FPS = 24, SCENE_SEC = 2;
+  const FPS = 24;
   const tc = s => { const f = Math.round(s * FPS); const p = n => String(n).padStart(2, '0');
     return `00:${p(Math.floor(f / FPS / 60))}:${p(Math.floor(f / FPS) % 60)}:${p(f % FPS)}`; };
 
-  // Twelve color keys, dawn → noon → dusk → night. seg: 2d | 3d | mg.
-  const K = [
-    {seg:'2d',sky:'#2F2B47',gr:'#24213A',sun:'#EF8B21',sy:70,sx:118,ink:'#F7F7F4',cx:40,stars:1},
-    {seg:'2d',sky:'#5A4A6E',gr:'#3B3352',sun:'#EF8B21',sy:62,sx:112,ink:'#F7F7F4',cx:48,stars:1},
-    {seg:'2d',sky:'#C98C8A',gr:'#7E5A6B',sun:'#F6C27A',sy:52,sx:106,ink:'#2F2B47',cx:56},
-    {seg:'2d',sky:'#F2B48A',gr:'#B9806A',sun:'#FFF1DC',sy:42,sx:100,ink:'#353148',cx:64},
-    {seg:'3d',sky:'#F8D29A',gr:'#D6A86E',sun:'#FFF6E6',sy:34,sx:92,ink:'#353148',cx:70},
-    {seg:'3d',sky:'#FBE8C6',gr:'#E2C79A',sun:'#F6C343',sy:26,sx:84,ink:'#353148',cx:78},
-    {seg:'3d',sky:'#D7EAF0',gr:'#A9C9B4',sun:'#F6C343',sy:20,sx:76,ink:'#353148',cx:86},
-    {seg:'3d',sky:'#B9DCEA',gr:'#8DB79E',sun:'#F6C343',sy:24,sx:66,ink:'#353148',cx:94},
-    {seg:'mg',sky:'#F6C27A',gr:'#C99256',sun:'#FFF1DC',sy:34,sx:56,ink:'#353148',cx:100},
-    {seg:'mg',sky:'#EF8B21',gr:'#B8621A',sun:'#FFE2B8',sy:46,sx:46,ink:'#2B2840',cx:108},
-    {seg:'mg',sky:'#C2573A',gr:'#7A3328',sun:'#F6C27A',sy:56,sx:38,ink:'#F7F7F4',cx:116},
-    {seg:'mg',sky:'#353148',gr:'#2A2740',sun:'#EF8B21',sy:70,sx:30,ink:'#F7F7F4',cx:122,stars:1}
-  ];
   const r = n => +n.toFixed(2);
   const hex = (x, y, s) => `M${r(x)},${r(y-s)} L${r(x+.866*s)},${r(y-.5*s)} L${r(x+.866*s)},${r(y+.5*s)} L${r(x)},${r(y+s)} L${r(x-.866*s)},${r(y+.5*s)} L${r(x-.866*s)},${r(y-.5*s)} Z`;
 
@@ -507,44 +535,8 @@ footer{padding:0 0 48px}
       <path d="${hex(x,y,s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linejoin="round"/>
       <path d="M${r(x-.66*s)},${r(y-.4*s)} L${r(x)},${r(y-.1*s)} L${r(x+.66*s)},${r(y-.4*s)} M${r(x)},${r(y-.1*s)} L${r(x)},${r(y+.68*s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linecap="round" stroke-linejoin="round"/></g>`;
   }
-  // An isometric solid cube for the 3D keys.
-  function solidCube(x, y, s, ink) {
-    const P = (a, b) => `${r(x+a*s)},${r(y+b*s)}`;
-    return `<polygon points="${P(-.9,1)} ${P(.6,1)} ${P(1.6,.55)} ${P(.1,.55)}" fill="rgba(43,40,64,.18)"/>
-      <polygon points="${P(0,-1)} ${P(.866,-.5)} ${P(0,0)} ${P(-.866,-.5)}" fill="#FFFFFF"/>
-      <polygon points="${P(-.866,-.5)} ${P(0,0)} ${P(0,1)} ${P(-.866,.5)}" fill="#E9E6EF"/>
-      <polygon points="${P(.866,-.5)} ${P(0,0)} ${P(0,1)} ${P(.866,.5)}" fill="#C9C4D6"/>
-      <circle cx="${r(x)}" cy="${r(y-.5*s)}" r="${r(.2*s)}" fill="#EF8B21"/>
-      <path d="${hex(x,y,s)} M${P(-.866,-.5)} L${P(0,0)} L${P(.866,-.5)} M${P(0,0)} L${P(0,1)}" fill="none" stroke="${ink}" stroke-width="${r(s*.07)}" stroke-linejoin="round"/>`;
-  }
-  function scene(i, uid) {
-    const k = K[i], s = k.seg === '3d' ? 15 : 13, y = 62 - s, id = `c${uid}`;
-    let g = `<rect width="160" height="90" fill="${k.sky}"/>`;
-    if (k.stars) g += [[22,14],[58,9],[96,18],[134,11],[146,28],[12,32]].map(([a,b]) => `<circle cx="${a}" cy="${b}" r=".7" fill="#F7F7F4" opacity=".7"/>`).join('');
-    g += `<circle class="sun" cx="${k.sx}" cy="${k.sy}" r="9" fill="${k.sun}"/>`;
-    g += `<rect y="62" width="160" height="28" fill="${k.gr}"/>`;
-    if (k.seg === '2d') g += logoCube(id, k.cx, y, s, k.ink, k.ink === '#F7F7F4' ? 'none' : '#FFFFFF');
-    else if (k.seg === '3d') g += solidCube(k.cx, y, s, k.ink);
-    else {
-      // Motion keys: onion-skinned trail behind the moving cube.
-      g += [3,2,1].map(n => logoCube(`${id}g${n}`, k.cx - n*13, y, s, k.ink, 'none', .12 + (3-n)*.1)).join('');
-      g += [0,1,2].map(n => `<line x1="${k.cx-48}" x2="${k.cx-16}" y1="${r(y-6+n*6)}" y2="${r(y-6+n*6)}" stroke="${k.ink}" stroke-width=".6" opacity=".45"/>`).join('');
-      g += logoCube(id, k.cx, y, s, k.ink, k.ink === '#F7F7F4' ? 'none' : '#FFFFFF');
-    }
-    return `<svg viewBox="0 0 160 90" aria-hidden="true" focusable="false">${g}</svg>`;
-  }
-  const figure = (i, uid, withId) => `<figure class="frame"${withId ? ` id="scene-${String(i+1).padStart(2,'0')}"` : ''} data-i="${i}">
-      <div class="pic">${scene(i, uid)}</div>
-      <figcaption><span class="num">KEY ${String(i+1).padStart(2,'0')}</span><span class="tc">${tc(i*SCENE_SEC)}</span></figcaption></figure>`;
-
   // Board: three rows, one service each.
   const rows = [...document.querySelectorAll('#board .row')];
-
-  // Service rows: their key frame large, the sequence small beneath.
-  document.querySelectorAll('.svc-art').forEach((el, si) => {
-    const key = +el.dataset.frames - 1, start = si * 4;
-    el.innerHTML = figure(key, `s${si}k`, false) + [0,1,2,3].map(j => figure(start + j, `s${si}${j}`, false)).join('');
-  });
 
   // Isolate one service on the board; press again to show all.
   const board = document.getElementById('board');

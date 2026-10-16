@@ -39,7 +39,7 @@ body{background:var(--wall);color:var(--ink);font-family:var(--font);font-size:1
 ::selection{background:var(--orange);color:#fff}
 a{color:inherit}
 img,svg{display:block;max-width:100%}
-:focus-visible{outline:2px solid var(--orange);outline-offset:3px;border-radius:2px}
+:focus-visible{outline:2px solid var(--orange-ink);outline-offset:3px;border-radius:2px}
 .tc,.num{font-variant-numeric:tabular-nums;letter-spacing:.02em}
 .wrap{max-width:var(--max);margin:0 auto;padding:0 var(--gutter)}
 .en{color:var(--ink-2);font-weight:450}
@@ -88,11 +88,11 @@ img,svg{display:block;max-width:100%}
 .seg small{font-size:11px;font-weight:500;color:var(--ink-3)}
 .seg:hover{color:var(--orange-ink)}
 .seg[aria-pressed="true"]{color:var(--orange-ink);border-top-color:var(--orange)}
-.seg:focus-visible{outline:2px solid var(--orange);outline-offset:3px}
+.seg:focus-visible{outline:2px solid var(--orange-ink);outline-offset:3px}
 .frame{position:relative;margin:0}
 .frame .pic{aspect-ratio:16/9;outline:1px solid var(--rule);outline-offset:-1px;overflow:hidden;background:var(--paper)}
 .frame .pic svg{width:100%;height:100%}
-.frame figcaption{display:flex;justify-content:space-between;margin-top:5px;font-size:10.5px;color:var(--ink-3);line-height:1}
+.frame figcaption{display:flex;justify-content:space-between;margin-top:5px;font-size:11px;color:var(--ink-3);line-height:1}
 .frame.on .pic{outline:1px solid var(--orange)}
 .frame.on figcaption .num{color:var(--orange-ink)}
 .frame.on::after{content:"";position:absolute;left:-1px;top:-9px;border-left:7px solid var(--orange);border-top:4.5px solid transparent;border-bottom:4.5px solid transparent}

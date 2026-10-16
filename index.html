@@ -2,177 +2,516 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<meta name="theme-color" content="#0a0a0a">
-<title>Studioroomkr</title>
-<meta name="description" content="Studioroomkr is an educational brand that creates vocabulary-learning flashcards and short videos (the HelloWords series) for Korean (TOPIK) and English (TOEIC) learners.">
-<link rel="icon" type="image/png" href="/icon.png">
-<link rel="apple-touch-icon" href="/icon.png">
-<meta property="og:title" content="Studioroomkr">
-<meta property="og:description" content="Korean (TOPIK) & English (TOEIC) vocabulary learning by Studioroomkr.">
-<meta property="og:image" content="/icon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#F7F7F4">
+<title>STUDIO ROOM 스튜디오룸 — 2D·3D 애니메이션 · 모션그래픽 | Studioroomkr</title>
+<meta name="description" content="스튜디오룸(STUDIO ROOM)은 2D 애니메이션, 3D 애니메이션, 모션그래픽을 만드는 서울의 제작 스튜디오입니다. HelloStoryboard, HelloFeedback, Hello Billiard, 테스노트, HelloWords 등 자체 앱도 만듭니다.">
+<link rel="canonical" href="https://studioroomkr.com/">
+<link rel="icon" type="image/png" href="/assets/studio/favicon.png">
+<link rel="apple-touch-icon" href="/assets/studio/apple-touch-icon.png">
 <meta property="og:type" content="website">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&display=swap" rel="stylesheet">
+<meta property="og:site_name" content="STUDIO ROOM">
+<meta property="og:title" content="STUDIO ROOM 스튜디오룸 — 2D·3D 애니메이션 · 모션그래픽">
+<meta property="og:description" content="움직이는 이야기를 만듭니다. 2D·3D 애니메이션과 모션그래픽 제작 스튜디오.">
+<meta property="og:url" content="https://studioroomkr.com/">
+<meta property="og:image" content="https://studioroomkr.com/assets/studio/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"STUDIO ROOM","alternateName":["스튜디오룸","Studioroom","Studioroomkr"],"url":"https://studioroomkr.com/","logo":"https://studioroomkr.com/assets/studio/apple-touch-icon.png","email":"contact@studioroomkr.com","foundingDate":"2019-11","address":{"@type":"PostalAddress","addressLocality":"Seoul","addressCountry":"KR"},"description":"2D animation, 3D animation and motion graphics production studio in Seoul."}
+</script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css">
 <style>
-:root {
-  --bg:#0a0a0a; --surface:#141414; --border:#252525;
-  --accent:#e8ff47; --text:#f0f0e8; --sub:#666660; --card:#1a1a1a;
+:root{
+  --wall:#F7F7F4; --paper:#FFFFFF; --ink:#353148; --ink-2:#5D5970; --ink-3:#6E6A80;
+  --rule:rgba(53,49,72,.16); --rule-strong:rgba(53,49,72,.32);
+  --orange:#EF8B21; --orange-ink:#A9560A; --night:#2B2840;
+  --gutter:clamp(16px,4vw,48px); --max:1320px;
+  --ease-out:cubic-bezier(.16,1,.3,1);
+  --font:"Wanted Sans Variable","Wanted Sans",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
 }
-*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
-html,body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;scrollbar-color:var(--rule-strong) var(--wall)}
+body{background:var(--wall);color:var(--ink);font-family:var(--font);font-size:17px;line-height:1.6;word-break:keep-all;overflow-wrap:break-word;-webkit-font-smoothing:antialiased;font-feature-settings:"ss01" off}
+::selection{background:var(--orange);color:#fff}
+a{color:inherit}
+img,svg{display:block;max-width:100%}
+:focus-visible{outline:2px solid var(--orange);outline-offset:3px;border-radius:2px}
+.tc,.num{font-variant-numeric:tabular-nums;letter-spacing:.02em}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 var(--gutter)}
+.en{color:var(--ink-2);font-weight:450}
+.skip{position:absolute;left:-9999px;top:8px;background:var(--ink);color:#fff;padding:8px 14px;z-index:100}
+.skip:focus{left:8px}
 
-header{
-  position:sticky;top:0;z-index:50;
-  background:rgba(10,10,10,.92);backdrop-filter:blur(12px);
-  border-bottom:1px solid var(--border);
-  padding:16px 20px;display:flex;align-items:center;gap:12px;
+/* ── Nav with scroll timeline ── */
+.top{position:sticky;top:0;z-index:40;background:var(--wall)}
+.top-in{display:flex;align-items:center;gap:28px;height:68px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none;flex-shrink:0}
+.brand svg{width:30px;height:33px}
+.brand img{height:19px;width:auto}
+.nav{display:flex;gap:26px;margin-left:auto;list-style:none}
+.nav a{text-decoration:none;font-size:15px;font-weight:500;color:var(--ink-2);transition:color .2s}
+.nav a:hover{color:var(--ink)}
+.cta-s{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-size:15px;font-weight:600;padding:9px 16px;border:1px solid var(--ink);border-radius:999px;transition:background .2s,color .2s}
+.cta-s::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--orange)}
+.cta-s:hover{background:var(--ink);color:var(--wall)}
+.timeline{position:relative;height:1px;background:var(--rule)}
+.timeline-fill{position:absolute;inset:0 auto 0 0;width:0;background:var(--orange)}
+.timeline-head{position:absolute;top:-4px;left:0;width:0;height:0;border-left:7px solid var(--orange);border-top:4.5px solid transparent;border-bottom:4.5px solid transparent;transform:translateX(-1px)}
+.timeline-tc{position:absolute;right:var(--gutter);top:6px;font-size:11px;color:var(--ink-3);pointer-events:none}
+
+/* ── Hero ── */
+.hero{padding:clamp(48px,8vw,104px) 0 clamp(56px,8vw,96px)}
+.hero-copy{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:clamp(32px,5vw,72px);align-items:end}
+.hero .board{margin-top:clamp(44px,6vw,80px)}
+.hero-text .lede-en{margin-top:0}
+.hero h1{font-size:clamp(2.6rem,6.2vw,5.6rem);line-height:1.04;font-weight:720;letter-spacing:-.035em;text-wrap:balance}
+.hero h1 .dot{color:var(--orange)}
+.hero .lede-en{margin-top:18px;text-wrap:balance;font-size:clamp(1.05rem,1.6vw,1.3rem);font-weight:500;color:var(--ink-2);letter-spacing:-.01em}
+.hero .lede{margin-top:22px;font-size:17px;color:var(--ink-2);max-width:34em}
+.actions{margin-top:34px;display:flex;flex-wrap:wrap;align-items:center;gap:14px 22px}
+.cta{display:inline-flex;align-items:center;gap:12px;background:var(--ink);color:var(--wall);text-decoration:none;font-weight:600;font-size:16px;padding:15px 24px 15px 22px;border-radius:999px;box-shadow:0 6px 18px -8px rgba(53,49,72,.55);transition:transform .25s var(--ease-out),box-shadow .25s}
+.cta .tri{width:0;height:0;border-left:8px solid var(--orange);border-top:5px solid transparent;border-bottom:5px solid transparent;transition:transform .25s var(--ease-out)}
+.cta:hover{transform:translateY(-1px);box-shadow:0 10px 24px -10px rgba(53,49,72,.6)}
+.cta:hover .tri{transform:translateX(3px)}
+.mail{font-size:15px;color:var(--ink-2);text-decoration:underline;text-decoration-color:var(--rule-strong);text-underline-offset:4px}
+.mail:hover{color:var(--ink);text-decoration-color:var(--orange)}
+
+/* ── Color script board ── */
+.board{position:relative}
+.board-rows{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.row{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;align-items:start;transition:opacity .35s var(--ease-out),filter .35s var(--ease-out)}
+.seg{all:unset;cursor:pointer;align-self:stretch;grid-column:1/-1;display:flex;align-items:baseline;justify-content:flex-start;gap:8px;border-top:1px solid var(--rule-strong);padding:6px 0 4px;font-size:13px;font-weight:650;color:var(--ink);line-height:1.25;aspect-ratio:auto}
+.seg small{font-size:11px;font-weight:500;color:var(--ink-3)}
+.seg:hover{color:var(--orange-ink)}
+.seg[aria-pressed="true"]{color:var(--orange-ink);border-top-color:var(--orange)}
+.seg:focus-visible{outline:2px solid var(--orange);outline-offset:3px}
+.frame{position:relative;margin:0}
+.frame .pic{aspect-ratio:16/9;outline:1px solid var(--rule);outline-offset:-1px;overflow:hidden;background:var(--paper)}
+.frame .pic svg{width:100%;height:100%}
+.frame figcaption{display:flex;justify-content:space-between;margin-top:5px;font-size:10.5px;color:var(--ink-3);line-height:1}
+.frame.on .pic{outline:1px solid var(--orange)}
+.frame.on figcaption .num{color:var(--orange-ink)}
+.frame.on::after{content:"";position:absolute;left:-1px;top:-9px;border-left:7px solid var(--orange);border-top:4.5px solid transparent;border-bottom:4.5px solid transparent}
+.frame:target .pic{outline:2px solid var(--orange)}
+.board.isolate .row:not(.sel){opacity:.22;filter:saturate(.3)}
+.board-note{margin-top:14px;font-size:12px;color:var(--ink-3)}
+
+/* ── Sections ── */
+section{scroll-margin-top:80px}
+.sec{padding:clamp(72px,10vw,136px) 0;border-top:1px solid var(--rule)}
+.sec-head{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:clamp(24px,5vw,72px);margin-bottom:clamp(40px,6vw,72px);align-items:end}
+.sec-head h2{font-size:clamp(2rem,4.2vw,3.4rem);line-height:1.1;font-weight:700;letter-spacing:-.03em;text-wrap:balance}
+.sec-head h2 .en{display:block;font-size:.42em;letter-spacing:-.005em;margin-top:12px;font-weight:500}
+.sec-head p{color:var(--ink-2);max-width:36em}
+
+/* services */
+.svc{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:clamp(24px,5vw,72px);padding:clamp(28px,4vw,44px) 0;border-top:1px solid var(--rule)}
+.svc h3{font-size:clamp(1.6rem,2.6vw,2.2rem);font-weight:700;letter-spacing:-.025em;line-height:1.15}
+.svc h3 .en{font-size:.55em;font-weight:500;margin-left:10px;letter-spacing:0}
+.svc .hook{margin-top:14px;font-size:clamp(1.05rem,1.5vw,1.2rem);font-weight:550;color:var(--ink);max-width:24em}
+.svc ul{margin-top:20px;list-style:none;display:flex;flex-wrap:wrap;gap:8px}
+.svc li{font-size:14px;color:var(--ink-2);padding:5px 12px;border:1px solid var(--rule);border-radius:999px;background:var(--paper)}
+.svc > div:first-child{position:sticky;top:96px;align-self:start}
+.svc-art{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px 8px;width:100%;max-width:620px;justify-self:end;align-self:start}
+.svc-art .frame:first-child{grid-column:1/-1}
+.svc-art .frame:not(:first-child) figcaption .tc{display:none}
+
+/* process */
+.steps{list-style:none;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--rule-strong);counter-reset:s}
+.steps li{position:relative;padding:26px 20px 0 0}
+.steps li::before{content:"";position:absolute;top:-5px;left:0;width:9px;height:9px;border-radius:50%;background:var(--wall);border:1px solid var(--ink)}
+.steps li:first-child::before{background:var(--orange);border-color:var(--orange)}
+.steps .tc{display:block;font-size:12px;color:var(--ink-3);margin-bottom:10px}
+.steps h3{font-size:1.25rem;font-weight:700;letter-spacing:-.02em}
+.steps h3 .en{display:block;font-size:13px;font-weight:500;margin-top:2px;letter-spacing:0}
+.steps p{margin-top:10px;font-size:15px;color:var(--ink-2)}
+
+/* works */
+.works{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(28px,3vw,40px) clamp(16px,2vw,28px)}
+.work{text-decoration:none;display:block}
+.work .pic{aspect-ratio:16/9;overflow:hidden;outline:1px solid var(--rule);outline-offset:-1px;background:var(--paper)}
+.work img{width:100%;height:100%;object-fit:cover;transition:transform .6s var(--ease-out)}
+.work:hover img{transform:scale(1.035)}
+.work .meta{display:flex;justify-content:space-between;gap:12px;margin-top:10px;font-size:12px;color:var(--ink-3)}
+.work h3{margin-top:10px;font-size:1.3rem;font-weight:700;letter-spacing:-.02em;display:flex;align-items:center;gap:10px}
+.work h3::after{content:"";width:0;height:0;border-left:8px solid var(--orange);border-top:5px solid transparent;border-bottom:5px solid transparent;opacity:0;transform:translateX(-6px);transition:opacity .25s,transform .25s var(--ease-out)}
+.work:hover h3::after,.work:focus-visible h3::after{opacity:1;transform:none}
+.work p{margin-top:6px;font-size:15px;color:var(--ink-2)}
+.works-note{margin-top:clamp(36px,5vw,56px);font-size:15px;color:var(--ink-2)}
+.works-note a{text-underline-offset:4px;text-decoration-color:var(--orange)}
+
+/* studio */
+.studio{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:clamp(24px,5vw,72px)}
+.studio h2{font-size:clamp(2rem,4.2vw,3.4rem);line-height:1.1;font-weight:700;letter-spacing:-.03em}
+.studio .body p{font-size:clamp(1.05rem,1.5vw,1.2rem);color:var(--ink);max-width:32em}
+.studio .body p+p{margin-top:18px;color:var(--ink-2);font-size:16px}
+.facts{margin-top:32px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-top:1px solid var(--rule)}
+.facts div{padding:16px 16px 0 0}
+.facts dt{font-size:12px;color:var(--ink-3)}
+.facts dd{margin-top:4px;font-weight:600}
+
+/* contact: the night frame */
+.contact{padding:0 0 clamp(56px,8vw,96px)}
+.night{position:relative;overflow:hidden;background:var(--night);color:var(--wall);min-height:min(78vh,640px);display:flex;align-items:center}
+.night svg.scene{position:absolute;inset:0;width:100%;height:100%}
+.night .copy{position:relative;padding:clamp(40px,7vw,96px) var(--gutter);max-width:var(--max);margin:0 auto;width:100%}
+.night h2{font-size:clamp(2.4rem,6vw,5rem);line-height:1.05;font-weight:720;letter-spacing:-.035em;max-width:12em;text-wrap:balance}
+.night .en{color:rgba(247,247,244,.72);display:block;margin-top:14px;font-size:clamp(1.05rem,1.6vw,1.3rem);font-weight:500;letter-spacing:-.005em}
+.night p.sub{margin-top:22px;color:rgba(247,247,244,.8);max-width:30em}
+.night .actions{margin-top:30px}
+.night .cta{background:var(--orange);color:var(--night);box-shadow:0 8px 24px -10px rgba(0,0,0,.6)}
+.night .cta .tri{border-left-color:var(--night)}
+.night .mail{color:var(--wall);font-size:clamp(1.1rem,2vw,1.5rem);font-weight:600;text-decoration-color:rgba(247,247,244,.4)}
+.night .mail:hover{text-decoration-color:var(--orange)}
+.night .tcs{position:absolute;left:var(--gutter);bottom:18px;font-size:11px;color:rgba(247,247,244,.5)}
+
+/* footer */
+footer{padding:0 0 48px}
+.foot{display:grid;grid-template-columns:auto 1fr;gap:20px 48px;align-items:start;padding-top:28px;border-top:1px solid var(--rule)}
+.foot img{height:16px;width:auto;margin-top:4px}
+.foot-links{display:flex;flex-wrap:wrap;gap:8px 22px;justify-content:flex-end}
+.foot-links a{font-size:14px;color:var(--ink-2);text-decoration:none}
+.foot-links a:hover{color:var(--ink);text-decoration:underline;text-underline-offset:4px;text-decoration-color:var(--orange)}
+.biz{grid-column:1/-1;font-size:12.5px;color:var(--ink-3);line-height:1.8}
+
+/* responsive */
+@media (max-width:1020px){
+  .hero-copy,.sec-head,.svc,.studio{grid-template-columns:1fr}
+  .hero-copy{gap:24px}
+  .board-rows{grid-template-columns:1fr}
+  .svc-art{justify-self:start}
+  .steps{grid-template-columns:1fr;border-top:0;border-left:1px solid var(--rule-strong);margin-left:4px}
+  .steps li{padding:0 0 30px 26px}
+  .steps li::before{top:6px;left:-5px}
+  .works{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .nav{display:none}
+  .cta-s{margin-left:auto}
 }
-.brand{font-family:'Instrument Serif',serif;font-style:italic;font-size:24px;color:var(--accent);}
-.brand-sub{font-size:13px;color:var(--sub);margin-left:4px;}
-.logo{width:28px;height:28px;border-radius:7px;flex-shrink:0;}
-
-footer{border-top:1px solid var(--border);padding:24px 20px 40px;text-align:center;}
-footer a{color:var(--sub);font-size:13px;text-decoration:none;margin:0 10px;}
-footer a:hover{color:var(--accent);}
-.copyright{display:block;margin-top:12px;font-size:12px;color:var(--sub);}
-
-.content{padding:32px 20px 60px;max-width:560px;margin:0 auto;}
-
-.hero{text-align:center;padding:40px 0 36px;}
-.hero-logo{width:76px;height:76px;border-radius:18px;margin:0 auto 18px;display:block;box-shadow:0 8px 30px rgba(0,0,0,.45);}
-.hero-title{font-family:'Instrument Serif',serif;font-style:italic;font-size:42px;color:var(--accent);line-height:1.1;margin-bottom:8px;}
-.hero-tagline{font-size:14px;font-weight:500;color:var(--text);letter-spacing:.3px;margin-bottom:14px;}
-.hero-sub{font-size:15px;color:var(--sub);line-height:1.6;}
-.about-text{font-size:13px;color:var(--sub);line-height:1.7;text-align:center;max-width:440px;margin:0 auto;}
-
-.section-label{font-size:10px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--sub);margin-bottom:12px;}
-
-.product-card{
-  background:var(--card);border:1px solid var(--border);border-radius:16px;
-  padding:20px;margin-bottom:10px;
-  display:flex;align-items:center;gap:16px;
-  cursor:default;
+@media (max-width:620px){
+  body{font-size:16px}
+  .top-in{height:60px}
+  .brand img{height:16px}
+  .brand svg{width:26px;height:29px}
+  .timeline-tc{display:none}
+  .frame figcaption .tc{display:none}
+  .works{grid-template-columns:1fr}
+  .facts{grid-template-columns:1fr}
+  .foot{grid-template-columns:1fr}
+  .foot-links{justify-content:flex-start}
+  .night{min-height:860px;align-items:flex-start}
 }
-.product-icon{width:48px;height:48px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
-.product-info{flex:1;}
-.product-name{font-size:16px;font-weight:600;color:var(--text);margin-bottom:3px;}
-.product-desc{font-size:13px;color:var(--sub);}
-.product-badge{
-  font-size:11px;font-weight:600;padding:3px 10px;border-radius:20px;
-  border:1px solid;white-space:nowrap;flex-shrink:0;
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{transition-duration:.01ms!important;animation:none!important}
 }
-
-.divider{height:1px;background:var(--border);margin:24px 0;}
-
-.info-box{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px 18px;}
-.info-text{font-size:13px;color:var(--sub);line-height:1.7;}
 </style>
 </head>
 <body>
+<a class="skip" href="#main">본문 바로가기</a>
 
-<header>
-  <img class="logo" src="/icon.png" alt="Studioroomkr">
-  <span class="brand">Studioroomkr</span>
-  <span class="brand-sub">HelloWords 단어 학습 시리즈</span>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="/" aria-label="STUDIO ROOM 홈">
+      <svg viewBox="-1.1 -1.12 2.2 2.24" aria-hidden="true">
+        <defs><clipPath id="logo-sun"><polygon points="-.71,-.42 0,-.11 .71,-.42 .71,-1 -.71,-1"/></clipPath></defs>
+        <circle cx="0" cy="-.3" r=".38" fill="#EF8B21" clip-path="url(#logo-sun)"/>
+        <path d="M0,-1 L.866,-.5 L.866,.5 L0,1 L-.866,.5 L-.866,-.5 Z" fill="none" stroke="#353148" stroke-width=".15" stroke-linejoin="round"/>
+        <path d="M-.66,-.4 L0,-.1 L.66,-.4 M0,-.1 L0,.68" fill="none" stroke="#353148" stroke-width=".15" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <img src="/assets/studio/wordmark.png" alt="STUDIO ROOM" width="480" height="70">
+    </a>
+    <ul class="nav">
+      <li><a href="#services">서비스</a></li>
+      <li><a href="#process">제작 과정</a></li>
+      <li><a href="#works">작업</a></li>
+      <li><a href="#studio">스튜디오</a></li>
+    </ul>
+    <a class="cta-s" href="#contact">제작 문의</a>
+  </div>
+  <div class="timeline" aria-hidden="true"><div class="timeline-fill"></div><div class="timeline-head"></div><span class="timeline-tc tc">00:00:00:00</span></div>
 </header>
 
-<div class="content">
-  <div class="hero">
-    <img class="hero-logo" src="/icon.png" alt="Studioroomkr logo">
-    <div class="hero-title">Studioroomkr</div>
-    <div class="hero-tagline">Korean &amp; English Vocabulary Learning · HelloWords</div>
-    <div class="hero-sub">포스트잇 단어카드 + 모바일 예문 학습<br>QR코드로 바로 접속하세요</div>
-  </div>
-
-  <p class="about-text">Studioroom (스튜디오룸) is an independent software studio in Seoul that makes apps for creators and learners, and the HelloWords vocabulary series. Studioroomkr is an educational brand that creates vocabulary-learning flashcards and short videos &mdash; the HelloWords series &mdash; for Korean&nbsp;(TOPIK) and English&nbsp;(TOEIC) learners.</p>
-  <div class="divider"></div>
-
-  <div class="section-label">Apps · 스튜디오룸 앱</div>
-
-  <a class="product-card" href="https://hellostoryboard.studioroomkr.com/" style="text-decoration:none;">
-    <div class="product-icon" style="background:rgba(59,107,214,.15);">🎬</div>
-    <div class="product-info">
-      <div class="product-name">HelloStoryboard</div>
-      <div class="product-desc">영상 콘티(스토리보드) 앱 · Windows · iPad · Android 태블릿</div>
+<main id="main">
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="wrap">
+      <div class="hero-copy">
+        <h1 id="hero-title">움직이는 이야기를 만듭니다<span class="dot">.</span></h1>
+        <div class="hero-text">
+        <p class="lede-en" lang="en">We make stories move — 2D, 3D &amp; motion graphics.</p>
+        <p class="lede">스튜디오룸은 2D 애니메이션, 3D 애니메이션, 모션그래픽을 만드는 서울의 제작 스튜디오입니다. 기획과 콘티에서 마지막 프레임까지 한 팀이 끝까지 만듭니다.</p>
+        <div class="actions">
+          <a class="cta" href="mailto:contact@studioroomkr.com?subject=%5B%EC%A0%9C%EC%9E%91%20%EB%AC%B8%EC%9D%98%5D%20"><span class="tri" aria-hidden="true"></span>제작 문의하기</a>
+          <a class="mail" href="mailto:contact@studioroomkr.com">contact@studioroomkr.com</a>
+        </div>
+        </div>
+      </div>
+      <div class="board" id="board" role="group" aria-label="컬러 스크립트 — 새벽에서 밤까지 열두 장면. 줄을 누르면 해당 서비스 장면만 봅니다.">
+        <div class="board-rows">
+          <div class="row" data-seg="2d"><button class="seg" type="button" aria-pressed="false" data-seg="2d">2D<small>Animation</small></button></div>
+          <div class="row" data-seg="3d"><button class="seg" type="button" aria-pressed="false" data-seg="3d">3D<small>Animation</small></button></div>
+          <div class="row" data-seg="mg"><button class="seg" type="button" aria-pressed="false" data-seg="mg">모션<small>Motion graphics</small></button></div>
+        </div>
+      </div>
     </div>
-  </a>
+  </section>
 
-  <a class="product-card" href="https://hellobilliard.studioroomkr.com/" style="text-decoration:none;">
-    <div class="product-icon" style="background:rgba(232,181,62,.12);">🎱</div>
-    <div class="product-info">
-      <div class="product-name">Hello Billiard</div>
-      <div class="product-desc">당구 배치 인식·경로 계산 · iOS · Android</div>
+  <section class="sec" id="services" aria-labelledby="services-title">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2 id="services-title">세 가지 방식으로 움직입니다<span class="en" lang="en">Three ways we make things move</span></h2>
+        <p>목적과 예산, 일정에 맞춰 2D·3D·모션그래픽 가운데 가장 잘 맞는 방식을 함께 고르고, 필요하면 섞어서 만듭니다.</p>
+      </div>
+      <div class="svc" data-seg="2d">
+        <div>
+          <h3>2D 애니메이션<span class="en" lang="en">2D Animation</span></h3>
+          <p class="hook">선과 면으로 캐릭터와 이야기를 움직입니다.</p>
+          <ul><li>캐릭터 애니메이션</li><li>설명·홍보 영상</li><li>광고 영상</li><li>콘티·애니매틱</li></ul>
+        </div>
+        <div class="svc-art" data-frames="3"></div>
+      </div>
+      <div class="svc" data-seg="3d">
+        <div>
+          <h3>3D 애니메이션<span class="en" lang="en">3D Animation</span></h3>
+          <p class="hook">공간과 빛 속에서 제품과 캐릭터를 보여줍니다.</p>
+          <ul><li>3D 캐릭터</li><li>제품 시각화</li><li>공간·배경 연출</li><li>3D 모션</li></ul>
+        </div>
+        <div class="svc-art" data-frames="7"></div>
+      </div>
+      <div class="svc" data-seg="mg">
+        <div>
+          <h3>모션그래픽<span class="en" lang="en">Motion Graphics</span></h3>
+          <p class="hook">로고와 글자, 데이터가 리듬을 갖고 움직입니다.</p>
+          <ul><li>브랜드·로고 모션</li><li>타이틀·자막 그래픽</li><li>인포그래픽</li><li>UI·앱 모션</li></ul>
+        </div>
+        <div class="svc-art" data-frames="10"></div>
+      </div>
     </div>
-  </a>
+  </section>
 
-  <a class="product-card" href="https://tennisnote.studioroomkr.com/support.html" style="text-decoration:none;">
-    <div class="product-icon" style="background:rgba(76,175,125,.12);">🎾</div>
-    <div class="product-info">
-      <div class="product-name">테스노트 (TennisNote)</div>
-      <div class="product-desc">테니스 기록·분석 · iOS · Android</div>
+  <section class="sec" id="process" aria-labelledby="process-title">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2 id="process-title">첫 통화부터 마지막 프레임까지<span class="en" lang="en">From the first call to the final frame</span></h2>
+        <p>장면이 정해지기 전에 타이밍을 먼저 맞춥니다. 콘티와 애니매틱으로 흐름을 확인한 뒤 본 작업에 들어가서 수정이 적습니다.</p>
+      </div>
+      <ol class="steps">
+        <li><span class="tc">01</span><h3>기획<span class="en" lang="en">Planning</span></h3><p>목표와 메시지, 길이, 일정, 쓰일 곳을 함께 정리합니다.</p></li>
+        <li><span class="tc">02</span><h3>콘티<span class="en" lang="en">Storyboard</span></h3><p>장면과 타이밍을 콘티와 애니매틱으로 먼저 보여드립니다.</p></li>
+        <li><span class="tc">03</span><h3>디자인<span class="en" lang="en">Design</span></h3><p>캐릭터, 스타일 프레임, 색을 확정합니다.</p></li>
+        <li><span class="tc">04</span><h3>애니메이션<span class="en" lang="en">Animation</span></h3><p>2D·3D 제작과 합성, 사운드를 입힙니다.</p></li>
+        <li><span class="tc">05</span><h3>납품<span class="en" lang="en">Delivery</span></h3><p>피드백을 반영해 쓰일 곳에 맞는 포맷으로 넘깁니다.</p></li>
+      </ol>
     </div>
-  </a>
+  </section>
 
-  <div class="divider"></div>
-
-  <div class="section-label">TOEIC 시리즈</div>
-
-  <div class="product-card">
-    <div class="product-icon" style="background:rgba(232,255,71,.1);">📘</div>
-    <div class="product-info">
-      <div class="product-name">HelloWords — TOEIC</div>
-      <div class="product-desc">영단어 600·700·800점대 · 총 897단어 · 예문 10개씩</div>
+  <section class="sec" id="works" aria-labelledby="works-title">
+    <div class="wrap">
+      <div class="sec-head">
+        <h2 id="works-title">직접 만들어 출시한 작업<span class="en" lang="en">Products we design and ship ourselves</span></h2>
+        <p>영상 제작 현장에서 쓰는 도구부터 생활 속 앱까지, 스튜디오룸이 기획·디자인·개발을 모두 맡아 출시한 작업입니다.</p>
+      </div>
+      <div class="works">
+        <a class="work" href="https://hellostoryboard.studioroomkr.com/">
+          <div class="pic"><img src="/assets/studio/storyboard.webp" alt="HelloStoryboard 편집 화면 — 콘티와 타임라인" width="960" height="540" loading="lazy"></div>
+          <div class="meta"><span class="num">SC 13</span><span>iPad · Android 태블릿 · Windows · Mac</span></div>
+          <h3>HelloStoryboard</h3>
+          <p>콘티부터 애니매틱까지, 한 프로그램에서.</p>
+        </a>
+        <a class="work" href="https://hellofeedback.studioroomkr.com/">
+          <div class="pic"><img src="/assets/studio/feedback.webp" alt="HelloFeedback — 영상 프레임 위에 남긴 메모와 그림" width="960" height="540" loading="lazy"></div>
+          <div class="meta"><span class="num">SC 14</span><span>Windows · Android 태블릿 · iPad</span></div>
+          <h3>HelloFeedback</h3>
+          <p>영상을 프레임 단위로 멈추고, 그 자리에 메모와 그림을.</p>
+        </a>
+        <a class="work" href="https://hellobilliard.studioroomkr.com/about">
+          <div class="pic"><img src="/assets/studio/billiard.webp" alt="Hello Billiard — 당구대 위 공 배치와 득점 경로" width="960" height="540" loading="lazy"></div>
+          <div class="meta"><span class="num">SC 15</span><span>iOS · Android</span></div>
+          <h3>Hello Billiard</h3>
+          <p>당구대 사진 한 장으로 공 배치와 득점 경로까지.</p>
+        </a>
+        <a class="work" href="https://tennisnote.studioroomkr.com/landing">
+          <div class="pic"><img src="/assets/studio/tennisnote.webp" alt="테스노트 TENNIS NOTE 로고" width="960" height="540" loading="lazy"></div>
+          <div class="meta"><span class="num">SC 16</span><span>iOS · Android · Web</span></div>
+          <h3>테스노트 <span class="en" lang="en">TennisNote</span></h3>
+          <p>대진표부터 점수·통계·회비까지, 테니스 클럽 운영을 한곳에서.</p>
+        </a>
+        <a class="work" href="https://studioroomkr.com/HW/">
+          <div class="pic"><img src="/assets/studio/hellowords.webp" alt="HelloWords 로고" width="960" height="540" loading="lazy"></div>
+          <div class="meta"><span class="num">SC 17</span><span>Web · 포스트잇 단어카드</span></div>
+          <h3>HelloWords</h3>
+          <p>TOEIC·IELTS·HSK·JLPT·TOPIK 단어카드와 모바일 예문 학습.</p>
+        </a>
+        <a class="work" href="https://helloslime.studioroomkr.com/">
+          <div class="pic"><img src="/assets/studio/slime.webp" alt="Hello Slime — 말랑한 슬라임 육각 퍼즐" width="960" height="540" loading="lazy"></div>
+          <div class="meta"><span class="num">SC 18</span><span>게임 · 출시 준비 중</span></div>
+          <h3>Hello Slime</h3>
+          <p>슬라임을 폴짝 넘어 한 칸씩, 1000층의 육각 퍼즐 모험.</p>
+        </a>
+      </div>
     </div>
-    <div class="product-badge" style="color:#e8ff47;border-color:rgba(232,255,71,.3);background:rgba(232,255,71,.08);">EN</div>
-  </div>
+  </section>
 
-  <div class="divider"></div>
-
-  <div class="section-label">TOPIK 시리즈</div>
-
-  <div class="product-card">
-    <div class="product-icon" style="background:rgba(74,158,255,.1);">🇰🇷</div>
-    <div class="product-info">
-      <div class="product-name">HelloWords — TOPIK (English)</div>
-      <div class="product-desc">한국어 1~6급 · 총 1,715단어 · 영어 뜻·예문</div>
+  <section class="sec" id="studio" aria-labelledby="studio-title">
+    <div class="wrap studio">
+      <h2 id="studio-title">애니메이션을 만들고,<br>필요한 도구도 만듭니다</h2>
+      <div class="body">
+        <p>스튜디오룸은 2019년 서울에서 문을 연 애니메이션·모션그래픽 제작 스튜디오입니다. 움직임을 설계하는 일과 그 움직임을 담을 화면을 만드는 일을 함께 합니다.</p>
+        <p lang="en">STUDIO ROOM is an animation and motion graphics studio founded in Seoul in 2019. We design motion, and we build the software it lives in — from storyboard tools for creators to everyday apps.</p>
+        <dl class="facts">
+          <div><dt>설립</dt><dd>2019 · 서울</dd></div>
+          <div><dt>분야</dt><dd>2D · 3D · 모션그래픽</dd></div>
+          <div><dt>문의</dt><dd><a class="mail" href="mailto:contact@studioroomkr.com">contact@studioroomkr.com</a></dd></div>
+        </dl>
+      </div>
     </div>
-    <div class="product-badge" style="color:#4A9EFF;border-color:rgba(74,158,255,.3);background:rgba(74,158,255,.08);">EN</div>
-  </div>
+  </section>
 
-  <div class="product-card">
-    <div class="product-icon" style="background:rgba(255,112,67,.1);">🇨🇳</div>
-    <div class="product-info">
-      <div class="product-name">HelloWords — TOPIK (中文)</div>
-      <div class="product-desc">한국어 1~6급 · 총 1,715단어 · 중국어 뜻·예문</div>
+  <section class="contact" id="contact" aria-labelledby="contact-title">
+    <div class="night">
+      <svg class="scene" id="night-scene" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMax slice" aria-hidden="true"></svg>
+      <div class="copy">
+        <h2 id="contact-title">다음 장면을 함께 만들어요.<span class="en" lang="en">Let’s make the next scene together.</span></h2>
+        <p class="sub">만들고 싶은 영상의 목적과 길이, 일정, 참고 영상을 함께 보내주시면 검토가 빨라집니다.</p>
+        <div class="actions">
+          <a class="cta" href="mailto:contact@studioroomkr.com?subject=%5B%EC%A0%9C%EC%9E%91%20%EB%AC%B8%EC%9D%98%5D%20"><span class="tri" aria-hidden="true"></span>메일로 문의하기</a>
+          <a class="mail" href="mailto:contact@studioroomkr.com">contact@studioroomkr.com</a>
+        </div>
+      </div>
+      <span class="tcs tc" aria-hidden="true">SC 19 · 00:00:36:00</span>
     </div>
-    <div class="product-badge" style="color:#FF7043;border-color:rgba(255,112,67,.3);background:rgba(255,112,67,.08);">CN</div>
-  </div>
-
-  <div class="product-card">
-    <div class="product-icon" style="background:rgba(76,175,125,.1);">🇻🇳</div>
-    <div class="product-info">
-      <div class="product-name">HelloWords — TOPIK (Tiếng Việt)</div>
-      <div class="product-desc">한국어 1~6급 · 총 1,715단어 · 베트남어 뜻·예문</div>
-    </div>
-    <div class="product-badge" style="color:#4CAF7D;border-color:rgba(76,175,125,.3);background:rgba(76,175,125,.08);">VN</div>
-  </div>
-
-  <div class="divider"></div>
-
-  <div class="info-box">
-    <div class="info-text">📦 포스트잇 카드에 동봉된 QR코드로 접속하세요.<br>단어·발음·예문 10개·TTS 음성을 무제한으로 이용할 수 있습니다.</div>
-  </div>
-</div>
+  </section>
+</main>
 
 <footer>
-  <a href="/privacy.html">Privacy Policy</a>
-  <a href="/terms.html">Terms of Service</a>
-  <a href="mailto:hellowordskorean@gmail.com">Contact</a>
-  <a href="mailto:contact@studioroomkr.com">App Support</a>
-  <span class="copyright">&copy; 2026 Studioroomkr · hellowordskorean@gmail.com</span>
-  <span class="copyright">스튜디오룸 (Studioroom) · 대표 배성균 · 사업자등록번호 430-40-00774 · 통신판매업 신고 2026-서울강서-2604</span>
+  <div class="wrap"><div class="foot">
+    <img src="/assets/studio/wordmark.png" alt="STUDIO ROOM" width="480" height="70">
+    <nav class="foot-links" aria-label="하단 링크">
+      <a href="/privacy.html">Privacy Policy</a>
+      <a href="/terms.html">Terms of Service</a>
+      <a href="mailto:contact@studioroomkr.com">제작·앱 문의</a>
+      <a href="mailto:hellowordskorean@gmail.com">HelloWords 문의</a>
+    </nav>
+    <p class="biz">스튜디오룸 (Studioroom · Studioroomkr) · 대표 배성균 · 사업자등록번호 430-40-00774 · 통신판매업 신고 2026-서울강서-2604<br>&copy; 2026 STUDIO ROOM. All rights reserved.</p>
+  </div></div>
 </footer>
 
+<script>
+(() => {
+  const FPS = 24, SCENE_SEC = 2;
+  const tc = s => { const f = Math.round(s * FPS); const p = n => String(n).padStart(2, '0');
+    return `00:${p(Math.floor(f / FPS / 60))}:${p(Math.floor(f / FPS) % 60)}:${p(f % FPS)}`; };
+
+  // Twelve color keys, dawn → noon → dusk → night. seg: 2d | 3d | mg.
+  const K = [
+    {seg:'2d',sky:'#2F2B47',gr:'#24213A',sun:'#EF8B21',sy:70,sx:118,ink:'#F7F7F4',cx:40,stars:1},
+    {seg:'2d',sky:'#5A4A6E',gr:'#3B3352',sun:'#EF8B21',sy:62,sx:112,ink:'#F7F7F4',cx:48,stars:1},
+    {seg:'2d',sky:'#C98C8A',gr:'#7E5A6B',sun:'#F6C27A',sy:52,sx:106,ink:'#2F2B47',cx:56},
+    {seg:'2d',sky:'#F2B48A',gr:'#B9806A',sun:'#FFF1DC',sy:42,sx:100,ink:'#353148',cx:64},
+    {seg:'3d',sky:'#F8D29A',gr:'#D6A86E',sun:'#FFF6E6',sy:34,sx:92,ink:'#353148',cx:70},
+    {seg:'3d',sky:'#FBE8C6',gr:'#E2C79A',sun:'#F6C343',sy:26,sx:84,ink:'#353148',cx:78},
+    {seg:'3d',sky:'#D7EAF0',gr:'#A9C9B4',sun:'#F6C343',sy:20,sx:76,ink:'#353148',cx:86},
+    {seg:'3d',sky:'#B9DCEA',gr:'#8DB79E',sun:'#F6C343',sy:24,sx:66,ink:'#353148',cx:94},
+    {seg:'mg',sky:'#F6C27A',gr:'#C99256',sun:'#FFF1DC',sy:34,sx:56,ink:'#353148',cx:100},
+    {seg:'mg',sky:'#EF8B21',gr:'#B8621A',sun:'#FFE2B8',sy:46,sx:46,ink:'#2B2840',cx:108},
+    {seg:'mg',sky:'#C2573A',gr:'#7A3328',sun:'#F6C27A',sy:56,sx:38,ink:'#F7F7F4',cx:116},
+    {seg:'mg',sky:'#353148',gr:'#2A2740',sun:'#EF8B21',sy:70,sx:30,ink:'#F7F7F4',cx:122,stars:1}
+  ];
+  const r = n => +n.toFixed(2);
+  const hex = (x, y, s) => `M${r(x)},${r(y-s)} L${r(x+.866*s)},${r(y-.5*s)} L${r(x+.866*s)},${r(y+.5*s)} L${r(x)},${r(y+s)} L${r(x-.866*s)},${r(y+.5*s)} L${r(x-.866*s)},${r(y-.5*s)} Z`;
+
+  // The logo cube: hexagon, Y edge, orange half-sun rising inside.
+  function logoCube(id, x, y, s, ink, fill, op = 1) {
+    return `<g opacity="${op}"><clipPath id="${id}"><polygon points="${r(x-.71*s)},${r(y-.42*s)} ${r(x)},${r(y-.11*s)} ${r(x+.71*s)},${r(y-.42*s)} ${r(x+.71*s)},${r(y-s)} ${r(x-.71*s)},${r(y-s)}"/></clipPath>
+      <path d="${hex(x,y,s)}" fill="${fill}"/>
+      <circle cx="${r(x)}" cy="${r(y-.3*s)}" r="${r(.38*s)}" fill="#EF8B21" clip-path="url(#${id})"/>
+      <path d="${hex(x,y,s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linejoin="round"/>
+      <path d="M${r(x-.66*s)},${r(y-.4*s)} L${r(x)},${r(y-.1*s)} L${r(x+.66*s)},${r(y-.4*s)} M${r(x)},${r(y-.1*s)} L${r(x)},${r(y+.68*s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linecap="round" stroke-linejoin="round"/></g>`;
+  }
+  // An isometric solid cube for the 3D keys.
+  function solidCube(x, y, s, ink) {
+    const P = (a, b) => `${r(x+a*s)},${r(y+b*s)}`;
+    return `<polygon points="${P(-.9,1)} ${P(.6,1)} ${P(1.6,.55)} ${P(.1,.55)}" fill="rgba(43,40,64,.18)"/>
+      <polygon points="${P(0,-1)} ${P(.866,-.5)} ${P(0,0)} ${P(-.866,-.5)}" fill="#FFFFFF"/>
+      <polygon points="${P(-.866,-.5)} ${P(0,0)} ${P(0,1)} ${P(-.866,.5)}" fill="#E9E6EF"/>
+      <polygon points="${P(.866,-.5)} ${P(0,0)} ${P(0,1)} ${P(.866,.5)}" fill="#C9C4D6"/>
+      <circle cx="${r(x)}" cy="${r(y-.5*s)}" r="${r(.2*s)}" fill="#EF8B21"/>
+      <path d="${hex(x,y,s)} M${P(-.866,-.5)} L${P(0,0)} L${P(.866,-.5)} M${P(0,0)} L${P(0,1)}" fill="none" stroke="${ink}" stroke-width="${r(s*.07)}" stroke-linejoin="round"/>`;
+  }
+  function scene(i, uid) {
+    const k = K[i], s = k.seg === '3d' ? 15 : 13, y = 62 - s, id = `c${uid}`;
+    let g = `<rect width="160" height="90" fill="${k.sky}"/>`;
+    if (k.stars) g += [[22,14],[58,9],[96,18],[134,11],[146,28],[12,32]].map(([a,b]) => `<circle cx="${a}" cy="${b}" r=".7" fill="#F7F7F4" opacity=".7"/>`).join('');
+    g += `<circle class="sun" cx="${k.sx}" cy="${k.sy}" r="9" fill="${k.sun}"/>`;
+    g += `<rect y="62" width="160" height="28" fill="${k.gr}"/>`;
+    if (k.seg === '2d') g += logoCube(id, k.cx, y, s, k.ink, k.ink === '#F7F7F4' ? 'none' : '#FFFFFF');
+    else if (k.seg === '3d') g += solidCube(k.cx, y, s, k.ink);
+    else {
+      // Motion keys: onion-skinned trail behind the moving cube.
+      g += [3,2,1].map(n => logoCube(`${id}g${n}`, k.cx - n*13, y, s, k.ink, 'none', .12 + (3-n)*.1)).join('');
+      g += [0,1,2].map(n => `<line x1="${k.cx-48}" x2="${k.cx-16}" y1="${r(y-6+n*6)}" y2="${r(y-6+n*6)}" stroke="${k.ink}" stroke-width=".6" opacity=".45"/>`).join('');
+      g += logoCube(id, k.cx, y, s, k.ink, k.ink === '#F7F7F4' ? 'none' : '#FFFFFF');
+    }
+    return `<svg viewBox="0 0 160 90" aria-hidden="true" focusable="false">${g}</svg>`;
+  }
+  const figure = (i, uid, withId) => `<figure class="frame"${withId ? ` id="scene-${String(i+1).padStart(2,'0')}"` : ''} data-i="${i}">
+      <div class="pic">${scene(i, uid)}</div>
+      <figcaption><span class="num">${withId ? '' : 'SC '}${String(i+1).padStart(2,'0')}</span><span class="tc">${tc(i*SCENE_SEC)}</span></figcaption></figure>`;
+
+  // Board: three rows, one service each.
+  const rows = [...document.querySelectorAll('#board .row')];
+  rows.forEach((row, ri) => row.insertAdjacentHTML('beforeend', [0,1,2,3].map(j => figure(ri*4 + j, `b${ri*4+j}`, true)).join('')));
+
+  // Service rows: their key frame large, the sequence small beneath.
+  document.querySelectorAll('.svc-art').forEach((el, si) => {
+    const key = +el.dataset.frames - 1, start = si * 4;
+    el.innerHTML = figure(key, `s${si}k`, false) + [0,1,2,3].map(j => figure(start + j, `s${si}${j}`, false)).join('');
+  });
+
+  // Isolate one service on the board; press again to show all.
+  const board = document.getElementById('board');
+  board.addEventListener('click', e => {
+    const b = e.target.closest('.seg'); if (!b) return;
+    const on = b.getAttribute('aria-pressed') !== 'true';
+    board.querySelectorAll('.seg').forEach(x => x.setAttribute('aria-pressed', 'false'));
+    rows.forEach(rw => rw.classList.toggle('sel', on && rw.dataset.seg === b.dataset.seg));
+    board.classList.toggle('isolate', on);
+    if (on) b.setAttribute('aria-pressed', 'true');
+  });
+
+  // Night frame for the contact close.
+  const ns = document.getElementById('night-scene'), phone = matchMedia('(max-width:620px)');
+  const drawNight = () => { const x = phone.matches ? 800 : 1230;
+  const st = Array.from({length: 46}, (_, n) => { const a = (n * 97.3) % 1600, b = (n * 53.7) % 520; return `<circle cx="${r(a)}" cy="${r(b)}" r="${n % 5 ? 1.2 : 2}" fill="#F7F7F4" opacity="${n % 3 ? .35 : .7}"/>`; }).join('');
+  ns.innerHTML = `${st}<circle class="sun" cx="${x}" cy="676" r="150" fill="#EF8B21"/><rect y="690" width="1600" height="210" fill="#24213A"/>
+    <line x1="0" x2="1600" y1="690" y2="690" stroke="#F7F7F4" stroke-opacity=".18" stroke-width="1" vector-effect="non-scaling-stroke"/>
+    ${logoCube('nc', x, 690 - 130, 130, '#F7F7F4', 'none')}`; };
+  drawNight(); phone.addEventListener('change', drawNight);
+
+  // Scroll timeline in the header: nineteen scenes, two seconds each.
+  const fill = document.querySelector('.timeline-fill'), head = document.querySelector('.timeline-head'), tcEl = document.querySelector('.timeline-tc');
+  let ticking = false;
+  const onScroll = () => { ticking = false;
+    const max = document.documentElement.scrollHeight - innerHeight, p = max > 0 ? Math.min(1, scrollY / max) : 0;
+    fill.style.width = `${p * 100}%`; head.style.left = `${p * 100}%`; tcEl.textContent = tc(p * 38);
+  };
+  addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, {passive: true});
+  onScroll();
+
+  // Playback: the cursor steps through SC 01–12 and each sun settles into its key.
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const frames = [...board.querySelectorAll('.frame')];
+  frames.forEach((f, i) => {
+    setTimeout(() => {
+      frames.forEach(x => x.classList.remove('on')); f.classList.add('on');
+      f.querySelector('.sun').animate([{transform: 'translateY(16px)'}, {transform: 'none'}], {duration: 900, easing: 'cubic-bezier(.16,1,.3,1)'});
+      if (i === frames.length - 1) setTimeout(() => f.classList.remove('on'), 700);
+    }, 300 + i * 170);
+  });
+})();
+</script>
 </body>
 </html>

@@ -6,7 +6,7 @@
 <meta name="color-scheme" content="light">
 <meta name="theme-color" content="#F7F7F4">
 <title>STUDIO ROOM 스튜디오룸 — 2D·3D 애니메이션 · 모션그래픽 | Studioroomkr</title>
-<meta name="description" content="스튜디오룸(STUDIO ROOM)은 2D 애니메이션, 3D 애니메이션, 모션그래픽을 만드는 서울의 제작 스튜디오입니다. HelloStoryboard, HelloFeedback, Hello Billiard, 테스노트, HelloWords 등 자체 앱도 만듭니다.">
+<meta name="description" content="스튜디오룸(STUDIO ROOM)은 2D 애니메이션, 3D 애니메이션, 모션그래픽을 만드는 서울의 제작 스튜디오입니다. HelloStoryboard, HelloFeedback, Hello Billiard, 테스노트, Hello Luck, HelloWords 등 자체 앱도 만듭니다.">
 <link rel="canonical" href="https://studioroomkr.com/">
 <link rel="icon" type="image/png" href="/assets/studio/favicon.png">
 <link rel="apple-touch-icon" href="/assets/studio/apple-touch-icon.png">
@@ -58,6 +58,11 @@ img,svg{display:block;max-width:100%}
 .cta-s{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-size:15px;font-weight:600;padding:9px 16px;border:1px solid var(--ink);border-radius:999px;transition:background .2s,color .2s}
 .cta-s::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--orange)}
 .cta-s:hover{background:var(--ink);color:var(--wall)}
+.lang{all:unset;cursor:pointer;font-size:14px;font-weight:650;color:var(--ink-2);padding:8px 2px;letter-spacing:.04em}
+.lang:hover{color:var(--ink)}
+.lang:focus-visible{outline:2px solid var(--orange-ink);outline-offset:3px}
+/* English mode: the Korean copy is swapped by script; drop the bilingual duplicates */
+:root[lang=en] .en,:root[lang=en] .lede-en,:root[lang=en] .ko-only{display:none}
 .timeline{position:relative;height:1px;background:var(--rule)}
 .timeline-fill{position:absolute;inset:0 auto 0 0;width:0;background:var(--orange)}
 .timeline-head{position:absolute;top:-4px;left:0;width:0;height:0;border-left:7px solid var(--orange);border-top:4.5px solid transparent;border-bottom:4.5px solid transparent;transform:translateX(-1px)}
@@ -204,7 +209,7 @@ footer{padding:0 0 48px}
 }
 @media (max-width:620px){
   body{font-size:16px}
-  .top-in{height:60px}
+  .top-in{height:60px;gap:16px}
   .brand img{height:16px}
   .brand svg{width:26px;height:29px}
   .timeline-tc{display:none}
@@ -244,6 +249,7 @@ footer{padding:0 0 48px}
       <li><a href="#studio">스튜디오</a></li>
     </ul>
     <a class="cta-s" href="#contact">제작 문의</a>
+    <button class="lang" type="button" id="lang-btn"></button>
   </div>
   <div class="timeline" aria-hidden="true"><div class="timeline-fill"></div><div class="timeline-head"></div><span class="timeline-tc tc">00:00:00:00</span></div>
 </header>
@@ -459,15 +465,21 @@ footer{padding:0 0 48px}
           <h3>테스노트 <span class="en" lang="en">TennisNote</span></h3>
           <p>대진표부터 점수·통계·회비까지, 테니스 클럽 운영을 한곳에서.</p>
         </a>
+        <a class="work" href="https://helloluck.studioroomkr.com/">
+          <div class="pic"><img src="/assets/studio/luck.webp" alt="Hello Luck — 네잎클로버가 달린 HELLO LUCK 로고" width="960" height="540" loading="lazy"></div>
+          <div class="meta"><span class="num">SC 17</span><span>iOS · Android</span></div>
+          <h3>Hello Luck</h3>
+          <p>풀밭에 비추면 AI가 네잎클로버를 찾아 주는 카메라.</p>
+        </a>
         <a class="work" href="https://studioroomkr.com/HW/topik/index.html">
           <div class="pic"><img src="/assets/studio/hellowords.webp" alt="HelloWords 로고" width="960" height="540" loading="lazy"></div>
-          <div class="meta"><span class="num">SC 17</span><span>Web · 포스트잇 단어카드</span></div>
+          <div class="meta"><span class="num">SC 18</span><span>Web · 포스트잇 단어카드</span></div>
           <h3>HelloWords</h3>
           <p>TOEIC·IELTS·HSK·JLPT·TOPIK 단어카드와 모바일 예문 학습.</p>
         </a>
         <a class="work" href="https://helloslime.studioroomkr.com/">
           <div class="pic"><img src="/assets/studio/slime.webp" alt="Hello Slime — 말랑한 슬라임 육각 퍼즐" width="960" height="540" loading="lazy"></div>
-          <div class="meta"><span class="num">SC 18</span><span>게임 · 출시 준비 중</span></div>
+          <div class="meta"><span class="num">SC 19</span><span>게임 · 출시 준비 중</span></div>
           <h3>Hello Slime</h3>
           <p>슬라임을 폴짝 넘어 한 칸씩, 1000층의 육각 퍼즐 모험.</p>
         </a>
@@ -479,7 +491,7 @@ footer{padding:0 0 48px}
     <div class="wrap studio">
       <h2 id="studio-title">애니메이션을 만들고,<br>필요한 도구도 만듭니다</h2>
       <div class="body">
-        <p>스튜디오룸은 2019년 서울에서 문을 연 애니메이션·모션그래픽 제작 스튜디오입니다. 움직임을 설계하는 일과 그 움직임을 담을 화면을 만드는 일을 함께 합니다.</p>
+        <p class="ko-only">스튜디오룸은 2019년 서울에서 문을 연 애니메이션·모션그래픽 제작 스튜디오입니다. 움직임을 설계하는 일과 그 움직임을 담을 화면을 만드는 일을 함께 합니다.</p>
         <p lang="en">STUDIO ROOM is an animation and motion graphics studio founded in Seoul in 2019. We design motion, and we build the software it lives in — from storyboard tools for creators to everyday apps.</p>
         <dl class="facts">
           <div><dt>설립</dt><dd>2019 · 서울</dd></div>
@@ -501,7 +513,7 @@ footer{padding:0 0 48px}
           <a class="mail" href="mailto:contact@studioroomkr.com">contact@studioroomkr.com</a>
         </div>
       </div>
-      <span class="tcs tc" aria-hidden="true">SC 19 · 00:00:36:00</span>
+      <span class="tcs tc" aria-hidden="true">SC 20 · 00:00:38:00</span>
     </div>
   </section>
 </main>
@@ -520,6 +532,151 @@ footer{padding:0 0 48px}
   </div></div>
 </footer>
 
+<script>
+// English for visitors whose browser isn't Korean. Korean stays in the HTML (crawlers read it);
+// every Korean string on the page is swapped from this table.
+(() => {
+  const EN = {
+    '본문 바로가기': 'Skip to content',
+    'STUDIO ROOM 홈': 'STUDIO ROOM home',
+    '서비스': 'Services', '작업': 'Work', '제작 과정': 'Process', '앱': 'Apps', '스튜디오': 'Studio',
+    '제작 문의': 'Contact',
+    '움직이는 이야기를 만듭니다': 'We make stories move',
+    '스튜디오룸은 2D 애니메이션, 3D 애니메이션, 모션그래픽을 만드는 서울의 제작 스튜디오입니다. 기획과 콘티에서 마지막 프레임까지 한 팀이 끝까지 만듭니다.': 'STUDIO ROOM is a Seoul production studio for 2D animation, 3D animation and motion graphics. One team carries every project from planning and storyboard to the final frame.',
+    '제작 문의하기': 'Start a project',
+    '대표 작업 세 장면 — 2D, 3D, 모션그래픽. 분류를 누르면 해당 장면만 봅니다.': 'Three lead scenes — 2D, 3D and motion graphics. Press a category to see only that scene.',
+    '모션': 'Motion',
+    '신비아파트 캐릭터들이 크리스마스 세트에 앉아 있는 장면': 'The Haunted House characters sitting on a Christmas set',
+    '단편 애니메이션 MyCoin — 후드티를 입은 아이 캐릭터의 3D 장면': 'Short animation MyCoin — a 3D scene of a child character in a hoodie',
+    '집게에 들린 초록 캐릭터와 CHARACTER 글자의 모션그래픽': 'Motion graphic of a green character held by a claw, with the word CHARACTER',
+    '신비아파트 초록 캐릭터의 2D 장면': '2D scene of a green character from The Haunted House',
+    '하트 눈의 노란 곰 이모티콘': 'Yellow bear emoticon with heart eyes',
+    '접시 위 웃는 만두 세 개의 2D 그림': '2D drawing of three smiling dumplings on a plate',
+    '후드티를 입은 아이 캐릭터의 3D 장면': '3D scene of a child character in a hoodie',
+    '손을 흔드는 후드티 차림 3D 캐릭터': '3D character in a hoodie, waving',
+    '갈대밭 속 새 캐릭터의 3D 장면': '3D scene of a bird character in the reeds',
+    '고스트워 게임 캐릭터 무리의 3D 렌더': '3D render of a group of Ghost War game characters',
+    '평범한 5월 5일 어린이날 손글씨 모션그래픽': 'Handwritten motion graphic for Children’s Day, May 5',
+    '소울파이터즈 스마트 토이 패키지 진열 장면': 'Soul Fighters smart toy packages on display',
+    '금빛 줄무늬 위 K-Documentary film 타이틀': 'K-Documentary film title over gold stripes',
+    '티빙 오리지널 테러맨 타이틀 로고': 'TVING Original Terror Man title logo',
+    '배틀 미블리언즈 타이틀 로고': 'Battle Marbliens title logo',
+    '뱀파이어소녀 달자 타이틀 로고': 'Vampire Girl Dalja title logo',
+    'After School Treasure Hunt 타이틀 로고': 'After School Treasure Hunt title logo',
+    '코코비 공룡 캐릭터들이 유령을 보고 놀라는 3D 장면': '3D scene of Cocobi dinosaur characters startled by a ghost',
+    '신비아파트 캐릭터들이 크리스마스 세트에 앉아 있는 3D 장면': '3D scene of The Haunted House characters sitting on a Christmas set',
+    '신비아파트 로고가 있는 연필 콘티 스타일 엔딩 화면': 'Pencil-storyboard-style ending screen with The Haunted House logo',
+    'HelloStoryboard 편집 화면 — 콘티와 타임라인': 'HelloStoryboard editor — storyboard and timeline',
+    'HelloFeedback — 영상 프레임 위에 남긴 메모와 그림': 'HelloFeedback — notes and drawings left on a video frame',
+    'Hello Billiard — 당구대 위 공 배치와 득점 경로': 'Hello Billiard — ball layout and scoring path on a billiard table',
+    '테스노트 TENNIS NOTE 로고': 'TennisNote logo',
+    'Hello Luck — 네잎클로버가 달린 HELLO LUCK 로고': 'Hello Luck — HELLO LUCK logo with a four-leaf clover',
+    'HelloWords 로고': 'HelloWords logo',
+    'Hello Slime — 말랑한 슬라임 육각 퍼즐': 'Hello Slime — a squishy slime hex puzzle',
+    // services
+    '네 가지 방식으로 움직입니다': 'Four ways we make things move',
+    '목적과 예산, 일정에 맞춰 2D·3D·모션그래픽·브랜드 디자인 가운데 가장 잘 맞는 방식을 함께 고르고, 필요하면 섞어서 만듭니다.': 'Together we pick what best fits your goal, budget and schedule — 2D, 3D, motion graphics or brand design — and mix them when it helps.',
+    '2D 애니메이션': '2D Animation', '3D 애니메이션': '3D Animation', '모션그래픽': 'Motion Graphics', '브랜드 디자인': 'Brand Design',
+    '선과 면으로 캐릭터와 이야기를 움직입니다.': 'Lines and shapes that bring characters and stories to life.',
+    '캐릭터 애니메이션': 'Character animation', '설명·홍보 영상': 'Explainer & promo videos', '광고 영상': 'Commercials', '콘티·애니매틱': 'Storyboards & animatics',
+    '공간과 빛 속에서 제품과 캐릭터를 보여줍니다.': 'Products and characters, shown in space and light.',
+    '3D 캐릭터': '3D characters', '제품 시각화': 'Product visualization', '공간·배경 연출': 'Environments & sets', '3D 모션': '3D motion',
+    '로고와 글자, 데이터가 리듬을 갖고 움직입니다.': 'Logos, type and data that move with rhythm.',
+    '브랜드·로고 모션': 'Brand & logo motion', '타이틀·자막 그래픽': 'Title & caption graphics', '인포그래픽': 'Infographics', 'UI·앱 모션': 'UI & app motion',
+    '타이틀 로고와 애니메이션 요소로 작품의 얼굴을 만듭니다.': 'Title logos and animation elements that give a show its face.',
+    '타이틀 로고': 'Title logos', '애니메이션 브랜드 요소': 'Animation brand elements', '오프닝·엔딩 그래픽': 'Opening & ending graphics',
+    '소울파이터즈 (Soul fighters) mobile game promotion': 'Soul fighters mobile game promotion',
+    // works
+    '화면 속에서 움직인 장면들': 'Selected animation work',
+    '캐릭터 3D 시리즈와 단편, 오프닝·엔딩, 게임 캐릭터 프로모션까지 스튜디오룸이 만든 애니메이션 작업 가운데 일부입니다.': 'A selection of STUDIO ROOM animation — 3D character series and shorts, openings and endings, and game character promotions.',
+    '3D · 단편 애니메이션': '3D · Short animation', '3D · 프로모션': '3D · Promotion', '3D · 게임 캐릭터 프로모션': '3D · Game character promotion',
+    '2D · 엔딩': '2D · Ending', '오프닝 · 엔딩': 'Opening · Ending', '티빙 오리지널 · 애니메이션 요소': 'TVING Original · Animation elements',
+    '신비아파트 4기 스페셜 엔딩': 'The Haunted House Season 4 Special Ending',
+    'Behance에서 전체 작업 보기': 'See all work on Behance',
+    // process
+    '첫 통화부터 마지막 프레임까지': 'From the first call to the final frame',
+    '장면이 정해지기 전에 타이밍을 먼저 맞춥니다. 콘티와 애니매틱으로 흐름을 확인한 뒤 본 작업에 들어가서 수정이 적습니다.': 'We set the timing before the scenes are final. Storyboards and animatics confirm the flow before production starts, so there are fewer revisions.',
+    '기획': 'Planning', '콘티': 'Storyboard', '디자인': 'Design', '애니메이션': 'Animation', '납품': 'Delivery',
+    '목표와 메시지, 길이, 일정, 쓰일 곳을 함께 정리합니다.': 'Together we pin down the goal, message, length, schedule and where it will run.',
+    '장면과 타이밍을 콘티와 애니매틱으로 먼저 보여드립니다.': 'You see the scenes and timing first, as storyboards and animatics.',
+    '캐릭터, 스타일 프레임, 색을 확정합니다.': 'We lock characters, style frames and color.',
+    '2D·3D 제작과 합성, 사운드를 입힙니다.': '2D/3D production, compositing and sound.',
+    '피드백을 반영해 쓰일 곳에 맞는 포맷으로 넘깁니다.': 'We apply your feedback and deliver in the formats each channel needs.',
+    // apps
+    '직접 만들어 출시한 앱': 'Apps we design and ship ourselves',
+    '영상 제작 현장에서 쓰는 도구부터 생활 속 앱까지, 스튜디오룸이 기획·디자인·개발을 모두 맡아 출시한 작업입니다.': 'From tools for video production to everyday apps — planned, designed, built and shipped by STUDIO ROOM.',
+    'iPad · Android 태블릿 · Windows · Mac': 'iPad · Android tablet · Windows · Mac',
+    '콘티부터 애니매틱까지, 한 프로그램에서.': 'From storyboard to animatic, in one app.',
+    'Windows · Android 태블릿 · iPad': 'Windows · Android tablet · iPad',
+    '영상을 프레임 단위로 멈추고, 그 자리에 메모와 그림을.': 'Pause a video frame by frame and leave notes and drawings right on it.',
+    '당구대 사진 한 장으로 공 배치와 득점 경로까지.': 'One photo of the table gives you the ball layout and scoring paths.',
+    '테스노트': 'TennisNote',
+    '대진표부터 점수·통계·회비까지, 테니스 클럽 운영을 한곳에서.': 'Brackets, scores, stats and dues — run your tennis club in one place.',
+    '풀밭에 비추면 AI가 네잎클로버를 찾아 주는 카메라.': 'Point it at the grass and on-device AI finds four-leaf clovers.',
+    'Web · 포스트잇 단어카드': 'Web · Sticky-note word cards',
+    'TOEIC·IELTS·HSK·JLPT·TOPIK 단어카드와 모바일 예문 학습.': 'TOEIC, IELTS, HSK, JLPT and TOPIK word cards, with example sentences on mobile.',
+    '게임 · 출시 준비 중': 'Game · Coming soon',
+    '슬라임을 폴짝 넘어 한 칸씩, 1000층의 육각 퍼즐 모험.': 'Hop over slimes one tile at a time — a 1,000-floor hex puzzle adventure.',
+    // studio
+    '애니메이션을 만들고,': 'We make animation,', '필요한 도구도 만듭니다': 'and the tools it needs',
+    '설립': 'Founded', '2019 · 서울': '2019 · Seoul', '분야': 'Fields', '2D · 3D · 모션그래픽 · 브랜드': '2D · 3D · Motion graphics · Brand', '문의': 'Contact',
+    // contact + footer
+    '다음 장면을 함께 만들어요.': 'Let’s make the next scene together.',
+    '만들고 싶은 영상의 목적과 길이, 일정, 참고 영상을 함께 보내주시면 검토가 빨라집니다.': 'Send us the purpose, length and schedule of your video, with any reference clips, and we can review it faster.',
+    '메일로 문의하기': 'Email us',
+    '하단 링크': 'Footer links',
+    '제작·앱 문의': 'Production & app inquiries',
+    'HelloWords 문의': 'HelloWords support',
+    '스튜디오룸 (Studioroom · Studioroomkr) · 대표 배성균 · 사업자등록번호 430-40-00774 · 통신판매업 신고 2026-서울강서-2604': 'STUDIO ROOM (Studioroom · Studioroomkr) · CEO Sungkyun Bae · Business Registration No. 430-40-00774 · Mail-order Business Report No. 2026-서울강서-2604',
+    'mailto:contact@studioroomkr.com?subject=%5B%EC%A0%9C%EC%9E%91%20%EB%AC%B8%EC%9D%98%5D%20': 'mailto:contact@studioroomkr.com?subject=%5BProject%20inquiry%5D%20',
+  };
+  const TITLE = {ko: document.title, en: 'STUDIO ROOM — 2D & 3D Animation · Motion Graphics | Studioroomkr'};
+
+  // Collect every swappable spot once: [apply(text)], with its Korean and English text.
+  const spots = [], missing = [];
+  const hangul = /[가-힣]/;
+  const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {acceptNode: n =>
+    n.parentElement.closest('script,style,.ko-only') ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT});
+  for (let n; (n = w.nextNode());) {
+    const k = n.nodeValue.trim(); if (!k) continue;
+    if (EN[k] != null) { const ko = n.nodeValue; spots.push(t => { n.nodeValue = t; }, ko, ko.replace(k, EN[k])); }
+    else if (hangul.test(k)) missing.push(k);
+  }
+  for (const el of document.querySelectorAll('[alt],[aria-label],a[href^="mailto:"]')) {
+    for (const a of ['alt', 'aria-label', 'href']) {
+      const k = el.getAttribute(a); if (!k) continue;
+      if (EN[k] != null) spots.push(t => el.setAttribute(a, t), k, EN[k]);
+      else if (a !== 'href' && hangul.test(k)) missing.push(k);
+    }
+  }
+  if (missing.length) console.warn('[lang] untranslated:', missing);
+
+  const btn = document.getElementById('lang-btn');
+  const set = lang => {
+    const en = lang === 'en';
+    for (let i = 0; i < spots.length; i += 3) spots[i](spots[i + (en ? 2 : 1)]);
+    document.documentElement.lang = lang; document.title = TITLE[lang];
+    btn.textContent = en ? '한국어' : 'EN';
+    btn.lang = en ? 'ko' : 'en';
+    btn.setAttribute('aria-label', en ? '한국어로 보기' : 'View in English');
+  };
+
+  let lang = new URLSearchParams(location.search).get('lang');
+  if (lang !== 'en' && lang !== 'ko') { try { lang = localStorage.getItem('sr-lang'); } catch (e) { lang = null; } }
+  if (lang !== 'en' && lang !== 'ko') {
+    // Crawlers keep the Korean page so search indexes stay Korean.
+    const bot = /bot|crawl|spider|slurp|yeti|preview/i.test(navigator.userAgent);
+    const first = (navigator.languages && navigator.languages[0]) || navigator.language || 'ko';
+    lang = bot || /^ko\b/i.test(first) ? 'ko' : 'en';
+  }
+  set(lang);
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.lang === 'en' ? 'ko' : 'en';
+    set(next);
+    try { localStorage.setItem('sr-lang', next); } catch (e) { /* storage blocked: choice lasts this visit */ }
+  });
+})();
+</script>
 <script>
 (() => {
   const FPS = 24;
@@ -560,12 +717,12 @@ footer{padding:0 0 48px}
     ${logoCube('nc', x, 690 - 130, 130, '#F7F7F4', 'none')}`; };
   drawNight(); phone.addEventListener('change', drawNight);
 
-  // Scroll timeline in the header: nineteen scenes, two seconds each.
+  // Scroll timeline in the header: twenty scenes, two seconds each.
   const fill = document.querySelector('.timeline-fill'), head = document.querySelector('.timeline-head'), tcEl = document.querySelector('.timeline-tc');
   let ticking = false;
   const onScroll = () => { ticking = false;
     const max = document.documentElement.scrollHeight - innerHeight, p = max > 0 ? Math.min(1, scrollY / max) : 0;
-    fill.style.width = `${p * 100}%`; head.style.left = `${p * 100}%`; tcEl.textContent = tc(p * 38);
+    fill.style.width = `${p * 100}%`; head.style.left = `${p * 100}%`; tcEl.textContent = tc(p * 40);
   };
   addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, {passive: true});
   onScroll();

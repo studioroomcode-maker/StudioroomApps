@@ -173,6 +173,7 @@ section{scroll-margin-top:80px}
 .contact{padding:0 0 clamp(56px,8vw,96px)}
 .night{position:relative;overflow:hidden;background:var(--night);color:var(--wall);min-height:min(78vh,640px);display:flex;align-items:center}
 .night svg.scene{position:absolute;inset:0;width:100%;height:100%}
+.night .mark{position:absolute;top:50%;right:max(var(--gutter),calc((100% - var(--max))/2 + var(--gutter)));width:clamp(160px,16vw,240px);height:auto;transform:translateY(-50%)}
 .night .copy{position:relative;padding:clamp(40px,7vw,96px) var(--gutter);max-width:var(--max);margin:0 auto;width:100%}
 .night h2{font-size:clamp(2.4rem,6vw,5rem);line-height:1.05;font-weight:720;letter-spacing:-.035em;max-width:12em;text-wrap:balance}
 .night .en{color:rgba(247,247,244,.72);display:block;margin-top:14px;font-size:clamp(1.05rem,1.6vw,1.3rem);font-weight:500;letter-spacing:-.005em}
@@ -205,6 +206,7 @@ footer{padding:0 0 48px}
   .works{grid-template-columns:repeat(2,minmax(0,1fr))}
   .reel .work:first-child{grid-row:auto}
   .nav{display:none}
+  .night .mark{top:auto;bottom:40px;width:110px;transform:none}
   .cta-s{margin-left:auto}
 }
 @media (max-width:620px){
@@ -219,7 +221,7 @@ footer{padding:0 0 48px}
   .facts{grid-template-columns:1fr}
   .foot{grid-template-columns:1fr}
   .foot-links{justify-content:flex-start}
-  .night{min-height:860px;align-items:flex-start}
+  .night{min-height:580px;align-items:flex-start}
 }
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
@@ -505,6 +507,12 @@ footer{padding:0 0 48px}
   <section class="contact" id="contact" aria-labelledby="contact-title">
     <div class="night">
       <svg class="scene" id="night-scene" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMax slice" aria-hidden="true"></svg>
+      <svg class="mark" viewBox="-1.1 -1.12 2.2 2.24" aria-hidden="true">
+        <defs><clipPath id="night-sun"><polygon points="-.71,-.42 0,-.11 .71,-.42 .71,-1 -.71,-1"/></clipPath></defs>
+        <path d="M0,-1 L.866,-.5 L.866,.5 L0,1 L-.866,.5 L-.866,-.5 Z" fill="#F7F7F4" stroke="#2B2840" stroke-width=".15" stroke-linejoin="round"/>
+        <circle cx="0" cy="-.02" r=".49" fill="#EF8B21" clip-path="url(#night-sun)"/>
+        <path d="M-.66,-.4 L0,-.1 L.66,-.4 M0,-.1 L0,.68" fill="none" stroke="#353148" stroke-width=".15" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
       <div class="copy">
         <h2 id="contact-title">다음 장면을 함께 만들어요.<span class="en" lang="en">Let’s make the next scene together.</span></h2>
         <p class="sub">만들고 싶은 영상의 목적과 길이, 일정, 참고 영상을 함께 보내주시면 검토가 빨라집니다.</p>
@@ -684,16 +692,7 @@ footer{padding:0 0 48px}
     return `00:${p(Math.floor(f / FPS / 60))}:${p(Math.floor(f / FPS) % 60)}:${p(f % FPS)}`; };
 
   const r = n => +n.toFixed(2);
-  const hex = (x, y, s) => `M${r(x)},${r(y-s)} L${r(x+.866*s)},${r(y-.5*s)} L${r(x+.866*s)},${r(y+.5*s)} L${r(x)},${r(y+s)} L${r(x-.866*s)},${r(y+.5*s)} L${r(x-.866*s)},${r(y-.5*s)} Z`;
 
-  // The logo cube: hexagon, Y edge, orange half-sun rising inside.
-  function logoCube(id, x, y, s, ink, fill, op = 1) {
-    return `<g opacity="${op}"><clipPath id="${id}"><polygon points="${r(x-.71*s)},${r(y-.42*s)} ${r(x)},${r(y-.11*s)} ${r(x+.71*s)},${r(y-.42*s)} ${r(x+.71*s)},${r(y-s)} ${r(x-.71*s)},${r(y-s)}"/></clipPath>
-      <path d="${hex(x,y,s)}" fill="${fill}"/>
-      <circle cx="${r(x)}" cy="${r(y-.02*s)}" r="${r(.49*s)}" fill="#EF8B21" clip-path="url(#${id})"/>
-      <path d="${hex(x,y,s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linejoin="round"/>
-      <path d="M${r(x-.66*s)},${r(y-.4*s)} L${r(x)},${r(y-.1*s)} L${r(x+.66*s)},${r(y-.4*s)} M${r(x)},${r(y-.1*s)} L${r(x)},${r(y+.68*s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linecap="round" stroke-linejoin="round"/></g>`;
-  }
   // Board: three rows, one service each.
   const rows = [...document.querySelectorAll('#board .row')];
 
@@ -708,18 +707,8 @@ footer{padding:0 0 48px}
     if (on) b.setAttribute('aria-pressed', 'true');
   });
 
-  // Night frame for the contact close.
-  const ns = document.getElementById('night-scene'), phone = matchMedia('(max-width:620px)');
-  const drawNight = () => { const x = phone.matches ? 800 : 1230;
-  // "slice" crops the top on wide screens: size the logo to the part of the 1600x900 scene that is visible.
-  const {width: W, height: H} = ns.getBoundingClientRect(), top = W && H ? 900 - H / Math.max(W / 1600, H / 900) : 0;
-  const s = Math.max(60, Math.min(130, (690 - top - 60) / 2));
-  const st = Array.from({length: 46}, (_, n) => { const a = (n * 97.3) % 1600, b = (n * 53.7) % 520; return `<circle cx="${r(a)}" cy="${r(b)}" r="${n % 5 ? 1.2 : 2}" fill="#F7F7F4" opacity="${n % 3 ? .35 : .7}"/>`; }).join('');
-  ns.innerHTML = `${st}<rect y="690" width="1600" height="210" fill="#24213A"/>
-    <line x1="0" x2="1600" y1="690" y2="690" stroke="#F7F7F4" stroke-opacity=".18" stroke-width="1" vector-effect="non-scaling-stroke"/>
-    ${logoCube('nc', x, 690 - s, s, '#353148', '#F7F7F4')}`; };
-  drawNight(); phone.addEventListener('change', drawNight);
-  let nightT; addEventListener('resize', () => { clearTimeout(nightT); nightT = setTimeout(drawNight, 150); });
+  // Night sky for the contact close.
+  document.getElementById('night-scene').innerHTML = Array.from({length: 46}, (_, n) => { const a = (n * 97.3) % 1600, b = (n * 53.7) % 620; return `<circle cx="${r(a)}" cy="${r(b)}" r="${n % 5 ? 1.2 : 2}" fill="#F7F7F4" opacity="${n % 3 ? .35 : .7}"/>`; }).join('');
 
   // Scroll timeline in the header: twenty scenes, two seconds each.
   const fill = document.querySelector('.timeline-fill'), head = document.querySelector('.timeline-head'), tcEl = document.querySelector('.timeline-tc');

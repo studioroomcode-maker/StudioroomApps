@@ -235,7 +235,7 @@ footer{padding:0 0 48px}
     <a class="brand" href="/" aria-label="STUDIO ROOM 홈">
       <svg viewBox="-1.1 -1.12 2.2 2.24" aria-hidden="true">
         <defs><clipPath id="logo-sun"><polygon points="-.71,-.42 0,-.11 .71,-.42 .71,-1 -.71,-1"/></clipPath></defs>
-        <circle cx="0" cy="-.3" r=".38" fill="#EF8B21" clip-path="url(#logo-sun)"/>
+        <circle cx="0" cy="-.02" r=".49" fill="#EF8B21" clip-path="url(#logo-sun)"/>
         <path d="M0,-1 L.866,-.5 L.866,.5 L0,1 L-.866,.5 L-.866,-.5 Z" fill="none" stroke="#353148" stroke-width=".15" stroke-linejoin="round"/>
         <path d="M-.66,-.4 L0,-.1 L.66,-.4 M0,-.1 L0,.68" fill="none" stroke="#353148" stroke-width=".15" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
@@ -690,7 +690,7 @@ footer{padding:0 0 48px}
   function logoCube(id, x, y, s, ink, fill, op = 1) {
     return `<g opacity="${op}"><clipPath id="${id}"><polygon points="${r(x-.71*s)},${r(y-.42*s)} ${r(x)},${r(y-.11*s)} ${r(x+.71*s)},${r(y-.42*s)} ${r(x+.71*s)},${r(y-s)} ${r(x-.71*s)},${r(y-s)}"/></clipPath>
       <path d="${hex(x,y,s)}" fill="${fill}"/>
-      <circle cx="${r(x)}" cy="${r(y-.3*s)}" r="${r(.38*s)}" fill="#EF8B21" clip-path="url(#${id})"/>
+      <circle cx="${r(x)}" cy="${r(y-.02*s)}" r="${r(.49*s)}" fill="#EF8B21" clip-path="url(#${id})"/>
       <path d="${hex(x,y,s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linejoin="round"/>
       <path d="M${r(x-.66*s)},${r(y-.4*s)} L${r(x)},${r(y-.1*s)} L${r(x+.66*s)},${r(y-.4*s)} M${r(x)},${r(y-.1*s)} L${r(x)},${r(y+.68*s)}" fill="none" stroke="${ink}" stroke-width="${r(s*.13)}" stroke-linecap="round" stroke-linejoin="round"/></g>`;
   }
@@ -711,11 +711,15 @@ footer{padding:0 0 48px}
   // Night frame for the contact close.
   const ns = document.getElementById('night-scene'), phone = matchMedia('(max-width:620px)');
   const drawNight = () => { const x = phone.matches ? 800 : 1230;
+  // "slice" crops the top on wide screens: size the logo to the part of the 1600x900 scene that is visible.
+  const {width: W, height: H} = ns.getBoundingClientRect(), top = W && H ? 900 - H / Math.max(W / 1600, H / 900) : 0;
+  const s = Math.max(60, Math.min(130, (690 - top - 60) / 2));
   const st = Array.from({length: 46}, (_, n) => { const a = (n * 97.3) % 1600, b = (n * 53.7) % 520; return `<circle cx="${r(a)}" cy="${r(b)}" r="${n % 5 ? 1.2 : 2}" fill="#F7F7F4" opacity="${n % 3 ? .35 : .7}"/>`; }).join('');
-  ns.innerHTML = `${st}<circle class="sun" cx="${x}" cy="676" r="150" fill="#EF8B21"/><rect y="690" width="1600" height="210" fill="#24213A"/>
+  ns.innerHTML = `${st}<rect y="690" width="1600" height="210" fill="#24213A"/>
     <line x1="0" x2="1600" y1="690" y2="690" stroke="#F7F7F4" stroke-opacity=".18" stroke-width="1" vector-effect="non-scaling-stroke"/>
-    ${logoCube('nc', x, 690 - 130, 130, '#F7F7F4', 'none')}`; };
+    ${logoCube('nc', x, 690 - s, s, '#353148', '#F7F7F4')}`; };
   drawNight(); phone.addEventListener('change', drawNight);
+  let nightT; addEventListener('resize', () => { clearTimeout(nightT); nightT = setTimeout(drawNight, 150); });
 
   // Scroll timeline in the header: twenty scenes, two seconds each.
   const fill = document.querySelector('.timeline-fill'), head = document.querySelector('.timeline-head'), tcEl = document.querySelector('.timeline-tc');

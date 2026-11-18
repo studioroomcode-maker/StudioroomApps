@@ -172,7 +172,6 @@ section{scroll-margin-top:80px}
 /* contact: the night frame */
 .contact{padding:0 0 clamp(56px,8vw,96px)}
 .night{position:relative;overflow:hidden;background:var(--night);color:var(--wall);min-height:min(78vh,640px);display:flex;align-items:center}
-.night svg.scene{position:absolute;inset:0;width:100%;height:100%}
 .night .mark{position:absolute;top:50%;right:max(var(--gutter),calc((100% - var(--max))/2 + var(--gutter)));width:clamp(160px,16vw,240px);height:auto;transform:translateY(-50%)}
 .night .copy{position:relative;padding:clamp(40px,7vw,96px) var(--gutter);max-width:var(--max);margin:0 auto;width:100%}
 .night h2{font-size:clamp(2.4rem,6vw,5rem);line-height:1.05;font-weight:720;letter-spacing:-.035em;max-width:12em;text-wrap:balance}
@@ -506,7 +505,6 @@ footer{padding:0 0 48px}
 
   <section class="contact" id="contact" aria-labelledby="contact-title">
     <div class="night">
-      <svg class="scene" id="night-scene" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMax slice" aria-hidden="true"></svg>
       <svg class="mark" viewBox="-1.1 -1.12 2.2 2.24" aria-hidden="true">
         <defs><clipPath id="night-sun"><polygon points="-.71,-.42 0,-.11 .71,-.42 .71,-1 -.71,-1"/></clipPath></defs>
         <path d="M0,-1 L.866,-.5 L.866,.5 L0,1 L-.866,.5 L-.866,-.5 Z" fill="#F7F7F4" stroke="#2B2840" stroke-width=".15" stroke-linejoin="round"/>
@@ -691,7 +689,6 @@ footer{padding:0 0 48px}
   const tc = s => { const f = Math.round(s * FPS); const p = n => String(n).padStart(2, '0');
     return `00:${p(Math.floor(f / FPS / 60))}:${p(Math.floor(f / FPS) % 60)}:${p(f % FPS)}`; };
 
-  const r = n => +n.toFixed(2);
 
   // Board: three rows, one service each.
   const rows = [...document.querySelectorAll('#board .row')];
@@ -707,8 +704,6 @@ footer{padding:0 0 48px}
     if (on) b.setAttribute('aria-pressed', 'true');
   });
 
-  // Night sky for the contact close.
-  document.getElementById('night-scene').innerHTML = Array.from({length: 46}, (_, n) => { const a = (n * 97.3) % 1600, b = (n * 53.7) % 620; return `<circle cx="${r(a)}" cy="${r(b)}" r="${n % 5 ? 1.2 : 2}" fill="#F7F7F4" opacity="${n % 3 ? .35 : .7}"/>`; }).join('');
 
   // Scroll timeline in the header: twenty scenes, two seconds each.
   const fill = document.querySelector('.timeline-fill'), head = document.querySelector('.timeline-head'), tcEl = document.querySelector('.timeline-tc');
